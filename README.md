@@ -25,7 +25,7 @@ A repo for themes I Stole from the rightful Owner.
 ## Patch 
 
 > [!IMPORTANT]
-> + Make sure you have [Hyprdots installed.](https://github.com/prasanthrangan/hyprdots)https://github.com/prasanthrangan/hyprdots
+> + Make sure you have [Hyprdots installed.](https://github.com/prasanthrangan/hyprdots)
 > + It is better to enclose each field with ' single qoutes '  to avoid problems
 
 
