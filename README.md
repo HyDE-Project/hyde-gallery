@@ -4,7 +4,7 @@ A repo for themes I Stole from the rightful Owner.
 
 ## Theme List
 
-| Theme-Theme | vsCode Theme Extension | Source |
+| Theme-Theme | vsCode Theme Extension | Owner |
 |------------|------------|------------| 
 | Catppuccin-Mocha | catppuccin.catppuccin-vsc~Catppuccin Mocha | https://github.com/prasanthrangan/hyprdots | 
 | Catppuccin-Latte | Catppuccin.catppuccin-vsc~Catppuccin Latte | https://github.com/prasanthrangan/hyprdots | 
