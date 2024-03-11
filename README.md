@@ -44,3 +44,11 @@ Hyprdots theme patch 'MacOS' 'https://github.com/kRHYME7/Hyprdots-gallery' 'davi
 ```
 Hyprdots theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyprdots-gallery' 'extensioncreator.windows-11-color-theme~Windows 11 Dark'
 ```
+
+
+
+
+# TODO
+
++ Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
++ Whatever comes to mind
