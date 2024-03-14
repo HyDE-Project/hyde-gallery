@@ -51,4 +51,5 @@ Hyprdots theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyprdots-gallery' 
 # TODO
 
 + Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
++ I am not planning to maintain all themes(Will try to use the original repo as source)   
 + Whatever comes to mind
