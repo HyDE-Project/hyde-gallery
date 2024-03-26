@@ -1,6 +1,9 @@
 # Hyprdots theme Gallery
 
-A repo for themes I Stole from the rightful Owner. 
++ A repo for themes I Stole from the rightful Owner. 
++ A Database for Hyprdots themes. I will try to include here all unmaintained themes. 
++ Actively maintained themes will be link to the owners repo.
++  ``` Hyprdots theme patch``` to spawn the Hyprdots gallery( Soon)
 
 ## Theme List
 
