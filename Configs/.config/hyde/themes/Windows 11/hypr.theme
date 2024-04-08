@@ -3,7 +3,11 @@ exec = gsettings set org.gnome.desktop.interface icon-theme 'Windows-11'
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'Windows-11'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-light'
 
-exec = gsettings set org.gnome.desktop.interface cursor-theme 'Cursor-Windows'
+exec = gsettings set org.gnome.desktop.interface cursor-theme 'Cursor-Windows' #sakcs
+
+#   exec = gsettings set org.gnome.desktop.interface cursor-theme 'Cursor-Windowss' #sakcs
+
+
 exec = gsettings set org.gnome.desktop.interface cursor-size 20
 exec = hyprctl setcursor Cursor-Windows 20
 
