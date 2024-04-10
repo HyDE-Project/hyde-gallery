@@ -1,7 +1,7 @@
 $HOME/.config/hypr/themes/colors.conf
 exec = gsettings set org.gnome.desktop.interface icon-theme 'Windows-11'
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'Windows-11'
-exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-light'
+exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
 exec = gsettings set org.gnome.desktop.interface cursor-theme 'Cursor-Windows' #sakcs
 
