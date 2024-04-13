@@ -15,7 +15,7 @@ general {
     col.inactive_border = rgba(A44185CC) rgba(012339CC) 45deg
     layout = dwindle
     resize_on_border = true
-} Configs/.config/hyde/themes/Mac OS/hypr.theme
+}
 
 group {
     col.border_active = rgba(2770C0FF) rgba(1E4C84FF) 45deg
