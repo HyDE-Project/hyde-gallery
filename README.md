@@ -25,24 +25,26 @@ A repo for themes I Stole from the rightful Owner.
 ## Patch 
 
 > [!IMPORTANT]
-> + Make sure you have [Hyprdots installed.](https://github.com/prasanthrangan/hyprdots)
+> + Make sure you have [HyDE installed.](https://github.com/prasanthrangan/hyprdots)
 > + It is better to enclose each field with ' single qoutes '  to avoid problems
 
+Execute ``` Hyde theme patch ``` without arguments 
+![image](https://github.com/kRHYME7/hyde-gallery/assets/53417443/878cec7b-6740-4ffa-8916-cc7cd52b4b07)
 
-
+Command with arguments:
 ```
-Hyprdots theme patch 'Theme-Name' 'https://github.com/kRHYME7/Hyprdots-gallery' 'id.extension~Extension theme name'
+Hyde theme patch 'Theme-Name' 'https://github.com/kRHYME7/Hyde-gallery' 'id.extension~Extension theme name'
 ```
 
 #### Example
 
 
 ```
-Hyprdots theme patch 'MacOS' 'https://github.com/kRHYME7/Hyprdots-gallery' 'davidbwaters.macos-modern-theme~MacOS Modern Dark - Xcode Modern'
+Hyde theme patch 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 'davidbwaters.macos-modern-theme~MacOS Modern Dark - Xcode Modern'
 ```
 
 ```
-Hyprdots theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyprdots-gallery' 'extensioncreator.windows-11-color-theme~Windows 11 Dark'
+Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery' 'extensioncreator.windows-11-color-theme~Windows 11 Dark'
 ```
 
 
