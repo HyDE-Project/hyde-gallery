@@ -1,5 +1,6 @@
 # This List all the available themes for hyde
-# This works like an ini file [Theme Name] followed by the variables LINK(mandatory), OWNER, and DESCRIPTION
+# This works like an .ini file 
+# Theme Name As section header and the variables LINK(mandatory), OWNER, and DESCRIPTION
 
 [Mac OS]
 LINK="https://github.com/kRHYME7/hyde-gallery/tree/Mac-Os"
