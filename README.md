@@ -10,14 +10,14 @@ A repo for themes I Stole from the rightful Owner.
 | Catppuccin-Mocha | https://github.com/prasanthrangan/hyde-themes | 
 | Cyberpunk-Edge | https://github.com/prasanthrangan/hyde-themes | 
 | Decay-Green | https://github.com/prasanthrangan/hyde-themes | 
-| Dracula | https://github.com/RAprogramm/Dracula | 
+| Dracula | https://github.com/RAprogramm/HyDe-Themes/tree/Dracula | 
 | Frosted-Glass | https://github.com/prasanthrangan/hyde-themes | 
 | Graphite-Mono | https://github.com/prasanthrangan/hyde-themes | 
 | Gruvbox-Retro | https://github.com/prasanthrangan/hyde-themes | 
 | Hackthebox | https://github.com/T-Crypt/hyprdots | 
 | MacOS | https://github.com/T-Crypt/hyprdots | 
 | Material-Sakura | https://github.com/prasanthrangan/hyde-themes | 
-| One-Dark | https://github.com/RAprogramm/One-Dark | 
+| One-Dark | https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark | 
 | Rose-Pine | https://github.com/prasanthrangan/hyde-themes | 
 | Synth-Wave | https://github.com/prasanthrangan/hyde-themes | 
 | Tokyo-Night | https://github.com/prasanthrangan/hyde-themes | 
