@@ -61,6 +61,7 @@ Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery' 'extensi
 
 # TODO
 
-+ Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
-+ I am not planning to maintain all themes(Will try to use the original repo as source)   
-+ Whatever comes to mind
+- [x] Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
+- [x] I am not planning to maintain all themes(Will try to use the original repo as source)   
+- [ ] Make this repo pretty
+- [ ] Whatever comes to mind 
