@@ -1,0 +1,11 @@
+$HOME/.config/waybar/theme.css|killall -SIGUSR2 waybar␍
+@define-color bar-bg rgba(4,0,0,0);
+
+@define-color main-bg rgba(4,0,0,0.8);
+@define-color main-fg rgba(240,170,170,0.8);
+
+@define-color wb-act-bg #A61212;
+@define-color wb-act-fg rgba(255,204,204,1);
+
+@define-color wb-hvr-bg rgba(125,75,75,0.4);
+@define-color wb-hvr-fg rgba(240,170,170,0.8);
