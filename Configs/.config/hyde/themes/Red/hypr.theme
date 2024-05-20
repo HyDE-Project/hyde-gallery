@@ -4,6 +4,10 @@ exec = gsettings set org.gnome.desktop.interface icon-theme 'besgnulinux-mono-re
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'terminus-red'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
+exec = hyprctl setcursor GoogleDot-Red 25
+exec = gsettings set org.gnome.desktop.interface cursor-theme 'GoogleDot-Red'
+exec = gsettings set org.gnome.desktop.interface cursor-size 2
+
 general {
     gaps_in = 2
     gaps_out = 5
