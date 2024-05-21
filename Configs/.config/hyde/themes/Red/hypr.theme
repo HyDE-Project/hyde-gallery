@@ -6,7 +6,7 @@ exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
 exec = hyprctl setcursor GoogleDot-Red 25
 exec = gsettings set org.gnome.desktop.interface cursor-theme 'GoogleDot-Red'
-exec = gsettings set org.gnome.desktop.interface cursor-size 2
+exec = gsettings set org.gnome.desktop.interface cursor-size 25
 
 general {
     gaps_in = 2
