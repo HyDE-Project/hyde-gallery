@@ -48,18 +48,18 @@ Execute ``` Hyde theme patch ``` without arguments
 
 Command with arguments:
 ```
-Hyde theme patch 'Theme-Name' 'https://github.com/kRHYME7/Hyde-gallery' 'id.extension~Extension theme name'
+Hyde theme patch 'Theme-Name' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
 
 #### Example
 
 
 ```
-Hyde theme patch 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 'davidbwaters.macos-modern-theme~MacOS Modern Dark - Xcode Modern'
+Hyde theme patch 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
 
 ```
-Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery' 'extensioncreator.windows-11-color-theme~Windows 11 Dark'
+Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
 
 
