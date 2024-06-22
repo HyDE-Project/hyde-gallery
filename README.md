@@ -19,6 +19,7 @@ A repo for themes I Stole from the rightful Owner.
 
 | Theme-Theme | Repository |
 |------------|------------| 
+| AbyssGreen | https://github.com/Itz-Abhishek-Tiwari/AbyssGreen | 
 | Catppuccin-Latte | https://github.com/prasanthrangan/hyde-themes | 
 | Catppuccin-Mocha | https://github.com/prasanthrangan/hyde-themes | 
 | Cyberpunk-Edge | https://github.com/prasanthrangan/hyde-themes | 
@@ -35,6 +36,7 @@ A repo for themes I Stole from the rightful Owner.
 | Synth-Wave | https://github.com/prasanthrangan/hyde-themes | 
 | Tokyo-Night | https://github.com/prasanthrangan/hyde-themes | 
 | Windows-11 | https://github.com/T-Crypt/hyprdots | 
+
 
 
 ## Patch 
