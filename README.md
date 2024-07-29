@@ -33,7 +33,7 @@ A repo for themes I Stole from the rightful Owner.
 | Material-Sakura | https://github.com/prasanthrangan/hyde-themes | 
 | One-Dark | https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark | 
 | Red-Stone | https://github.com/mahaveergurjar/Red-Stone | 
-| Rose-Pine | https://github.com/prasanthrangan/hyde-themes | 
+| Rosé Pine | https://github.com/prasanthrangan/hyde-themes | 
 | Sci-fi | https://github.com/KaranRaval123/Sci-fi | 
 | Synth-Wave | https://github.com/prasanthrangan/hyde-themes | 
 | Tokyo-Night | https://github.com/prasanthrangan/hyde-themes | 
