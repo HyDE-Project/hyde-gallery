@@ -32,6 +32,7 @@ A repo for themes I Stole from the rightful Owner.
 | MacOS | https://github.com/T-Crypt/hyprdots | 
 | Material-Sakura | https://github.com/prasanthrangan/hyde-themes | 
 | One-Dark | https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark | 
+| Paranoid-Sweet | https://github.com/rishav12s/Paranoid-Sweet |
 | Rain-Dark | https://github.com/rishav12s/Rain-Dark | 
 | Red-Stone | https://github.com/mahaveergurjar/Red-Stone | 
 | Rosé Pine | https://github.com/prasanthrangan/hyde-themes | 
