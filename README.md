@@ -76,4 +76,9 @@ Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery'
 - [x] Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
 - [x] I am not planning to maintain all themes(Will try to use the original repo as source)   
 - [ ] Make this repo pretty
-- [ ] Whatever comes to mind 
+- [ ] Whatever comes to mind
+- [ ] Make a script to generate the README 
+
+## Contributions
++ Contribute in making themes
++ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
