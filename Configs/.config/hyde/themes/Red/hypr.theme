@@ -1,12 +1,19 @@
 $HOME/.config/hypr/themes/colors.conf
 
-exec = gsettings set org.gnome.desktop.interface icon-theme 'besgnulinux-mono-red'
-exec = gsettings set org.gnome.desktop.interface gtk-theme 'terminus-red'
+$CURSOR-THEME=Night-Diamond-Red
+$GTK-THEME=hyde-red
+$ICON-THEME=besgnulinux-mono-red
+
+exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON-THEME'
+exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK-THEME'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
-exec = hyprctl setcursor GoogleDot-Red 25
-exec = gsettings set org.gnome.desktop.interface cursor-theme 'GoogleDot-Red'
-exec = gsettings set org.gnome.desktop.interface cursor-size 25
+#exec = hyprctl setcursor GoogleDot-Red 25
+#exec = gsettings set org.gnome.desktop.interface cursor-theme '$CURSOR-THEME'
+#exec = gsettings set org.gnome.desktop.interface cursor-size 25
+
+exec = Hyde cursor size 30 theme $CURSOR-THEME
+
 
 general {
     gaps_in = 2
@@ -46,6 +53,6 @@ decoration {
     }
 }
 
-blurls = waybar
+#blurls = waybar
 
 
