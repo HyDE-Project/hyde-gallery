@@ -1,4 +1,4 @@
-<div align = center>
+![image](https://github.com/user-attachments/assets/4dd11f2f-1749-46cb-9cbc-3faaed56a8fb)<div align = center>
     <a href="https://discord.gg/AYbJ9MJez7">
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">
     </a>
@@ -16,30 +16,29 @@
 A repo for themes I Stole from the rightful Owner. 
 
 ## Theme List
-
-| Theme-Theme | Repository |
-|------------|------------| 
-| AbyssGreen | https://github.com/Itz-Abhishek-Tiwari/AbyssGreen | 
-| Catppuccin-Latte | https://github.com/prasanthrangan/hyde-themes | 
-| Catppuccin-Mocha | https://github.com/prasanthrangan/hyde-themes | 
-| Cyberpunk-Edge | https://github.com/prasanthrangan/hyde-themes | 
-| Decay-Green | https://github.com/prasanthrangan/hyde-themes | 
-| Dracula | https://github.com/RAprogramm/HyDe-Themes/tree/Dracula | 
-| Frosted-Glass | https://github.com/prasanthrangan/hyde-themes | 
-| Graphite-Mono | https://github.com/prasanthrangan/hyde-themes | 
-| Gruvbox-Retro | https://github.com/prasanthrangan/hyde-themes | 
-| Hackthebox | https://github.com/T-Crypt/hyprdots | 
-| MacOS | https://github.com/T-Crypt/hyprdots | 
-| Material-Sakura | https://github.com/prasanthrangan/hyde-themes | 
-| One-Dark | https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark | 
-| Paranoid-Sweet | https://github.com/rishav12s/Paranoid-Sweet |
-| Rain-Dark | https://github.com/rishav12s/Rain-Dark | 
-| Red-Stone | https://github.com/mahaveergurjar/Red-Stone | 
-| Rosé Pine | https://github.com/prasanthrangan/hyde-themes | 
-| Sci-fi | https://github.com/KaranRaval123/Sci-fi | 
-| Synth-Wave | https://github.com/prasanthrangan/hyde-themes | 
-| Tokyo-Night | https://github.com/prasanthrangan/hyde-themes | 
-| Windows-11 | https://github.com/T-Crypt/hyprdots | 
+| Theme Name | DESCRIPTION | Link | Author |
+|------------|-------------|------|--------|
+| Mac OS     |             | https://github.com/kRHYME7/hyde-gallery/tree/Mac-Os | [T-Crypt](https://github.com/T-Crypt) |
+| Windows 11 |             | https://github.com/kRHYME7/hyde-gallery/tree/Windows-11 | [T-Crypt](https://github.com/T-Crypt) |
+| Hack the Box|             | https://github.com/kRHYME7/hyde-gallery/tree/Hack-the-Box | [T-Crypt](https://github.com/T-Crypt) |
+| One Dark   |             | https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark | [RAprogramm](https://github.com/RAprogramm) |
+| Dracula    |             | https://github.com/RAprogramm/HyDe-Themes/tree/Dracula | [RAprogramm](https://github.com/RAprogramm) |
+| Catppuccin Latte|             | https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte | [prasanthrangan](https://github.com/prasanthrangan) |
+| Catppuccin Mocha|             | https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Mocha | [prasanthrangan](https://github.com/prasanthrangan) |
+| Decay Green|             | https://github.com/prasanthrangan/hyde-themes/tree/Decay-Green | [prasanthrangan](https://github.com/prasanthrangan) |
+| Edge Runner|             | https://github.com/prasanthrangan/hyde-themes/tree/Edge-Runner | [prasanthrangan](https://github.com/prasanthrangan) |
+| Frosted Glass|             | https://github.com/prasanthrangan/hyde-themes/tree/Frosted-Glass | [prasanthrangan](https://github.com/prasanthrangan) |
+| Graphite Mono|             | https://github.com/prasanthrangan/hyde-themes/tree/Graphite-Mono | [prasanthrangan](https://github.com/prasanthrangan) |
+| Gruvbox Retro|             | https://github.com/prasanthrangan/hyde-themes/tree/Gruvbox-Retro | [prasanthrangan](https://github.com/prasanthrangan) |
+| Material Sakura|             | https://github.com/prasanthrangan/hyde-themes/tree/Material-Sakura | [prasanthrangan](https://github.com/prasanthrangan) |
+| Nordic Blue|             | https://github.com/prasanthrangan/hyde-themes/tree/Nordic-Blue | [prasanthrangan](https://github.com/prasanthrangan) |
+| Sci-fi      |             | https://github.com/KaranRaval123/Sci-fi | [KaranRaval123](https://github.com/KaranRaval123) |
+| Synth Wave  |             | https://github.com/prasanthrangan/hyde-themes/tree/Synth-Wave | [prasanthrangan](https://github.com/prasanthrangan) |
+| Tokyo Night |             | https://github.com/prasanthrangan/hyde-themes/tree/Tokyo-Night | [prasanthrangan](https://github.com/prasanthrangan) |
+| Rosé Pine  |             | https://github.com/prasanthrangan/hyde-themes/tree/Rose-Pine | [prasanthrangan](https://github.com/prasanthrangan) |
+| AbyssGreen  | AbyssGreen is a theme based on the Everforst color scheme | https://github.com/Itz-Abhishek-Tiwari/AbyssGreen | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| Red Stone  |             | https://github.com/mahaveergurjar/Red-Stone | [mahaveergurjar](https://github.com/mahaveergurjar) |
+| Rain Dark   | Cozy new Rain based theme for HyDE | https://github.com/rishav12s/Rain-Dark |  [yashranjan1](https://github.com/yashranjan1 ) |
 
 
 
