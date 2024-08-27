@@ -1,3 +1,4 @@
+#! WARNING this file is deprecated add the new theme entries to hyde-themes.json instead. 
 # This List all the available themes for hyde
 # This works like an .ini file 
 # Theme Name As section header and the variables LINK(mandatory), OWNER, and DESCRIPTION
@@ -10,7 +11,7 @@ DESCRIPTION=""
 [Windows 11]
 LINK="https://github.com/kRHYME7/hyde-gallery/tree/Windows-11"
 OWNER="https://github.com/T-Crypt"
-DESCRIPTION=""
+DESCRIPTION=""git p
 
 [Hack the Box]
 LINK="https://github.com/kRHYME7/hyde-gallery/tree/Hack-the-Box"
@@ -116,3 +117,8 @@ DESCRIPTION="Dark purple based theme for HyDE"
 LINK="https://github.com/rishav12s/Solarized-Dark"
 OWNER="https://github.com/rishav12s"
 DESCRIPTION="Solarized Dark based theme for HyDE"
+
+# ======================================================================
+# Do not add more entries here.
+# Themes should now be in ./hyde-themes.json 
+# ======================================================================
