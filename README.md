@@ -82,4 +82,6 @@ Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery'
 
 ## Contributions
 + Contribute in making themes
-+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
++ Share your theme to the gallery by adding an entry at the [hyde-themes.json](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and [README.md](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/README.md) table.💗
+
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
