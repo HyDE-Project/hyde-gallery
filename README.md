@@ -41,6 +41,7 @@ A repo for themes I Stole from the rightful Owner.
 | Rain Dark   | Cozy new Rain based theme for HyDE | https://github.com/rishav12s/Rain-Dark |  [yashranjan1](https://github.com/yashranjan1 ) |
 | Paranoid Sweet   | Dark purple based theme for HyDE | https://github.com/rishav12s/Paranoid-Sweet |  [rishav12s](https://github.com/rishav12s ) |
 | Solarized Dark   | Solarized Dark based theme for HyDE | https://github.com/rishav12s/Solarized-Dark |  [rishav12s](https://github.com/rishav12s ) |
+| Green Lush  | A ghibli based theme for Hyde  | https://github.com/abenezerw/Green-Lush |  [abenezerw](https://github.com/abenezerw ) |
 
 
 
