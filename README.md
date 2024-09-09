@@ -1,4 +1,4 @@
-<div align = center>
+![image](https://github.com/user-attachments/assets/deb4c11a-9423-4c26-aac7-7754c212621c)<div align = center>
     <a href="https://discord.gg/AYbJ9MJez7">
 <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">
     </a>
@@ -55,21 +55,22 @@ Execute ``` Hyde theme patch ``` without arguments
 
 Command with arguments:
 ```
-Hyde theme patch 'Theme-Name' 'https://github.com/kRHYME7/Hyde-gallery' 
+Hyde theme import 'Theme-Name' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
 
 #### Example
 
 
 ```
-Hyde theme patch 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
+Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
 
 ```
-Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery' 
+Hyde theme import 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
 
-
+> [!NOTE]
+> + "patch" will be deprecated and we will use "import" instead. 
 
 
 # TODO
@@ -82,4 +83,7 @@ Hyde theme patch 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery'
 
 ## Contributions
 + Contribute in making themes
-+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
++ Share your theme to the gallery by adding an entry at the [hyde-themes.json](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and [README.md](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/README.md) table.💗
++ Add a preview by making a theme directory and the preview image inside it.
+
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
