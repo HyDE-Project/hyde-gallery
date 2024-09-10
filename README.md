@@ -68,6 +68,15 @@ Borrowed without asking from their rightful owners...
 Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
 
+> [!NOTE]
+> Incase themes don't update archives. Code below will, by default update Gtk, Icons, Cursors & Font.
+
+```shell
+Hyde theme import Theme-Name /Path/to/Configs
+Hyde theme import Theme-Name https://github.com/User/Repository
+Hyde theme import Theme-Name https://github.com/User/Repository/tree/branch
+```
+
 # TODO
 
 - [x] Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
