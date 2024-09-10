@@ -13,10 +13,9 @@
 
 # Theme Gallery
 Borrowed without asking from their rightful owners...
-
 <div align="center">
-  <table><tr><td>
-
+  <table><tr><td>   
+      
 [![AbyssGreen](https://placehold.co/130x30/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/AbyssGreen)
 [![Catppuccin-Latte](https://placehold.co/130x30/dd7878/eff1f5?text=Catppuccin-Latte&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte)
 [![Catppuccin-Mocha](https://placehold.co/130x30/b4befe/11111b?text=Catppuccin-Mocha&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Mocha)
@@ -41,9 +40,7 @@ Borrowed without asking from their rightful owners...
 [![Synth-Wave](https://placehold.co/130x30/495495/ff7edb?text=Synth-Wave&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Synth-Wave)
 [![Tokyo-Night](https://placehold.co/130x30/7aa2f7/24283b?text=Tokyo-Night&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Tokyo-Night)
 [![Windows-11](https://placehold.co/130x30/277AE6/D2DCFD?text=Windows-11&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Windows-11)
-
-
-
+      
   </td></tr></table>
 </div>
 
@@ -76,9 +73,6 @@ Borrowed without asking from their rightful owners...
 
 *For more information, visit [prasanthrangan/hyde-themes](https://github.com/prasanthrangan/hyde-themes).
 
-
-
-
 ## Usage 
 
 > [!IMPORTANT]
@@ -91,11 +85,9 @@ Borrowed without asking from their rightful owners...
 
 > + Choose your theme
 ```
-
 ![image](https://github.com/abenezerw/hyde-gallery/blob/hyde-gallery/HydeThemes.png)
 
-
-#### Example
+#### Examples
 
 ```
 Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
@@ -116,9 +108,9 @@ Hyde theme import 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery'
 - [ ] Whatever comes to mind
 - [ ] Make a script to generate the README 
 
-## Contributions
-+ Contribute in making themes
-+ Share your theme to the gallery by adding an entry at the [hyde-themes.json](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and [README.md](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/README.md) table.💗
-+ Add a preview by making a theme directory and the preview image inside it.
+## Contributions for additional themes
++ You can make your own themes and add them to our collection
++ Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and then appending your theme to the [README.md](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/README.md) table.💗
++ Remember to also add a preview by making a theme directory and one preview image inside it.
 
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
