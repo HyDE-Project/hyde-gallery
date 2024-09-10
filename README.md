@@ -79,29 +79,23 @@ Borrowed without asking from their rightful owners...
 
 
 
-
-
-
-
-
-
-
-## Patch 
+## Usage 
 
 > [!IMPORTANT]
-> + Make sure you have [HyDE installed.](https://github.com/prasanthrangan/hyprdots)
-> + It is better to enclose each field with ' single qoutes '  to avoid problems
+> + Make sure you have installed [HyDE](https://github.com/prasanthrangan/hyprdots)
+> + And also [Hyde-cli](https://github.com/kRHYME7/Hyde-cli)
 
-Execute ``` Hyde theme patch ``` without arguments 
+```shell
+
+> + Execute "Hyde theme import" inside your terminal
+
+> + Choose your theme
+```
+
 ![image](https://github.com/kRHYME7/hyde-gallery/assets/53417443/878cec7b-6740-4ffa-8916-cc7cd52b4b07)
 
-Command with arguments:
-```
-Hyde theme import 'Theme-Name' 'https://github.com/kRHYME7/Hyde-gallery' 
-```
 
 #### Example
-
 
 ```
 Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
@@ -114,12 +108,11 @@ Hyde theme import 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery'
 > [!NOTE]
 > + "patch" will be deprecated and we will use "import" instead. 
 
-
 # TODO
 
 - [x] Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
 - [x] I am not planning to maintain all themes(Will try to use the original repo as source)   
-- [ ] Make this repo pretty
+- [x] Make this repo pretty
 - [ ] Whatever comes to mind
 - [ ] Make a script to generate the README 
 
