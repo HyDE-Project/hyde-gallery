@@ -87,18 +87,13 @@ Borrowed without asking from their rightful owners...
 ```
 ![image](https://github.com/abenezerw/hyde-gallery/blob/hyde-gallery/HydeThemes.png)
 
-#### Examples
+## Additional
 
+> [!IMPORTANT]
+> + You can also add arguments with single quotations ' ' for installing a precise theme
 ```
 Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
 ```
-
-```
-Hyde theme import 'Windows-11' 'https://github.com/kRHYME7/Hyde-gallery' 
-```
-
-> [!NOTE]
-> + "patch" will be deprecated and we will use "import" instead. 
 
 # TODO
 
