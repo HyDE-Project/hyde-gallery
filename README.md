@@ -16,7 +16,7 @@ Borrowed without asking from their rightful owners...
 
 | Theme | Description | Author |
 |------------|-------------|--------|
-| [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen)| AbyssGreen is a theme based on the Everforst color scheme  | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen)| AbyssGreen is a theme based on the Everforst color scheme  | [Itz-Abhishek](https://github.com/Itz-Abhishek-Tiwari) |
 | [![Catppuccin-Latte](https://placehold.co/180x50/dd7878/eff1f5?text=Catppuccin+Latte&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte)| Official Theme  | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Catppuccin-Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Mocha)| Official Theme   | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Decay-Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Decay-Green)| Official Theme   | [prasanthrangan](https://github.com/prasanthrangan) |
@@ -44,6 +44,8 @@ Borrowed without asking from their rightful owners...
 *All theme tags are linked to their corresponding repositories.
 
 *For more information, visit [prasanthrangan/hyde-themes](https://github.com/prasanthrangan/hyde-themes).
+
+
 
 ## Usage 
 
