@@ -58,18 +58,23 @@ Borrowed without asking from their rightful owners...
 ## Additional
 
 > [!TIP]
-> + You can also add Url-links with single quotations '  ' for installing a specific theme
-```
-Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
-```
-
-> [!NOTE]
-> Incase themes don't update archives. Code below will, by default update Gtk, Icons, Cursors & Font.
-
+> + You can also add Url-links or File path with single quotations '  ' for installing a specific theme
 ```shell
 Hyde theme import Theme-Name /Path/to/Configs
 Hyde theme import Theme-Name https://github.com/User/Repository
 Hyde theme import Theme-Name https://github.com/User/Repository/tree/branch
+```
+example
+```
+Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
+```
+
+
+> [!NOTE]
+> Incase themes have archive updates. export `FORCE_THEME_UPDATE=true` to update Gtk, Icons, Cursors & Font.
+
+```shell
+ export FORCE_THEME_UPDATE=true
 ```
 
 # TODO
