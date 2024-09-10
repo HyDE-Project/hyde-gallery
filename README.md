@@ -92,7 +92,7 @@ Borrowed without asking from their rightful owners...
 > + Choose your theme
 ```
 
-![image](https://github.com/kRHYME7/hyde-gallery/assets/53417443/878cec7b-6740-4ffa-8916-cc7cd52b4b07)
+![image](https://github.com/abenezerw/hyde-gallery/blob/hyde-gallery/HydeThemes.png)
 
 
 #### Example
