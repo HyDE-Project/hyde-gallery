@@ -29,6 +29,7 @@ Borrowed without asking from their rightful owners...
 | [![Rain-Dark](https://placehold.co/180x50/1E2233/822195?text=Rain+Dark&font=Oswald)](https://github.com/rishav12s/Rain-Dark)  | Cozy new Rain based theme   |  [yashranjan1](https://github.com/yashranjan1 ) |
 | [![Red-Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](https://github.com/mahaveergurjar/Red-Stone )  | Hot Red based theme  | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Rosé-Pine](https://placehold.co/180x50/c4a7e7/191724?text=Rosé+Pine&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Rose-Pine)  | Official Theme    | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Scarlet-Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](https://github.com/abenezerw/Scarlet-Night) | Hot-Red + Deep-Black  | [abenezerw](https://github.com/abenezerw ) |
 | [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci+fi&font=Oswald)](https://github.com/KaranRaval123/Sci-fi) | Sci-fi based theme       | [KaranRaval123](https://github.com/KaranRaval123) |
 | [![Solarized-Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](https://github.com/rishav12s/Solarized-Dark) | Solarized Dark based theme  |  [rishav12s](https://github.com/rishav12s ) |
 | [![Synth-Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Synth-Wave)    | Official Theme       | [prasanthrangan](https://github.com/prasanthrangan) |
