@@ -66,7 +66,7 @@ Hyde theme import Theme-Name https://github.com/User/Repository/tree/branch
 ```
 example
 ```
-Hyde theme import 'MacOS' 'https://github.com/HyDE-Project/Hyde-gallery' 
+Hyde theme import 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery' 
 ```
 
 
