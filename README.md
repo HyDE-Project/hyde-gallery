@@ -20,8 +20,8 @@ Borrowed without asking from their rightful owners...
 | [![Graphite-Mono](https://placehold.co/180x50/222222/D9D9D9?text=Graphite+Mono&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Graphite-Mono)| Official Theme     | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Green-Lush](https://placehold.co/180x50/89E574/153550?text=Green+Lush&font=Oswald)](https://github.com/abenezerw/Green-Lush)| A ghibli based theme   |   [abenezerw](https://github.com/abenezerw ) |
 | [![Gruvbox-Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Gruvbox-Retro)| Official Theme    | [prasanthrangan](https://github.com/prasanthrangan) |
-| [![Hack-the-Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)]( https://github.com/kRHYME7/hyde-gallery/tree/Hack-the-Box ) | Hacker based theme    | [T-Crypt](https://github.com/T-Crypt) |
-| [![Mac-OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/kRHYME7/hyde-gallery/tree/Mac-Os)| Official Theme     | [T-Crypt](https://github.com/T-Crypt) |
+| [![Hack-the-Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)]( https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box ) | Hacker based theme    | [T-Crypt](https://github.com/T-Crypt) |
+| [![Mac-OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os)| Official Theme     | [T-Crypt](https://github.com/T-Crypt) |
 | [![Material-Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Material-Sakura) | Official Theme     | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Nordic-Blue](https://placehold.co/180x50/7B98B8/CAD7E1?text=Nordic+Blue&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Nordic-Blue) | Official Theme   | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![One-Dark](https://placehold.co/180x50/1E212B/5B6B76?text=One+Dark&font=Oswald)](https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark)     | One Dark based theme        | [RAprogramm](https://github.com/RAprogramm) |
@@ -33,7 +33,7 @@ Borrowed without asking from their rightful owners...
 | [![Solarized-Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](https://github.com/rishav12s/Solarized-Dark) | Solarized Dark based theme  |  [rishav12s](https://github.com/rishav12s ) |
 | [![Synth-Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Synth-Wave)    | Official Theme       | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Tokyo-Night](https://placehold.co/180x50/7aa2f7/24283b?text=Tokyo+Night&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Tokyo-Night)  | Official Theme      | [prasanthrangan](https://github.com/prasanthrangan) |
-| [![Windows-11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/kRHYME7/hyde-gallery/tree/Windows-11)   | Official Theme        | [T-Crypt](https://github.com/T-Crypt) |
+| [![Windows-11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11)   | Official Theme        | [T-Crypt](https://github.com/T-Crypt) |
 
 *All theme tags are linked to their corresponding repositories.
 
@@ -45,7 +45,7 @@ Borrowed without asking from their rightful owners...
 
 > [!IMPORTANT]
 > + Make sure you have installed [HyDE](https://github.com/prasanthrangan/hyprdots)
-> + And also [Hyde-cli](https://github.com/kRHYME7/Hyde-cli)
+> + And also [Hyde-cli](https://github.com/HyDE-Project/Hyde-cli)
 
 ```shell
 
@@ -66,7 +66,7 @@ Hyde theme import Theme-Name https://github.com/User/Repository/tree/branch
 ```
 example
 ```
-Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery' 
+Hyde theme import 'MacOS' 'https://github.com/HyDE-Project/Hyde-gallery' 
 ```
 
 
@@ -87,7 +87,7 @@ Hyde theme import 'MacOS' 'https://github.com/kRHYME7/Hyde-gallery'
 
 ## Contributions for additional themes
 + You can make your own themes and add them to our collection
-+ Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and then appending your theme to the [README.md](https://github.com/kRHYME7/hyde-gallery/blob/hyde-gallery/README.md) table.💗
++ Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and then appending your theme to the [README.md](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/README.md) table.💗
 + Remember to also add a preview by making a theme directory and one preview image inside it.
 
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ) 
