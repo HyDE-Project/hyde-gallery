@@ -1,19 +1,19 @@
- [
+[
   {
     "THEME": "Mac OS",
-    "LINK": "https://github.com/kRHYME7/hyde-gallery/tree/Mac-Os",
+    "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os",
     "OWNER": "https://github.com/T-Crypt",
     "DESCRIPTION": ""
   },
   {
     "THEME": "Windows 11",
-    "LINK": "https://github.com/kRHYME7/hyde-gallery/tree/Windows-11",
+    "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11",
     "OWNER": "https://github.com/T-Crypt",
     "DESCRIPTION": ""
   },
   {
     "THEME": "Hack the Box",
-    "LINK": "https://github.com/kRHYME7/hyde-gallery/tree/Hack-the-Box",
+    "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box",
     "OWNER": "https://github.com/T-Crypt",
     "DESCRIPTION": ""
   },
@@ -115,7 +115,7 @@
   },
   {
     "THEME": "Red Stone",
-    "LINK": "https://github.com/mahaveergurjar/Red-Stone",
+    "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Red-Stone",
     "OWNER": "https://github.com/mahaveergurjar",
     "DESCRIPTION": ""
   },
@@ -143,11 +143,22 @@
     "OWNER": "https://github.com/abenezerw",
     "DESCRIPTION": "// A ghibli based theme for Hyde"
   },
-   {
+  {
+    "THEME": "Greenify",
+    "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify",
+    "OWNER": "https://github.com/mahaveergurjar",
+    "DESCRIPTION": "// Dark Green based theme for Hyde"
+  },
+  {
+    "THEME": "Monokai",
+    "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai",
+    "OWNER": "https://github.com/mahaveergurjar",
+    "DESCRIPTION": "// Monokai based theme for Hyde"
+  },
+    {
     "THEME": "Scarlet Night",
     "LINK": "https://github.com/abenezerw/Scarlet-Night",
     "OWNER": "https://github.com/abenezerw",
     "DESCRIPTION": "// Hot-Red + Deep-Black "
-  }  
+  } 
 ]
-
