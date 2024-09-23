@@ -1,4 +1,4 @@
- [
+[
   {
     "THEME": "Mac OS",
     "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os",
@@ -115,7 +115,7 @@
   },
   {
     "THEME": "Red Stone",
-    "LINK": "https://github.com/mahaveergurjar/Red-Stone",
+    "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Red-Stone",
     "OWNER": "https://github.com/mahaveergurjar",
     "DESCRIPTION": ""
   },
@@ -142,6 +142,17 @@
     "LINK": "https://github.com/abenezerw/Green-Lush",
     "OWNER": "https://github.com/abenezerw",
     "DESCRIPTION": "// A ghibli based theme for Hyde"
-  }  
+  },
+  {
+    "THEME": "Greenify",
+    "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify",
+    "OWNER": "https://github.com/mahaveergurjar",
+    "DESCRIPTION": "// Dark Green based theme for Hyde"
+  },
+  {
+    "THEME": "Monokai",
+    "LINK": "https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai",
+    "OWNER": "https://github.com/mahaveergurjar",
+    "DESCRIPTION": "// Monokai based theme for Hyde"
+  }
 ]
-
