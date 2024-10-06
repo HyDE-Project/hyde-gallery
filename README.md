@@ -59,7 +59,7 @@
 > + Choose your theme
 ```
 
-![image](https://github.com/abenezerw/hyde-gallery/blob/hyde-gallery/HydeThemes.png)
+![image](https://github.com/HyDE-Project/hyde-gallery/blob/43e6cce54698f24842ae2fbb7b80e79556a21e02/assets/HydeThemes.png)
 
 ## Additional
 
