@@ -11,6 +11,7 @@
 | Theme | Description | Author |
 | --- | --- | --- |
 | [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![Abyssal Wave](https://placehold.co/180x50/16161D/C8C093?text=Abyssal+Wave&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) | Dive into the deep, where elegance meets the infinite night. | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
 | [![Catppuccin Latte](https://placehold.co/180x50/dd7878/eff1f5?text=Catppuccin+Latte&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Catppuccin Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Mocha) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Decay Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Decay-Green) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
@@ -97,7 +98,7 @@ Hyde theme import 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery'
 ## Contributions for additional themes
 
 - You can make your own themes and add them to our collection
-- Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and genenerating the README.md by running the ` ./generate_readme.py ` script.
+- Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and genenerating the README.md by running the ` python generate_readme.py ` script.
 - Remember to also add a preview by making a theme directory and one preview image inside it.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ)
