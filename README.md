@@ -23,6 +23,7 @@
 | [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Gruvbox Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Gruvbox-Retro) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Hack the Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box) | Hacker based theme | [T-Crypt](https://github.com/T-Crypt) |
+| [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](https://github.com/saber-88/Ice-Age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
 | [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
 | [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Material-Sakura) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai) | Monokai based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
