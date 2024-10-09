@@ -98,7 +98,9 @@ Hyde theme import 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery'
 ## Contributions for additional themes
 
 - You can make your own themes and add them to our collection
-- Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file and genenerating the README.md by running the ` python generate_readme.py ` script.
+    1. Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file.
+    2. Create a directory with the "Theme Name" then add preview image. Please  lessen the compression by using jpg.
+    3. Genenerating the README.md by running the ` python generate_readme.py ` script.
 - Remember to also add a preview by making a theme directory and one preview image inside it.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ)
