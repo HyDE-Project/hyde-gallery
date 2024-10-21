@@ -6,13 +6,11 @@ $HOME/.config/hypr/themes/colors.conf
 #   |____|          \______  /|__|   / ____||   __/|__|  
 #                          \/        \/     |__|      
 
-exec = gsettings set org.gnome.desktop.interface icon-theme 'Papirus'
-exec = gsettings set org.gnome.desktop.interface gtk-theme 'Hackthebox'
-exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-
-exec = gsettings set org.gnome.desktop.interface cursor-theme 'HackCursor'
-exec = gsettings set org.gnome.desktop.interface cursor-size 20
-exec = hyprctl setcursor HackCursor 20
+$ICON_THEME=Papirus
+$GTK_THEME=Hackthebox
+$COLOR_SCHEME=prefer-dark
+$CURSOR_THEME=HackCursor
+$CURSOR_SIZE=20
 
 general {
     gaps_in = 8
