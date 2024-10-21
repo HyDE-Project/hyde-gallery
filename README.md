@@ -12,6 +12,7 @@
 | --- | --- | --- |
 | [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
 | [![Abyssal-Wave](https://placehold.co/180x50/16161D/C8C093?text=Abyssal-Wave&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) | Dive into the deep, where elegance meets the infinite night. | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![Bad Blood](https://placehold.co/180x50/030000/DF1010?text=Bad+Blood&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood) | Red & Black based theme. | [HyDE-Project](https://github.com/HyDE-Project) |
 | [![Catppuccin Latte](https://placehold.co/180x50/dd7878/eff1f5?text=Catppuccin+Latte&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Catppuccin Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Mocha) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Decay Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](https://github.com/prasanthrangan/hyde-themes/tree/Decay-Green) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
