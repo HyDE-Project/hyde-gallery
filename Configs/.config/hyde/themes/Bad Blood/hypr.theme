@@ -7,6 +7,20 @@ $COLOR_SCHEME=prefer-dark
 $CURSOR_THEME=Night-Diamond-Red
 $CURSOR_SIZE=30
 
+
+#? For anyone using the old implementaiton of hyprdots
+#? You can use the following commands to set the following
+#? This is not needed for the new implementation as this makes it slower
+
+# exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
+# exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
+# exec = gsettings set org.gnome.desktop.interface color-scheme '$COLOR_SCHEME'
+# 
+# exec = gsettings set org.gnome.desktop.interface cursor-theme '$CURSOR_THEME'
+# exec = gsettings set org.gnome.desktop.interface cursor-size $CURSOR_SIZE
+# exec = hyprctl setcursor $CURSOR_THEME $CURSOR_SIZE
+
+
 general {
     gaps_in = 2
     gaps_out = 5
