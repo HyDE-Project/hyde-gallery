@@ -10,7 +10,7 @@
 > This is not a standalone theme, needs [HyDe](https://github.com/prasanthrangan/hyprdots) installed...
 
 
-
+![alt text](preview.png)
 
 
 Installation
