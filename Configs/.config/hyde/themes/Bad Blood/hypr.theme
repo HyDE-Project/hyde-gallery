@@ -1,11 +1,11 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 # ~/.config/hypr/theme/theme.conf is an auto-generated file. Do not edit.
 
-$GTK-THEME=Bad-Blood
-$ICON-THEME=besgnulinux-mono-red
-$COLOR-SCHEME=prefer-dark
-$CURSOR-THEME=Night-Diamond-Red
-$CURSOR-SIZE=30
+$GTK_THEME=Bad-Blood
+$ICON_THEME=besgnulinux-mono-red
+$COLOR_SCHEME=prefer-dark
+$CURSOR_THEME=Night-Diamond-Red
+$CURSOR_SIZE=30
 
 general {
     gaps_in = 2
