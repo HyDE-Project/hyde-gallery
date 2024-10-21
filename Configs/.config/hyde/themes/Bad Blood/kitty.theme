@@ -1,0 +1,33 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
+# Kitty configuration file for Bad Blood theme
+
+foreground              #FF2222
+background              #040000
+selection_foreground    #FFFFFF
+selection_background    #4d0900
+cursor                  #FF0000 
+cursor_text_color       #FFFFFF
+
+active_tab_foreground     #FFFFFF
+active_tab_background     #FF6347
+inactive_tab_foreground   #FF6347
+inactive_tab_background   #800080
+search_results_foreground #FF0000
+search_results_background #FFFFFF 
+
+color0                   #000000
+color1                   #90002a
+color2                   #FF6347
+color3                   #C51046
+color4                   #FF69B4
+color5                   #DC143C
+color6                   #FFA07A
+color7                   #FFC080
+color8                   #800080
+color9                   #FF0033
+color10                  #FFA500
+color11                  #FF6347
+color12                  #C71585
+color13                  #FF1493
+color14                 #FF0000
+color15                 #FFA500
