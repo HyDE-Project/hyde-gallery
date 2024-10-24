@@ -286,7 +286,7 @@
     "DESCRIPTION": "Oxo Carbon based theme for Hyde",
     "COLORSCHEME": [
       "#161616",
-      "#FF7EB6"
+      "#EE5396"
     ]
   },
   {
@@ -307,6 +307,36 @@
     "COLORSCHEME": [
       "#030000",
       "#DF1010"
+    ]
+  },
+  {
+    "THEME": "Cat Latte",
+    "LINK": "https://github.com/rishav12s/Cat-Latte",
+    "OWNER": "https://github.com/rishav12s",
+    "DESCRIPTION": "Better Catppuccin-Latte that fixes the inconsistencies of the official theme",
+    "COLORSCHEME": [
+      "#EFF1F5",
+      "#DD7878"
+    ]
+  },
+  {
+    "THEME": "Monterey Frost",
+    "LINK": "https://github.com/rishav12s/Monterey-Frost",
+    "OWNER": "https://github.com/rishav12s",
+    "DESCRIPTION": "Mac-OS inspired dark theme",
+    "COLORSCHEME": [
+      "#3B4252",
+      "#D8DEE9"
+    ]
+  },
+  {
+    "THEME": "Pixel Dream",
+    "LINK": "https://github.com/rishav12s/Pixel-Dream",
+    "OWNER": "https://github.com/rishav12s",
+    "DESCRIPTION": "Pixel Art inspired theme",
+    "COLORSCHEME": [
+      "#282828",
+      "#EBDDB2"
     ]
   }
 ]
