@@ -1,4 +1,4 @@
-$HOME/.config/waybar/theme.css|killall -SIGUSR2 waybar␍
+$HOME/.config/waybar/theme.css|${scrDir}/wbarconfgen.sh
 @define-color bar-bg #1F2326;
 
 @define-color main-bg #ECEFF4;
