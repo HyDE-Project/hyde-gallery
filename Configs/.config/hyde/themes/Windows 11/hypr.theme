@@ -33,6 +33,8 @@ group {
 decoration {
     # Blur rules
     rounding = 8
+    active_opacity = 0.95
+    inactive_opacity = 0.85
 
     # Blur
     blur {
@@ -49,12 +51,12 @@ decoration {
     enabled = true
     range = 30
     render_power = 3
-    color = rgba(01010144)
+    #color = rgba(01010144)
     }
     # Dim
-    #dim_inactive = false
-    #dim_strength = 0.1
-    #dim_special = 0
+    dim_inactive = false
+    dim_strength = 0.1
+    dim_special = 0
 }
 
 
