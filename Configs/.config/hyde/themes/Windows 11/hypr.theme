@@ -1,4 +1,4 @@
-$HOME/.config/hypr/themes/colors.conf
+$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
 $ICON_THEME = Windows-11
 $GTK_THEME = Windows-11
