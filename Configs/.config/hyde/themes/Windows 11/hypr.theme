@@ -1,5 +1,4 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
-
 $ICON_THEME = Windows-11
 $GTK_THEME = Windows-11
 $COLOR_SCHEME = prefer-dark
@@ -53,9 +52,9 @@ decoration {
     color = rgba(01010144)
     }
     # Dim
-    dim_inactive = false
-    dim_strength = 0.1
-    dim_special = 0
+    #dim_inactive = false
+    #dim_strength = 0.1
+    #dim_special = 0
 }
 
 
