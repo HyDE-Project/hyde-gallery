@@ -1,10 +1,10 @@
-$HOME/.config/hypr/themes/colors.conf
-#  ___________      _________                        __   
-#  \__    ___/      \_   ___ \_______ ___.__._______/  |_ 
+$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
+#  ___________      _________                        __
+#  \__    ___/      \_   ___ \_______ ___.__._______/  |_
 #   |    |  ______ /    \  \/\_  __ <   |  |\____ \   __\
-#   |    | /_____/ \     \____|  | \/\___  ||  |_> >  |  
-#   |____|          \______  /|__|   / ____||   __/|__|  
-#                          \/        \/     |__|      
+#   |    | /_____/ \     \____|  | \/\___  ||  |_> >  |
+#   |____|          \______  /|__|   / ____||   __/|__|
+#                          \/        \/     |__|
 
 $ICON_THEME=Papirus
 $GTK_THEME=Hackthebox
@@ -19,7 +19,7 @@ $CURSOR_SIZE=20
 exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
 exec = gsettings set org.gnome.desktop.interface color-scheme '$COLOR_SCHEME'
-# 
+#
 exec = gsettings set org.gnome.desktop.interface cursor-theme '$CURSOR_THEME'
 exec = gsettings set org.gnome.desktop.interface cursor-size $CURSOR_SIZE
 exec = hyprctl setcursor $CURSOR_THEME $CURSOR_SIZE
@@ -43,8 +43,6 @@ group {
 
 decoration {
     rounding = 3
-    drop_shadow = false
-
     blur {
         enabled = yes
         size = 4
@@ -52,6 +50,9 @@ decoration {
         new_optimizations = on
         ignore_opacity = on
         xray = false
+    }
+    shadow {
+    enabled = false
     }
 }
 
