@@ -7,14 +7,12 @@ $CURSOR_THEME = Cursor-Windows
 $CURSOR_SIZE = 20
 
 # Optional
-exec = gsettings set org.gnome.desktop.interface icon-theme 'Windows-11'
-exec = gsettings set org.gnome.desktop.interface gtk-theme 'Windows-11'
-exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-exec = gsettings set org.gnome.desktop.interface cursor-theme 'Cursor-Windows' #sakcs
-
-
-exec = gsettings set org.gnome.desktop.interface cursor-size 20
-exec = hyprctl setcursor Cursor-Windows 20
+exec = gsettings set org.gnome.desktop.interface icon-theme $ICON_THEME
+exec = gsettings set org.gnome.desktop.interface gtk-theme $GTK_THEME
+exec = gsettings set org.gnome.desktop.interface color-scheme $COLOR_SCHEME
+exec = gsettings set org.gnome.desktop.interface cursor-theme $CURSOR_THEME #sakcs
+exec = gsettings set org.gnome.desktop.interface cursor-size $CURSOR_SIZE
+exec = hyprctl setcursor $CURSOR_THEME $CURSOR_SIZE
 
 general {
     gaps_in = 4
