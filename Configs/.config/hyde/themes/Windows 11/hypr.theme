@@ -1,11 +1,16 @@
 $HOME/.config/hypr/themes/colors.conf
+
+$ICON_THEME = Windows-11
+$GTK_THEME = Windows-11
+$COLOR_SCHEME = prefer-dark
+$CURSOR_THEME = Cursor-Windows
+$CURSOR_SIZE = 20
+
+# Optional
 exec = gsettings set org.gnome.desktop.interface icon-theme 'Windows-11'
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'Windows-11'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-
 exec = gsettings set org.gnome.desktop.interface cursor-theme 'Cursor-Windows' #sakcs
-
-#   exec = gsettings set org.gnome.desktop.interface cursor-theme 'Cursor-Windowss' #sakcs
 
 
 exec = gsettings set org.gnome.desktop.interface cursor-size 20
@@ -31,7 +36,7 @@ group {
 decoration {
     # Blur rules
     rounding = 8
-    
+
     # Blur
     blur {
     	enabled = yes
@@ -41,13 +46,14 @@ decoration {
     	ignore_opacity = false
     	xray = false
     }
-    
+
     # Shadow
-    drop_shadow = yes
-    shadow_range = 30
-    shadow_render_power = 3
-    col.shadow = rgba(01010144)
-    
+        shadow {
+    enabled = true
+    range = 30
+    render_power = 3
+    color = rgba(01010144)
+    }
     # Dim
     dim_inactive = false
     dim_strength = 0.1
