@@ -1,4 +1,4 @@
-$HOME/.config/hypr/themes/colors.conf
+$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
 $SDDM-THEME=MacOS
 $GTK-THEME = MacOS
@@ -38,14 +38,17 @@ group {
 
 decoration {
     rounding = 9
-    drop_shadow = false
-    shadow_ignore_window = true
-    shadow_offset = 0 0
-    shadow_range = 15
-    shadow_render_power = 1
-    col.shadow = 0x80ffffff
     active_opacity = 0.85
     inactive_opacity = 0.85
+
+    shadow {
+        enabled = true
+        ignore_window = true
+        offset = 0 0
+        range = 15
+        render_power = 1
+        color = 0x80ffffff
+    }
 
     blur {
         enabled = yes
