@@ -51,7 +51,7 @@
   },
   {
     "THEME": "Catppuccin Latte",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Latte",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -61,7 +61,7 @@
   },
   {
     "THEME": "Catppuccin Mocha",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Catppuccin-Mocha",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -71,7 +71,7 @@
   },
   {
     "THEME": "Decay Green",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Decay-Green",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -81,7 +81,7 @@
   },
   {
     "THEME": "Edge Runner",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Edge-Runner",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -91,7 +91,7 @@
   },
   {
     "THEME": "Frosted Glass",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Frosted-Glass",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -101,7 +101,7 @@
   },
   {
     "THEME": "Graphite Mono",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Graphite-Mono",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -111,7 +111,7 @@
   },
   {
     "THEME": "Gruvbox Retro",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Gruvbox-Retro",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -121,7 +121,7 @@
   },
   {
     "THEME": "Material Sakura",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Material-Sakura",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -131,7 +131,7 @@
   },
   {
     "THEME": "Nordic Blue",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Nordic-Blue",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -151,7 +151,7 @@
   },
   {
     "THEME": "Synth Wave",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Synth-Wave",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -161,7 +161,7 @@
   },
   {
     "THEME": "Tokyo Night",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Tokyo-Night",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -171,7 +171,7 @@
   },
   {
     "THEME": "Rosé Pine",
-    "LINK": "https://github.com/prasanthrangan/hyde-themes/tree/Rose-Pine",
+    "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine",
     "OWNER": "https://github.com/prasanthrangan",
     "DESCRIPTION": "Official Theme",
     "COLORSCHEME": [
@@ -347,6 +347,16 @@
     "COLORSCHEME": [
       "#082451",
       "#D32D6B"
+    ]
+  },
+  {
+    "THEME": "Vanta Black",
+    "LINK": "https://github.com/rishav12s/Vanta-Black",
+    "OWNER": "https://github.com/rishav12s",
+    "DESCRIPTION": "Vanta Black inspired theme having the deepest blacks",
+    "COLORSCHEME": [
+      "#000000",
+      "#FFFFFF"
     ]
   }
 ]
