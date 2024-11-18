@@ -36,8 +36,7 @@ jobs:
           git add README.md  # Specify the README file or use . for all changes
           git commit -m "Update README from GitHub Actions" || echo "No changes to commit"
 
-      # - name: Push changes
-      #   run: git push origin hyde-gallery  # Push changes back to the branch
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token for authentication
-
+      - name: Push changes
+        run: git push origin hyde-gallery  # Push changes back to the branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token for authentication
