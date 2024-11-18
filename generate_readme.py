@@ -6,7 +6,7 @@ import json
 with open('hyde-themes.json', 'r') as file:
     data = json.load(file)
 
-#Sort the data list based on theme name
+# Sort the data list based on theme name
 # data.sort(key=lambda theme: theme.get("THEME", "N/A"))
 # Sort the data list based on the first element of COLORSCHEME
 data.sort(key=lambda theme: theme.get("COLORSCHEME", ["#000000"])[0])
