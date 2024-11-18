@@ -56,4 +56,5 @@ else:
 with open('README.md', 'w', encoding='utf-8') as readme_file:
     readme_file.write(updated_readme_content)
 
+
 print("README.md has been updated with the generated Markdown table.")
