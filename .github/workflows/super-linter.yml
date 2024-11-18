@@ -40,3 +40,4 @@ jobs:
       #   run: git push origin hyde-gallery  # Push changes back to the branch
       #   env:
       #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token for authentication
+
