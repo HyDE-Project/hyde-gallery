@@ -10,7 +10,9 @@ with open('hyde-themes.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Sort the data list based on theme name
-data.sort(key=lambda theme: theme.get("THEME", "N/A"))
+# data.sort(key=lambda theme: theme.get("THEME", "N/A"))
+# Sort the data list based on the first element of COLORSCHEME
+data.sort(key=lambda theme: theme.get("COLORSCHEME", ["#000000"])[0])
 
 # Initialize the Markdown table
 MARKDOWN_TABLE = "| Theme | Description | Author |\n"
@@ -25,8 +27,7 @@ for theme in data:
     colorscheme = theme.get("COLORSCHEME", ["#000000", "#FFFFFF"])
 
     # Generate the image link
-    image_link = f"https://placehold.co/180x50/{colorscheme[0][1:]}/{
-        colorscheme[1][1:]}?text={theme_name.replace(' ', '+')}&font=Oswald"
+    image_link = f"https://placehold.co/180x50/{colorscheme[0][1:]}/{colorscheme[1][1:]}?text={theme_name.replace(' ', '+')}&font=Oswald"
 
     # Add the row to the table
     MARKDOWN_TABLE += f"| [![{theme_name}]({image_link})]({link}) | {
@@ -55,6 +56,5 @@ else:
 # Write the updated content back to README.md
 with open('README.md', 'w', encoding='utf-8') as readme_file:
     readme_file.write(updated_readme_content)
-
 
 print("README.md has been updated with the generated Markdown table.")
