@@ -30,8 +30,7 @@ for theme in data:
     image_link = f"https://placehold.co/180x50/{colorscheme[0][1:]}/{colorscheme[1][1:]}?text={theme_name.replace(' ', '+')}&font=Oswald"
 
     # Add the row to the table
-    MARKDOWN_TABLE += f"| [![{theme_name}]({image_link})]({link}) | {
-        description} | [{author}]({theme.get('OWNER', '#')}) |\n"
+    MARKDOWN_TABLE += f"| [![{theme_name}]({image_link})]({link}) | {description} | [{author}]({theme.get('OWNER', '#')}) |\n"
 
 # Add the footer note and end marker
 MARKDOWN_TABLE += "\n<!-- TABLE_END -->"
