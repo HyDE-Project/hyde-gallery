@@ -1,0 +1,42 @@
+name: Update README on Push
+
+on:
+  push:
+    branches:
+      - hyde-gallery
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.x"  # Use the latest Python version
+
+
+    - name: Pull the latest changes from remote main branch
+      run: |
+        git pull --no-rebase
+
+    - name: Run Python script to update README
+      run: |
+        python generate_readme.py
+
+    - name: Commit changes
+      run: |
+        # Configure git user info
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+
+        # Add and commit the changes to README.md
+        git add README.md
+        git commit -m "Update README with new data"
+
+    - name: Push changes to remote repository
+      run: |
+        git push
