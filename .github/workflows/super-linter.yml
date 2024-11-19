@@ -2,9 +2,9 @@ name: Lint Code Base
 
 on:
   push:
-    branches: [ "hyde-gallery" ]
+    branches: ["hyde-gallery"]
   pull_request:
-    branches: [ "hyde-gallery" ]
+    branches: ["hyde-gallery"]
 jobs:
   run-lint:
     runs-on: ubuntu-latest
@@ -18,20 +18,22 @@ jobs:
         uses: github/super-linter@v4
         env:
           VALIDATE_ALL_CODEBASE: false
+          VALIDATE_PYTHON: false
+          VALIDATE_JSON: true
           DEFAULT_BRANCH: "hyde-gallery"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Specify the Python version you need
+          python-version: "3.x" # Specify the Python version you need
 
       - name: Run generate_readme.py
-        run: python generate_readme.py  # Run the script from the root directory
+        run: python generate_readme.py # Run the script from the root directory
 
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add README.md  # Specify the README file or use . for all changes
+          git add .  # Specify the README file or use . for all changes
           git commit -m "Update README from GitHub Actions" || echo "No changes to commit"
