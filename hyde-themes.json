@@ -1,5 +1,15 @@
 [
   {
+    "THEME": "Bad Blood",
+    "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood",
+    "OWNER": "https://github.com/HyDE-Project",
+    "DESCRIPTION": "Red & Black based theme.",
+    "COLORSCHEME": [
+      "#030000",
+      "#DF1010"
+    ]
+  },
+  {
     "THEME": "Mac OS",
     "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os",
     "OWNER": "https://github.com/T-Crypt",
@@ -297,16 +307,6 @@
     "COLORSCHEME": [
       "#00c1e4cc",
       "#0E2840B3"
-    ]
-  },
-  {
-    "THEME": "Bad Blood",
-    "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood",
-    "OWNER": "https://github.com/HyDE-Project",
-    "DESCRIPTION": "Red & Black based theme.",
-    "COLORSCHEME": [
-      "#030000",
-      "#DF1010"
     ]
   },
   {
