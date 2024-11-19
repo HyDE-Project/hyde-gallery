@@ -1,5 +1,6 @@
 #!/bin/env python3
 """"This is a script to generate a Markdown table for the README.md file"""
+import os
 import json
 
 # Load JSON data from file
@@ -79,7 +80,8 @@ else:
         + MD_TABLE
     )
 
-import os
+if not os.path.exists("README.md"):
+    os.chmod("README.md", 0o666)
 
 # Check if the script has write permissions for README.md
 if os.access("README.md", os.W_OK):
@@ -89,5 +91,3 @@ if os.access("README.md", os.W_OK):
     print("README.md has been updated with the generated Markdown table.")
 else:
     print("Permission denied: 'README.md'. Please check the file permissions.")
-
-print("README.md has been updated with the generated Markdown table.")
