@@ -5,6 +5,7 @@ on:
     branches: ["hyde-gallery"]
   pull_request:
     branches: ["hyde-gallery"]
+
 jobs:
   run-lint:
     runs-on: ubuntu-latest
@@ -31,15 +32,30 @@ jobs:
       - name: Run generate_readme.py
         run: python generate_readme.py # Run the script from the root directory
 
-      - name: Commit changes
+      - name: Check for README changes
+        id: check_changes
+        run: |
+          git fetch origin hyde-gallery
+          git diff --exit-code README.md || echo "README has changed"
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.README_has_changed == 'README has changed'
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add .  # Specify the README file or use . for all changes
-          git commit -m "Update README from GitHub Actions" || echo "No changes to commit"
-          # Extract branch name from ref
-          BRANCH_NAME=${GITHUB_REF#refs/heads/}
-          echo "Branch name: $BRANCH_NAME"
-          git push origin HEAD:$BRANCH_NAME || echo "No changes to push"
+          git checkout -b update-readme-branch
+          git add README.md
+          git commit -m "Update README from GitHub Actions"
+          git push origin update-readme-branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Pull Request
+        if: steps.check_changes.outputs.README_has_changed == 'README has changed'
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update README from GitHub Actions"
+          branch: update-readme-branch
+          title: "Update README"
+          body: "This PR updates the README file."
