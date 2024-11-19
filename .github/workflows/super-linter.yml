@@ -18,7 +18,7 @@ jobs:
         uses: github/super-linter@v4
         env:
           VALIDATE_ALL_CODEBASE: false
-          VALIDATE_PYTHON_PYLINT: false
+          VALIDATE_PYTHON: false
           VALIDATE_JSON: true
           DEFAULT_BRANCH: "hyde-gallery"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
