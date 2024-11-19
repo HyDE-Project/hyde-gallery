@@ -10,10 +10,12 @@
 <!-- TABLE_START -->
 | Theme | Description | Author |
 | --- | --- | --- |
+| [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![Abyssal-Wave](https://placehold.co/180x50/16161D/C8C093?text=Abyssal-Wave&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) | Dive into the deep, where elegance meets the infinite night. | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](https://github.com/cyb3rgh0u1/Another-World) | Step beyond the horizon, where reality fades and imagination reigns supreme. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![Vanta Black](https://placehold.co/180x50/000000/FFFFFF?text=Vanta+Black&font=Oswald)](https://github.com/rishav12s/Vanta-Black) | Vanta Black inspired theme having the deepest blacks | [rishav12s](https://github.com/rishav12s) |
 | [![Bad Blood](https://placehold.co/180x50/030000/DF1010?text=Bad+Blood&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood) | Red & Black based theme. | [HyDE-Project](https://github.com/HyDE-Project) |
 | [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
-| [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](https://github.com/cyb3rgh0u1/Another-World) | Step beyond the horizon, where reality fades and imagination reigns supreme. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![Hack the Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box) | Hacker based theme | [T-Crypt](https://github.com/T-Crypt) |
 | [![Oxo Carbon](https://placehold.co/180x50/161616/EE5396?text=Oxo+Carbon&font=Oswald)](https://github.com/rishav12s/Oxo-Carbon) | Oxo Carbon based theme for Hyde | [rishav12s](https://github.com/rishav12s) |
 | [![Decay Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
