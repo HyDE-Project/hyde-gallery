@@ -37,6 +37,9 @@ jobs:
           git config --local user.email "action@github.com"
           git add .  # Specify the README file or use . for all changes
           git commit -m "Update README from GitHub Actions" || echo "No changes to commit"
-          git push origin ${{ github.head_ref }} || echo "No changes to push"
+          # Extract branch name from ref
+          BRANCH_NAME=${GITHUB_REF#refs/heads/}
+          echo "Branch name: $BRANCH_NAME"
+          git push origin HEAD:$BRANCH_NAME || echo "No changes to push"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
