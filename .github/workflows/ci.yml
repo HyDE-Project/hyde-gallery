@@ -39,4 +39,5 @@ jobs:
 
     - name: Push changes to remote repository
       run: |
-        git push
+        git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+
