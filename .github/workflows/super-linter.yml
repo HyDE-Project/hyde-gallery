@@ -37,13 +37,6 @@ jobs:
           git config --local user.email "action@github.com"
           git add .  # Specify the README file or use . for all changes
           git commit -m "Update README from GitHub Actions" || echo "No changes to commit"
-
-      - name: Commit changed files
-        uses: stefanzweifel/git-auto-commit-action@v2.3.0
-        with:
-          commit_message: Generate README Table
-          branch: ${{ github.head_ref }}
-          commit_options: "--no-verify --signoff"
-          file_pattern: README.md
+          git push origin ${{ github.head_ref }} || echo "No changes to push"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
