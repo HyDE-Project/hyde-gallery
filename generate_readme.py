@@ -79,8 +79,15 @@ else:
         + MD_TABLE
     )
 
-# Write the updated content back to README.md
-with open("README.md", "w", encoding="utf-8") as readme_file:
-    readme_file.write(updated_readme_content)
+import os
+
+# Check if the script has write permissions for README.md
+if os.access("README.md", os.W_OK):
+    # Write the updated content back to README.md
+    with open("README.md", "w", encoding="utf-8") as readme_file:
+        readme_file.write(updated_readme_content)
+    print("README.md has been updated with the generated Markdown table.")
+else:
+    print("Permission denied: 'README.md'. Please check the file permissions.")
 
 print("README.md has been updated with the generated Markdown table.")
