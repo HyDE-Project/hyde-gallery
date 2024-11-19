@@ -9,7 +9,25 @@ with open('hyde-themes.json', 'r', encoding='utf-8') as file:
 # Sort the data list based on theme name
 # data.sort(key=lambda theme: theme.get("THEME", "N/A"))
 # Sort the data list based on the first element of COLORSCHEME
-data.sort(key=lambda theme: theme.get("COLORSCHEME", ["#000000"])[0])
+
+
+def hex_to_intensity(hex_color):
+    """Convert hex color to intensity"""
+    hex_color = hex_color.lstrip('#')
+    r = int(hex_color[0:2], 16)
+    g = int(hex_color[2:4], 16)
+    b = int(hex_color[4:6], 16)
+    return (0.299 * r +
+            0.587 * g +
+            0.114 * b)
+
+
+data.sort(key=lambda theme: hex_to_intensity(
+    theme.get("COLORSCHEME", ["#000000"])[0]
+    if isinstance(theme.get("COLORSCHEME"), list) and
+    len(theme.get("COLORSCHEME")) > 0
+    else "#000000"
+))
 
 # Initialize the Markdown table
 MD_TABLE = "| Theme | Description | Author |\n"
@@ -24,9 +42,11 @@ for theme in data:
     colorscheme = theme.get("COLORSCHEME", ["#000000", "#FFFFFF"])
 
     # Generate the image link
-    image_link = f"https://placehold.co/180x50/{colorscheme[0][1:]}/{
-        colorscheme[1][1:]}?text={theme_name.replace(' ', '+')}&font=Oswald"
-
+    BASE_URL = "https://placehold.co/180x50"
+    color1 = colorscheme[0][1:]
+    color2 = colorscheme[1][1:]
+    text = theme_name.replace(' ', '+')
+    image_link = f"{BASE_URL}/{color1}/{color2}?text={text}&font=Oswald"
     # Add the row to the table
     MD_TABLE += f"| [![{theme_name}]({image_link})]({link}) | {
         description} | [{author}]({theme.get('OWNER', '#')}) |\n"
