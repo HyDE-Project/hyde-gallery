@@ -38,6 +38,11 @@ jobs:
           git commit -m "Update README with new data"
         fi
 
+    - name: Debug authentication
+      run: |
+        echo "Testing push permissions"
+        git push --dry-run https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+
     - name: Push changes to remote repository
       if: success()  # Ensures the step only runs if previous steps succeeded
       run: |
