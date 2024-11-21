@@ -27,17 +27,19 @@ jobs:
       run: |
         python generate_readme.py
 
-    - name: Commit changes
+    - name: Commit changes if any
       run: |
-        # Configure git user info
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-
-        # Add and commit the changes to README.md
+        git config --local user.name "github-actions"
+        git config --local user.email "github-actions@github.com"
         git add README.md
-        git commit -m "Update README with new data"
+        if git diff-index --cached --quiet HEAD; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update README with new data"
+        fi
 
     - name: Push changes to remote repository
+      if: success()  # Ensures the step only runs if previous steps succeeded
       run: |
         git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
 
