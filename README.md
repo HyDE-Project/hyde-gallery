@@ -25,6 +25,7 @@
 | [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](https://github.com/rishav12s/Pixel-Dream) | Pixel Art inspired theme | [rishav12s](https://github.com/rishav12s) |
 | [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai) | Monokai based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Dracula](https://placehold.co/180x50/2B2E3B/607988?text=Dracula&font=Oswald)](https://github.com/RAprogramm/HyDe-Themes/tree/Dracula) | Dracula based theme | [RAprogramm](https://github.com/RAprogramm) |
+| [![Eternal Arctic](https://placehold.co/180x50/2E3440/88C0D0?text=Eternal+Arctic&font=Oswald)](https://github.com/rishav12s/Eternal-Arctic) | Serene Nord-inspired theme having frosty aesthetic blues | [rishav12s](https://github.com/rishav12s) |
 | [![Solarized Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](https://github.com/rishav12s/Solarized-Dark) | Solarized Dark based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Gruvbox Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
@@ -34,7 +35,7 @@
 | [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](https://github.com/abenezerw/Scarlet-Night) | Hot-Red + Deep-Black | [abenezerw](https://github.com/abenezerw) |
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red-Stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
-| [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
+| [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
 | [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
 | [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](https://github.com/saber-88/Ice-Age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
 | [![Nordic Blue](https://placehold.co/180x50/7B98B8/CAD7E1?text=Nordic+Blue&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
