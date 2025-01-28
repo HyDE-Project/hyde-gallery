@@ -367,7 +367,7 @@
     "COLORSCHEME": [
       "#11111B",
       "#6AA9C9"
-     ]
+    ]
   },
   {
     "THEME": "Eternal Arctic",
@@ -377,7 +377,7 @@
     "COLORSCHEME": [
       "#2E3440",
       "#88C0D0"
-     ]
+    ]
   },
   {
     "THEME": "Ever Blushing",
@@ -387,6 +387,16 @@
     "COLORSCHEME": [
       "#141b1e",
       "#67b0e8"
-     ]
-  }  
+    ]
+  },
+  {
+    "THEME": "BlueSky",
+    "LINK": "https://github.com/richen604/BlueSky",
+    "OWNER": "https://github.com/richen604",
+    "DESCRIPTION": "A serene theme inspired by bright cloudy skies",
+    "COLORSCHEME": [
+      "#294052",
+      "#AACBF0"
+    ]
+  }
 ]
