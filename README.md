@@ -49,6 +49,7 @@
 | [![Edge Runner](https://placehold.co/180x50/fada16/000000?text=Edge+Runner&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Cat Latte](https://placehold.co/180x50/EFF1F5/DD7878?text=Cat+Latte&font=Oswald)](https://github.com/rishav12s/Cat-Latte) | Better Catppuccin-Latte that fixes the inconsistencies of the official theme | [rishav12s](https://github.com/rishav12s) |
+| [![BlueSky](https://placehold.co/180x50/294052/AACBF0?text=BlueSky&font=Oswald)](https://github.com/richen604/BlueSky) | A serene theme inspired by bright cloudy skies | [richen604](https://github.com/richen604) |
 
 <!-- TABLE_END -->
 
