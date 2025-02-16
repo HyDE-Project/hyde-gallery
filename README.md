@@ -36,7 +36,7 @@
 | [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci-fi&font=Oswald)](https://github.com/KaranRaval123/Sci-fi) | Sci-fi based theme | [KaranRaval123](https://github.com/KaranRaval123) |
 | [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](https://github.com/abenezerw/Scarlet-Night) | Hot-Red + Deep-Black | [abenezerw](https://github.com/abenezerw) |
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
-| [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red-Stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
+| [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red_Stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
 | [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
 | [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](https://github.com/saber-88/Ice-Age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
