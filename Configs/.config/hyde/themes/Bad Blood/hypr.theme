@@ -61,4 +61,5 @@ decoration {
     }
 }
 
-#blurls = waybar
+layerrule = blur,waybar
+layerrule = blurpopups,waybar
