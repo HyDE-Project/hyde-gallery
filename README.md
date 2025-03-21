@@ -30,12 +30,13 @@
 | [![Solarized Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](https://github.com/rishav12s/Solarized-Dark) | Solarized Dark based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Gruvbox Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![BlueSky](https://placehold.co/180x50/294052/AACBF0?text=BlueSky&font=Oswald)](https://github.com/richen604/BlueSky) | A serene theme inspired by bright cloudy skies | [richen604](https://github.com/richen604) |
 | [![Monterey Frost](https://placehold.co/180x50/3B4252/D8DEE9?text=Monterey+Frost&font=Oswald)](https://github.com/rishav12s/Monterey-Frost) | Mac-OS inspired dark theme | [rishav12s](https://github.com/rishav12s) |
 | [![Paranoid Sweet](https://placehold.co/180x50/821595/51ABAB?text=Paranoid+Sweet&font=Oswald)](https://github.com/rishav12s/Paranoid-Sweet) | Dark purple based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci-fi&font=Oswald)](https://github.com/KaranRaval123/Sci-fi) | Sci-fi based theme | [KaranRaval123](https://github.com/KaranRaval123) |
 | [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](https://github.com/abenezerw/Scarlet-Night) | Hot-Red + Deep-Black | [abenezerw](https://github.com/abenezerw) |
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
-| [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red-Stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
+| [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red_Stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
 | [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
 | [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](https://github.com/saber-88/Ice-Age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
@@ -49,7 +50,6 @@
 | [![Edge Runner](https://placehold.co/180x50/fada16/000000?text=Edge+Runner&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Cat Latte](https://placehold.co/180x50/EFF1F5/DD7878?text=Cat+Latte&font=Oswald)](https://github.com/rishav12s/Cat-Latte) | Better Catppuccin-Latte that fixes the inconsistencies of the official theme | [rishav12s](https://github.com/rishav12s) |
-| [![BlueSky](https://placehold.co/180x50/294052/AACBF0?text=BlueSky&font=Oswald)](https://github.com/richen604/BlueSky) | A serene theme inspired by bright cloudy skies | [richen604](https://github.com/richen604) |
 
 <!-- TABLE_END -->
 
