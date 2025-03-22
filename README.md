@@ -69,7 +69,7 @@
 
 ```shell
 
-> + Execute "Hyde theme import" inside your terminal
+> + Execute "theme.import.py" inside your terminal
 
 > + Choose your theme
 ```
@@ -83,15 +83,15 @@
 > - You can also add Url-links or File path with single quotations ' ' for installing a specific theme
 
 ```shell
-Hyde theme import Theme-Name /Path/to/Configs
-Hyde theme import Theme-Name https://github.com/User/Repository
-Hyde theme import Theme-Name https://github.com/User/Repository/tree/branch
+theme.patch.sh Theme-Name /Path/to/Configs
+theme.patch.sh Theme-Name https://github.com/User/Repository
+theme.patch.sh Theme-Name https://github.com/User/Repository/tree/branch
 ```
 
 example
 
 ```
-Hyde theme import 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery'
+theme.patch.sh 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery'
 ```
 
 > [!NOTE]
