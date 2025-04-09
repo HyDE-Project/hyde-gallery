@@ -3,7 +3,6 @@ $ICON_THEME = Windows-11
 $GTK_THEME = Windows-11
 $COLOR_SCHEME = prefer-dark
 $CURSOR_THEME = Cursor-Windows
-$CURSOR_SIZE = 20
 
 # Optional
 exec = gsettings set org.gnome.desktop.interface icon-theme $ICON_THEME
