@@ -72,7 +72,7 @@
 
 ```shell
 
-> + Execute "theme.import.py" inside your terminal
+> + Execute `hydectl theme import` inside your terminal
 
 > + Choose your theme
 ```
@@ -86,15 +86,16 @@
 > - You can also add Url-links or File path with single quotations ' ' for installing a specific theme
 
 ```shell
-theme.patch.sh Theme-Name /Path/to/Configs
-theme.patch.sh Theme-Name https://github.com/User/Repository
-theme.patch.sh Theme-Name https://github.com/User/Repository/tree/branch
+hydectl theme import --name "Theme-Name" --url "/Path/to/Configs"
+hydectl theme import --name "Theme Name" --url https://github.com/User/Repository
+hydectl theme import --name "Theme-Name" --url "https://github.com/User/Repository/tree/branch"
 ```
+
 
 example
 
 ```
-theme.patch.sh 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery'
+hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Project/Hyde-gallery'
 ```
 
 > [!NOTE]
