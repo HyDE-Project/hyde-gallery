@@ -10,8 +10,10 @@
 <!-- TABLE_START -->
 | Theme | Description | Author |
 | --- | --- | --- |
+| [![Code Garden](https://placehold.co/180x50/000000/FFFFFF?text=Code+Garden&font=Oswald)](https://github.com/jacobfranco/Code-Garden) | A sleek and transparent, color-agnostic theme. | [jacobfranco](https://github.com/jacobfranco) |
 | [![Vanta Black](https://placehold.co/180x50/000000/FFFFFF?text=Vanta+Black&font=Oswald)](https://github.com/rishav12s/Vanta-Black) | Vanta Black inspired theme having the deepest blacks | [rishav12s](https://github.com/rishav12s) |
 | [![Bad Blood](https://placehold.co/180x50/030000/DF1010?text=Bad+Blood&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood) | Red & Black based theme. | [HyDE-Project](https://github.com/HyDE-Project) |
+| [![Obsidian-Purple](https://placehold.co/180x50/07040C/BDA8DC?text=Obsidian-Purple&font=Oswald)](https://github.com/amit-0i/Obsidian-Purple) | Where mystery meets elegance. | [amit-0i](https://github.com/amit-0i) |
 | [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](https://github.com/cyb3rgh0u1/Another-World) | Step beyond the horizon, where reality fades and imagination reigns supreme. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![Hack the Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box) | Hacker based theme | [T-Crypt](https://github.com/T-Crypt) |
@@ -19,6 +21,8 @@
 | [![Decay Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Abyssal-Wave](https://placehold.co/180x50/16161D/C8C093?text=Abyssal-Wave&font=Oswald)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) | Dive into the deep, where elegance meets the infinite night. | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
 | [![Ever Blushing](https://placehold.co/180x50/141b1e/67b0e8?text=Ever+Blushing&font=Oswald)](https://github.com/rishav12s/Ever-Blushing) | Ever-Blush inspired dark aesthetic minimal theme | [rishav12s](https://github.com/rishav12s) |
+| [![Nightbrew](https://placehold.co/180x50/1A1B26/A9B1D6?text=Nightbrew&font=Oswald)](https://github.com/jackpawlik1/Nightbrew) | A rich, dark theme crafted for late-night productivity and sleek aesthetics. | [jackpawlik1](https://github.com/jackpawlik1) |
+| [![DoomBringers](https://placehold.co/180x50/351810/FABD2F?text=DoomBringers&font=Oswald)](https://github.com/xaicat/DoomBringers) | When shadows catch fire, sharp edges leave their mark. | [xaicat](https://github.com/xaicat) |
 | [![Crimson Blade](https://placehold.co/180x50/082451/D32D6B?text=Crimson+Blade&font=Oswald)](https://github.com/cyb3rgh0u1/Crimson-Blade) | A striking fusion of sharp elegance, cutting through the darkness with bold hues. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![One Dark](https://placehold.co/180x50/1E212B/5B6B76?text=One+Dark&font=Oswald)](https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark) | One Dark based theme | [RAprogramm](https://github.com/RAprogramm) |
 | [![Graphite Mono](https://placehold.co/180x50/222222/D9D9D9?text=Graphite+Mono&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
@@ -39,7 +43,9 @@
 | [![Cosmic Blue](https://placehold.co/180x50/444B6A/7AA2F7?text=Cosmic+Blue&font=Oswald)](https://github.com/Maroc02/Cosmic-Blue) | Galaxy inspired relaxed theme | [Maroc02](https://github.com/Maroc02) |
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red_Stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
+| [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](https://github.com/luqvic/Virtual-Witches) | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon | [luqvic](https://github.com/luqvic) |
 | [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
+| [![Amethyst Aura](https://placehold.co/180x50/5D69CE/A45785?text=Amethyst+Aura&font=Oswald)](https://github.com/jackpawlik1/Amethyst-Aura) | A vibrant purple-themed style with ethereal accents | [jackpawlik1](https://github.com/jackpawlik1) |
 | [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
 | [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](https://github.com/saber-88/Ice-Age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
 | [![Nordic Blue](https://placehold.co/180x50/7B98B8/CAD7E1?text=Nordic+Blue&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
@@ -64,11 +70,11 @@
 > [!IMPORTANT]
 >
 > - Make sure you have installed [HyDE](https://github.com/prasanthrangan/hyprdots)
-> - And also [Hyde-cli](https://github.com/HyDE-Project/Hyde-cli)
+> - And also [hydectl](https://github.com/HyDE-Project/hydectl)
 
 ```shell
 
-> + Execute "Hyde theme import" inside your terminal
+> + Execute `hydectl theme import` inside your terminal
 
 > + Choose your theme
 ```
@@ -82,15 +88,16 @@
 > - You can also add Url-links or File path with single quotations ' ' for installing a specific theme
 
 ```shell
-Hyde theme import Theme-Name /Path/to/Configs
-Hyde theme import Theme-Name https://github.com/User/Repository
-Hyde theme import Theme-Name https://github.com/User/Repository/tree/branch
+hydectl theme import --name "Theme-Name" --url "/Path/to/Configs"
+hydectl theme import --name "Theme Name" --url https://github.com/User/Repository
+hydectl theme import --name "Theme-Name" --url "https://github.com/User/Repository/tree/branch"
 ```
+
 
 example
 
 ```
-Hyde theme import 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery'
+hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Project/Hyde-gallery'
 ```
 
 > [!NOTE]
@@ -105,15 +112,15 @@ Hyde theme import 'Hack the Box' 'https://github.com/HyDE-Project/Hyde-gallery'
 - [x] Add a metadata so that this repo can be fetched using the themepatcher.(With preview)
 - [x] I am not planning to maintain all themes(Will try to use the original repo as source)
 - [x] Make this repo pretty
-- [X] Make a script to generate the README
+- [x] Make a script to generate the README
 - [ ] Whatever comes to mind
 
 ## Contributions for additional themes
 
 - You can make your own themes and add them to our collection
-    1. Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file.
-    2. Create a directory with the "Theme Name" then add preview image. Please  lessen the compression by using jpg and service such as [this](https://www.iloveimg.com/compress-image).
-    3. Genenerating the README.md by running the ` python generate_readme.py ` script.
+  1. Share your theme to our collection by adding an entry at the [hyde-themes.json](https://github.com/HyDE-Project/hyde-gallery/blob/hyde-gallery/hyde-themes.json) file.
+  2. Create a directory with the "Theme Name" then add preview image. Please lessen the compression by using jpg and service such as [this](https://www.iloveimg.com/compress-image).
+  3. Genenerating the README.md by running the `python generate_readme.py` script.
 - Remember to also add a preview by making a theme directory and one preview image inside it.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A3TECUZ)
