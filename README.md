@@ -28,6 +28,7 @@
 | [![One Dark](https://placehold.co/180x50/1E212B/5B6B76?text=One+Dark&font=Oswald)](https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark) | One Dark based theme | [RAprogramm](https://github.com/RAprogramm) |
 | [![Graphite Mono](https://placehold.co/180x50/222222/D9D9D9?text=Graphite+Mono&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Rain Dark](https://placehold.co/180x50/1E2233/822195?text=Rain+Dark&font=Oswald)](https://github.com/rishav12s/Rain-Dark) | Cozy new Rain based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
+| [![Grukai](https://placehold.co/180x50/312219/A3A365?text=Grukai&font=Oswald)](https://github.com/amit-0i/Grukai) | Where retro warmth meets modern edge | [amit-0i](https://github.com/amit-0i) |
 | [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](https://github.com/rishav12s/Pixel-Dream) | Pixel Art inspired theme | [rishav12s](https://github.com/rishav12s) |
 | [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai) | Monokai based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Dracula](https://placehold.co/180x50/2B2E3B/607988?text=Dracula&font=Oswald)](https://github.com/RAprogramm/HyDe-Themes/tree/Dracula) | Dracula based theme | [RAprogramm](https://github.com/RAprogramm) |
