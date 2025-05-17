@@ -121,6 +121,7 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/amit-0i"><img src="https://avatars.githubusercontent.com/u/208910917?v=4?s=100" width="100px;" alt="amit"/><br /><sub><b>amit</b></sub></a><br /><a href="#design-amit-0i" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jacobfranco"><img src="https://avatars.githubusercontent.com/u/58092206?v=4?s=100" width="100px;" alt="jacob"/><br /><sub><b>jacob</b></sub></a><br /><a href="#design-jacobfranco" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
