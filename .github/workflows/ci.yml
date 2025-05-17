@@ -1,50 +1,49 @@
-name: Update README on Push
+name: Update README
 
 on:
   push:
     branches:
-      - hyde-gallery
+      - master
+  pull_request:
+    branches:
+      - master
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.x"  # Use the latest Python version
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x" # Use the latest Python version
 
+      - name: Run Python script to update README
+        run: |
+          python generate_readme.py
 
-    - name: Pull the latest changes from remote main branch
-      run: |
-        git pull --no-rebase
+      - name: Commit changes if any
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add README.md
+          if git diff-index --cached --quiet HEAD; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update README with new data"
+          fi
 
-    - name: Run Python script to update README
-      run: |
-        python generate_readme.py
+      # Debug step removed - using built-in token with proper permissions
 
-    - name: Commit changes if any
-      run: |
-        git config --local user.name "github-actions"
-        git config --local user.email "github-actions@github.com"
-        git add README.md
-        if git diff-index --cached --quiet HEAD; then
-          echo "No changes to commit."
-        else
-          git commit -m "Update README with new data"
-        fi
-
-    - name: Debug authentication
-      run: |
-        echo "Testing push permissions"
-        git push --dry-run https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
-
-    - name: Push changes to remote repository
-      if: success()  # Ensures the step only runs if previous steps succeeded
-      run: |
-        git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
-
+      - name: Push changes to remote repository
+        # Only push changes on push events to master, not on pull requests
+        if: github.event_name == 'push' && success()
+        run: |
+          # Using the built-in GITHUB_TOKEN with updated permissions
+          git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
