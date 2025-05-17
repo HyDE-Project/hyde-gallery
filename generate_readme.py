@@ -1,11 +1,30 @@
 #!/bin/env python3
-""""This is a script to generate a Markdown table for the README.md file"""
+""" "This is a script to generate a Markdown table for the README.md file"""
+
 import os
 import json
 
 # Load JSON data from file
 with open("hyde-themes.json", "r", encoding="utf-8") as file:
-    data = json.load(file)
+    content = file.read()
+    try:
+        data = json.loads(content)
+    except json.JSONDecodeError:
+        # Fallback: parse multiple JSON objects in the file
+        data = []
+        decoder = json.JSONDecoder()
+        idx = 0
+        content = content.lstrip()
+        while idx < len(content):
+            try:
+                obj, idx_new = decoder.raw_decode(content[idx:])
+                data.append(obj)
+                idx += idx_new
+                # Skip whitespace between objects
+                while idx < len(content) and content[idx] in ["\n", "\r", " ", "\t"]:
+                    idx += 1
+            except json.JSONDecodeError:
+                break
 
 # Sort the data list based on theme name
 # data.sort(key=lambda theme: theme.get("THEME", "N/A"))
