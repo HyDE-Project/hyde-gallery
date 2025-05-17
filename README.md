@@ -75,7 +75,7 @@
 
 > [!IMPORTANT]
 >
-> - Make sure you have installed [HyDE](https://github.com/prasanthrangan/hyprdots)
+> - Make sure you have installed [HyDE](https://github.com/Hyde-project/HyDE)
 > - And also [hydectl](https://github.com/HyDE-Project/hydectl)
 
 ```shell
