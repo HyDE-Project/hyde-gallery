@@ -10,6 +10,7 @@
 <!-- TABLE_START -->
 | Theme | Description | Author |
 | --- | --- | --- |
+| [![Electra](https://placehold.co/180x50/1A242E/ABB8C8?text=Electra&font=Oswald)](https://github.com/XBEAST1/Electra) | Where darkness meets brilliance | [XBEAST1](https://github.com/XBEAST1) |
 | [![Code Garden](https://placehold.co/180x50/000000/FFFFFF?text=Code+Garden&font=Oswald)](https://github.com/jacobfranco/Code-Garden) | A sleek and transparent, color-agnostic theme. | [jacobfranco](https://github.com/jacobfranco) |
 | [![Vanta Black](https://placehold.co/180x50/000000/FFFFFF?text=Vanta+Black&font=Oswald)](https://github.com/rishav12s/Vanta-Black) | Vanta Black inspired theme having the deepest blacks | [rishav12s](https://github.com/rishav12s) |
 | [![Bad Blood](https://placehold.co/180x50/030000/DF1010?text=Bad+Blood&font=Oswald)](https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood) | Red & Black based theme. | [HyDE-Project](https://github.com/HyDE-Project) |
