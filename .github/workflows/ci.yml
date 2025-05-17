@@ -8,6 +8,9 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -36,13 +39,11 @@ jobs:
             git commit -m "Update README with new data"
           fi
 
-      - name: Debug authentication
-        run: |
-          echo "Testing push permissions"
-          git push --dry-run https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+      # Debug step removed - using built-in token with proper permissions
 
       - name: Push changes to remote repository
         # Only push changes on push events to master, not on pull requests
         if: github.event_name == 'push' && success()
         run: |
-          git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+          # Using the built-in GITHUB_TOKEN with updated permissions
+          git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
