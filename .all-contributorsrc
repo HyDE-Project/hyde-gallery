@@ -1,4 +1,21 @@
 {
   "projectName": "hyde-gallery",
-  "projectOwner": "HyDE-Project"
+  "projectOwner": "HyDE-Project",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "kRHYME7",
+      "name": "Khing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53417443?v=4",
+      "profile": "https://github.com/kRHYME7",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ]
 }
