@@ -28,6 +28,7 @@
 | [![Crimson Blade](https://placehold.co/180x50/082451/D32D6B?text=Crimson+Blade&font=Oswald)](https://github.com/cyb3rgh0u1/Crimson-Blade) | A striking fusion of sharp elegance, cutting through the darkness with bold hues. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![One Dark](https://placehold.co/180x50/1E212B/5B6B76?text=One+Dark&font=Oswald)](https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark) | One Dark based theme | [RAprogramm](https://github.com/RAprogramm) |
 | [![Graphite Mono](https://placehold.co/180x50/222222/D9D9D9?text=Graphite+Mono&font=Oswald)](https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Electra](https://placehold.co/180x50/1A242E/ABB8C8?text=Electra&font=Oswald)](https://github.com/XBEAST1/Electra) | Where darkness meets brilliance | [XBEAST1](https://github.com/XBEAST1) |
 | [![Rain Dark](https://placehold.co/180x50/1E2233/822195?text=Rain+Dark&font=Oswald)](https://github.com/rishav12s/Rain-Dark) | Cozy new Rain based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Grukai](https://placehold.co/180x50/312219/A3A365?text=Grukai&font=Oswald)](https://github.com/amit-0i/Grukai) | Where retro warmth meets modern edge | [amit-0i](https://github.com/amit-0i) |
 | [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](https://github.com/rishav12s/Pixel-Dream) | Pixel Art inspired theme | [rishav12s](https://github.com/rishav12s) |
