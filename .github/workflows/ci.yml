@@ -39,7 +39,47 @@ jobs:
             git commit -m "Update README with new data"
           fi
 
-      # Debug step removed - using built-in token with proper permissions
+      - name: Find changed theme files
+        if: github.event_name == 'pull_request'
+        id: changed_files
+        run: |
+          # Get list of changed files in the PR
+          PR_FILES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
+            jq -r '.[].filename' | grep -v ".github/" | head -1)
+
+          # Extract theme directory name if it exists
+          if [[ $PR_FILES =~ ^([^/]+)/ ]]; then
+            THEME_DIR="${BASH_REMATCH[1]}"
+            echo "CHANGED_FILE=$THEME_DIR" >> $GITHUB_ENV
+            echo "Theme directory detected: $THEME_DIR"
+            echo "::set-output name=found::true"
+          else
+            echo "No theme directory changes detected in PR"
+            echo "::set-output name=found::false"
+          fi
+
+      - name: Generate theme comment
+        if: github.event_name == 'pull_request' && steps.changed_files.outputs.found == 'true'
+        run: |
+          python theme_comment.py
+
+      - name: Post comment on PR
+        if: github.event_name == 'pull_request' && steps.changed_files.outputs.found == 'true'
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const commentBody = fs.readFileSync('pr_comment.md', 'utf8');
+            const context = github.context;
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: commentBody
+            });
 
       - name: Push changes to remote repository
         # Only push changes on push events to master, not on pull requests
