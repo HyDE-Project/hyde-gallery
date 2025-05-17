@@ -1,4 +1,21 @@
 {
   "projectName": "hyde-gallery",
-  "projectOwner": "HyDE-Project"
+  "projectOwner": "HyDE-Project",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "XBEAST1",
+      "name": "XBEAST",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81472131?v=4",
+      "profile": "https://github.com/XBEAST1",
+      "contributions": [
+        "design"
+      ]
+    }
+  ]
 }
