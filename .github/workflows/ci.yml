@@ -72,7 +72,6 @@ jobs:
           script: |
             const fs = require('fs');
             const commentBody = fs.readFileSync('pr_comment.md', 'utf8');
-            const context = github.context;
 
             github.rest.issues.createComment({
               issue_number: context.issue.number,
