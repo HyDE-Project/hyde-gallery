@@ -153,7 +153,9 @@ for theme in data:
             themes_with_previews.append(theme_name)
 
 # Add a title for the preview section
-THEME_CARDS += f"\n# Explore {len(themes_with_previews)} possibilities\n\n"
+THEME_CARDS += (
+    f"\n# Explore {len(themes_with_previews)} world of colors and imagination 🪄.\n\n"
+)
 
 # Sort the gallery data alphabetically by theme name
 alphabetical_data = sorted(
