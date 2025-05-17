@@ -8,61 +8,60 @@
 # Theme Gallery
 
 <!-- TABLE_START -->
-
-| Theme                                                                                                                 | Description                                                                       | Author                                                        |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [![Code Garden](https://placehold.co/180x50/000000/FFFFFF?text=Code+Garden&font=Oswald)](#code-garden)                | A sleek and transparent, color-agnostic theme.                                    | [jacobfranco](https://github.com/jacobfranco)                 |
-| [![Vanta Black](https://placehold.co/180x50/000000/FFFFFF?text=Vanta+Black&font=Oswald)](#vanta-black)                | Vanta Black inspired theme having the deepest blacks                              | [rishav12s](https://github.com/rishav12s)                     |
-| [![Bad Blood](https://placehold.co/180x50/030000/DF1010?text=Bad+Blood&font=Oswald)](#bad-blood)                      | Red & Black based theme.                                                          | [HyDE-Project](https://github.com/HyDE-Project)               |
-| [![Crimson-Blue](https://placehold.co/180x50/0A0005/CCD7FF?text=Crimson-Blue&font=Oswald)](#crimson-blue)             | Red with Blue vibes                                                               | [amit-0i](https://github.com/amit-0i)                         |
-| [![Obsidian-Purple](https://placehold.co/180x50/07040C/BDA8DC?text=Obsidian-Purple&font=Oswald)](#obsidian-purple)    | Where mystery meets elegance.                                                     | [amit-0i](https://github.com/amit-0i)                         |
-| [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](#greenify)                         | Dark Green based theme for Hyde                                                   | [mahaveergurjar](https://github.com/mahaveergurjar)           |
-| [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](#another-world)          | Step beyond the horizon, where reality fades and imagination reigns supreme.      | [cyb3rgh0u1](https://github.com/cyb3rgh0u1)                   |
-| [![Hack the Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)](#hack-the-box)             | Hacker based theme                                                                | [T-Crypt](https://github.com/T-Crypt)                         |
-| [![Oxo Carbon](https://placehold.co/180x50/161616/EE5396?text=Oxo+Carbon&font=Oswald)](#oxo-carbon)                   | Oxo Carbon based theme for Hyde                                                   | [rishav12s](https://github.com/rishav12s)                     |
-| [![Decay Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](#decay-green)                | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Abyssal-Wave](https://placehold.co/180x50/16161D/C8C093?text=Abyssal-Wave&font=Oswald)](#abyssal-wave)             | Dive into the deep, where elegance meets the infinite night.                      | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
-| [![Ever Blushing](https://placehold.co/180x50/141b1e/67b0e8?text=Ever+Blushing&font=Oswald)](#ever-blushing)          | Ever-Blush inspired dark aesthetic minimal theme                                  | [rishav12s](https://github.com/rishav12s)                     |
-| [![Nightbrew](https://placehold.co/180x50/1A1B26/A9B1D6?text=Nightbrew&font=Oswald)](#nightbrew)                      | A rich, dark theme crafted for late-night productivity and sleek aesthetics.      | [jackpawlik1](https://github.com/jackpawlik1)                 |
-| [![DoomBringers](https://placehold.co/180x50/351810/FABD2F?text=DoomBringers&font=Oswald)](#doombringers)             | When shadows catch fire, sharp edges leave their mark.                            | [xaicat](https://github.com/xaicat)                           |
-| [![Piece Of Mind](https://placehold.co/180x50/1F1F28/E6C384?text=Piece+Of+Mind&font=Oswald)](#piece-of-mind)          | Finally, some peace of mind...                                                    | [Maroc02](https://github.com/Maroc02)                         |
-| [![Crimson Blade](https://placehold.co/180x50/082451/D32D6B?text=Crimson+Blade&font=Oswald)](#crimson-blade)          | A striking fusion of sharp elegance, cutting through the darkness with bold hues. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1)                   |
-| [![One Dark](https://placehold.co/180x50/1E212B/5B6B76?text=One+Dark&font=Oswald)](#one-dark)                         | One Dark based theme                                                              | [RAprogramm](https://github.com/RAprogramm)                   |
-| [![Graphite Mono](https://placehold.co/180x50/222222/D9D9D9?text=Graphite+Mono&font=Oswald)](#graphite-mono)          | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Electra](https://placehold.co/180x50/1A242E/ABB8C8?text=Electra&font=Oswald)](#electra)                            | Where darkness meets brilliance                                                   | [XBEAST1](https://github.com/XBEAST1)                         |
-| [![Rain Dark](https://placehold.co/180x50/1E2233/822195?text=Rain+Dark&font=Oswald)](#rain-dark)                      | Cozy new Rain based theme for HyDE                                                | [rishav12s](https://github.com/rishav12s)                     |
-| [![Grukai](https://placehold.co/180x50/312219/A3A365?text=Grukai&font=Oswald)](#grukai)                               | Where retro warmth meets modern edge                                              | [amit-0i](https://github.com/amit-0i)                         |
-| [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](#pixel-dream)                | Pixel Art inspired theme                                                          | [rishav12s](https://github.com/rishav12s)                     |
-| [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](#monokai)                            | Monokai based theme for Hyde                                                      | [mahaveergurjar](https://github.com/mahaveergurjar)           |
-| [![Dracula](https://placehold.co/180x50/2B2E3B/607988?text=Dracula&font=Oswald)](#dracula)                            | Dracula based theme                                                               | [RAprogramm](https://github.com/RAprogramm)                   |
-| [![Eternal Arctic](https://placehold.co/180x50/2E3440/88C0D0?text=Eternal+Arctic&font=Oswald)](#eternal-arctic)       | Serene Nord-inspired theme having frosty aesthetic blues                          | [rishav12s](https://github.com/rishav12s)                     |
-| [![Solarized Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](#solarized-dark)       | Solarized Dark based theme for HyDE                                               | [rishav12s](https://github.com/rishav12s)                     |
-| [![Gruvbox Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](#gruvbox-retro)          | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](#abyssgreen)                   | AbyssGreen is a theme based on the Everforst color scheme                         | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
-| [![BlueSky](https://placehold.co/180x50/294052/AACBF0?text=BlueSky&font=Oswald)](#bluesky)                            | A serene theme inspired by bright cloudy skies                                    | [richen604](https://github.com/richen604)                     |
-| [![Monterey Frost](https://placehold.co/180x50/3B4252/D8DEE9?text=Monterey+Frost&font=Oswald)](#monterey-frost)       | Mac-OS inspired dark theme                                                        | [rishav12s](https://github.com/rishav12s)                     |
-| [![Moonlight](https://placehold.co/180x50/403C64/40FFFF?text=Moonlight&font=Oswald)](#moonlight)                      | Moonlight inspired cozy theme                                                     | [Maroc02](https://github.com/Maroc02)                         |
-| [![Paranoid Sweet](https://placehold.co/180x50/821595/51ABAB?text=Paranoid+Sweet&font=Oswald)](#paranoid-sweet)       | Dark purple based theme for HyDE                                                  | [rishav12s](https://github.com/rishav12s)                     |
-| [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci-fi&font=Oswald)](#sci-fi)                               | Sci-fi based theme                                                                | [KaranRaval123](https://github.com/KaranRaval123)             |
-| [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](#scarlet-night)          | Hot-Red + Deep-Black                                                              | [abenezerw](https://github.com/abenezerw)                     |
-| [![Cosmic Blue](https://placehold.co/180x50/444B6A/7AA2F7?text=Cosmic+Blue&font=Oswald)](#cosmic-blue)                | Galaxy inspired relaxed theme                                                     | [Maroc02](https://github.com/Maroc02)                         |
-| [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](#synth-wave)                   | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](#red-stone)                      | Hot Red based theme                                                               | [mahaveergurjar](https://github.com/mahaveergurjar)           |
-| [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](#virtual-witches)    | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon                | [luqvic](https://github.com/luqvic)                           |
-| [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](#windows-11)                   | We love Windows! Wew                                                              | [T-Crypt](https://github.com/T-Crypt)                         |
-| [![Amethyst Aura](https://placehold.co/180x50/5D69CE/A45785?text=Amethyst+Aura&font=Oswald)](#amethyst-aura)          | A vibrant purple-themed style with ethereal accents                               | [jackpawlik1](https://github.com/jackpawlik1)                 |
-| [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](#mac-os)                               | Official Theme                                                                    | [T-Crypt](https://github.com/T-Crypt)                         |
-| [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](#ice-age)                        | Winter based Ice Age theme for Hyde                                               | [saber-88](https://github.com/saber-88)                       |
-| [![Nordic Blue](https://placehold.co/180x50/7B98B8/CAD7E1?text=Nordic+Blue&font=Oswald)](#nordic-blue)                | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Catppuccin Latte](https://placehold.co/180x50/dd7878/eff1f5?text=Catppuccin+Latte&font=Oswald)](#catppuccin-latte) | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Tokyo Night](https://placehold.co/180x50/7aa2f7/24283b?text=Tokyo+Night&font=Oswald)](#tokyo-night)                | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Rosé Pine](https://placehold.co/180x50/c4a7e7/191724?text=Rosé+Pine&font=Oswald)](#rosé-pine)                      | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Green Lush](https://placehold.co/180x50/89E574/153550?text=Green+Lush&font=Oswald)](#green-lush)                   | A ghibli based theme for Hyde                                                     | [abenezerw](https://github.com/abenezerw)                     |
-| [![Frosted Glass](https://placehold.co/180x50/7ed6ff/1e4c84?text=Frosted+Glass&font=Oswald)](#frosted-glass)          | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Catppuccin Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](#catppuccin-mocha) | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Edge Runner](https://placehold.co/180x50/fada16/000000?text=Edge+Runner&font=Oswald)](#edge-runner)                | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](#material-sakura)    | Official Theme                                                                    | [prasanthrangan](https://github.com/prasanthrangan)           |
-| [![Cat Latte](https://placehold.co/180x50/EFF1F5/DD7878?text=Cat+Latte&font=Oswald)](#cat-latte)                      | Better Catppuccin-Latte that fixes the inconsistencies of the official theme      | [rishav12s](https://github.com/rishav12s)                     |
+| Theme | Description | Author |
+| --- | --- | --- |
+| [![Code Garden](https://placehold.co/180x50/000000/FFFFFF?text=Code+Garden&font=Oswald)](#code-garden) | A sleek and transparent, color-agnostic theme. | [jacobfranco](https://github.com/jacobfranco) |
+| [![Vanta Black](https://placehold.co/180x50/000000/FFFFFF?text=Vanta+Black&font=Oswald)](#vanta-black) | Vanta Black inspired theme having the deepest blacks | [rishav12s](https://github.com/rishav12s) |
+| [![Bad Blood](https://placehold.co/180x50/030000/DF1010?text=Bad+Blood&font=Oswald)](#bad-blood) | Red & Black based theme. | [HyDE-Project](https://github.com/HyDE-Project) |
+| [![Crimson-Blue](https://placehold.co/180x50/0A0005/CCD7FF?text=Crimson-Blue&font=Oswald)](#crimson-blue) | Red with Blue vibes | [amit-0i](https://github.com/amit-0i) |
+| [![Obsidian-Purple](https://placehold.co/180x50/07040C/BDA8DC?text=Obsidian-Purple&font=Oswald)](#obsidian-purple) | Where mystery meets elegance. | [amit-0i](https://github.com/amit-0i) |
+| [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](#greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
+| [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](#another-world) | Step beyond the horizon, where reality fades and imagination reigns supreme. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
+| [![Hack the Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)](#hack-the-box) | Hacker based theme | [T-Crypt](https://github.com/T-Crypt) |
+| [![Oxo Carbon](https://placehold.co/180x50/161616/EE5396?text=Oxo+Carbon&font=Oswald)](#oxo-carbon) | Oxo Carbon based theme for Hyde | [rishav12s](https://github.com/rishav12s) |
+| [![Decay Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](#decay-green) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Abyssal-Wave](https://placehold.co/180x50/16161D/C8C093?text=Abyssal-Wave&font=Oswald)](#abyssal-wave) | Dive into the deep, where elegance meets the infinite night. | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![Ever Blushing](https://placehold.co/180x50/141b1e/67b0e8?text=Ever+Blushing&font=Oswald)](#ever-blushing) | Ever-Blush inspired dark aesthetic minimal theme | [rishav12s](https://github.com/rishav12s) |
+| [![Nightbrew](https://placehold.co/180x50/1A1B26/A9B1D6?text=Nightbrew&font=Oswald)](#nightbrew) | A rich, dark theme crafted for late-night productivity and sleek aesthetics. | [jackpawlik1](https://github.com/jackpawlik1) |
+| [![DoomBringers](https://placehold.co/180x50/351810/FABD2F?text=DoomBringers&font=Oswald)](#doombringers) | When shadows catch fire, sharp edges leave their mark. | [xaicat](https://github.com/xaicat) |
+| [![Piece Of Mind](https://placehold.co/180x50/1F1F28/E6C384?text=Piece+Of+Mind&font=Oswald)](#piece-of-mind) | Finally, some peace of mind... | [Maroc02](https://github.com/Maroc02) |
+| [![Crimson Blade](https://placehold.co/180x50/082451/D32D6B?text=Crimson+Blade&font=Oswald)](#crimson-blade) | A striking fusion of sharp elegance, cutting through the darkness with bold hues. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
+| [![One Dark](https://placehold.co/180x50/1E212B/5B6B76?text=One+Dark&font=Oswald)](#one-dark) | One Dark based theme | [RAprogramm](https://github.com/RAprogramm) |
+| [![Graphite Mono](https://placehold.co/180x50/222222/D9D9D9?text=Graphite+Mono&font=Oswald)](#graphite-mono) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Electra](https://placehold.co/180x50/1A242E/ABB8C8?text=Electra&font=Oswald)](#electra) | Where darkness meets brilliance | [XBEAST1](https://github.com/XBEAST1) |
+| [![Rain Dark](https://placehold.co/180x50/1E2233/822195?text=Rain+Dark&font=Oswald)](#rain-dark) | Cozy new Rain based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
+| [![Grukai](https://placehold.co/180x50/312219/A3A365?text=Grukai&font=Oswald)](#grukai) | Where retro warmth meets modern edge | [amit-0i](https://github.com/amit-0i) |
+| [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](#pixel-dream) | Pixel Art inspired theme | [rishav12s](https://github.com/rishav12s) |
+| [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](#monokai) | Monokai based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
+| [![Dracula](https://placehold.co/180x50/2B2E3B/607988?text=Dracula&font=Oswald)](#dracula) | Dracula based theme | [RAprogramm](https://github.com/RAprogramm) |
+| [![Eternal Arctic](https://placehold.co/180x50/2E3440/88C0D0?text=Eternal+Arctic&font=Oswald)](#eternal-arctic) | Serene Nord-inspired theme having frosty aesthetic blues | [rishav12s](https://github.com/rishav12s) |
+| [![Solarized Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](#solarized-dark) | Solarized Dark based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
+| [![Gruvbox Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](#gruvbox-retro) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](#abyssgreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
+| [![BlueSky](https://placehold.co/180x50/294052/AACBF0?text=BlueSky&font=Oswald)](#bluesky) | A serene theme inspired by bright cloudy skies | [richen604](https://github.com/richen604) |
+| [![Monterey Frost](https://placehold.co/180x50/3B4252/D8DEE9?text=Monterey+Frost&font=Oswald)](#monterey-frost) | Mac-OS inspired dark theme | [rishav12s](https://github.com/rishav12s) |
+| [![Moonlight](https://placehold.co/180x50/403C64/40FFFF?text=Moonlight&font=Oswald)](#moonlight) | Moonlight inspired cozy theme | [Maroc02](https://github.com/Maroc02) |
+| [![Paranoid Sweet](https://placehold.co/180x50/821595/51ABAB?text=Paranoid+Sweet&font=Oswald)](#paranoid-sweet) | Dark purple based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
+| [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci-fi&font=Oswald)](#sci-fi) | Sci-fi based theme | [KaranRaval123](https://github.com/KaranRaval123) |
+| [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](#scarlet-night) | Hot-Red + Deep-Black | [abenezerw](https://github.com/abenezerw) |
+| [![Cosmic Blue](https://placehold.co/180x50/444B6A/7AA2F7?text=Cosmic+Blue&font=Oswald)](#cosmic-blue) | Galaxy inspired relaxed theme | [Maroc02](https://github.com/Maroc02) |
+| [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](#synth-wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](#red-stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
+| [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](#virtual-witches) | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon | [luqvic](https://github.com/luqvic) |
+| [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](#windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
+| [![Amethyst Aura](https://placehold.co/180x50/5D69CE/A45785?text=Amethyst+Aura&font=Oswald)](#amethyst-aura) | A vibrant purple-themed style with ethereal accents | [jackpawlik1](https://github.com/jackpawlik1) |
+| [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](#mac-os) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
+| [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](#ice-age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
+| [![Nordic Blue](https://placehold.co/180x50/7B98B8/CAD7E1?text=Nordic+Blue&font=Oswald)](#nordic-blue) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Catppuccin Latte](https://placehold.co/180x50/dd7878/eff1f5?text=Catppuccin+Latte&font=Oswald)](#catppuccin-latte) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Tokyo Night](https://placehold.co/180x50/7aa2f7/24283b?text=Tokyo+Night&font=Oswald)](#tokyo-night) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Rosé Pine](https://placehold.co/180x50/c4a7e7/191724?text=Rosé+Pine&font=Oswald)](#rosé-pine) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Green Lush](https://placehold.co/180x50/89E574/153550?text=Green+Lush&font=Oswald)](#green-lush) | A ghibli based theme for Hyde | [abenezerw](https://github.com/abenezerw) |
+| [![Frosted Glass](https://placehold.co/180x50/7ed6ff/1e4c84?text=Frosted+Glass&font=Oswald)](#frosted-glass) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Catppuccin Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](#catppuccin-mocha) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Edge Runner](https://placehold.co/180x50/fada16/000000?text=Edge+Runner&font=Oswald)](#edge-runner) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](#material-sakura) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Cat Latte](https://placehold.co/180x50/EFF1F5/DD7878?text=Cat+Latte&font=Oswald)](#cat-latte) | Better Catppuccin-Latte that fixes the inconsistencies of the official theme | [rishav12s](https://github.com/rishav12s) |
 
 <!-- TABLE_END -->
 
@@ -118,7 +117,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 # Explore 52 possibilities
 
 <a id="abyssal-wave"></a>
-
 ### 1. Abyssal-Wave
 
 **By:** [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari)
@@ -130,7 +128,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="abyssgreen"></a>
-
 ### 2. AbyssGreen
 
 **By:** [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari)
@@ -142,7 +139,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="amethyst-aura"></a>
-
 ### 3. Amethyst Aura
 
 **By:** [jackpawlik1](https://github.com/jackpawlik1)
@@ -154,7 +150,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="another-world"></a>
-
 ### 4. Another World
 
 **By:** [cyb3rgh0u1](https://github.com/cyb3rgh0u1)
@@ -166,7 +161,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="bad-blood"></a>
-
 ### 5. Bad Blood
 
 **By:** [HyDE-Project](https://github.com/HyDE-Project)
@@ -178,19 +172,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="bluesky"></a>
-
 ### 6. BlueSky
 
 **By:** [richen604](https://github.com/richen604)
 
 **Description:** A serene theme inspired by bright cloudy skies
 
-[![BlueSky Preview](BlueSky/250121-2.png)](https://github.com/richen604/BlueSky)
+[![BlueSky Preview](BlueSky/250121-4.png)](https://github.com/richen604/BlueSky)
 
 ---
 
 <a id="cat-latte"></a>
-
 ### 7. Cat Latte
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -202,7 +194,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="catppuccin-latte"></a>
-
 ### 8. Catppuccin Latte
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
@@ -214,31 +205,28 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="catppuccin-mocha"></a>
-
 ### 9. Catppuccin Mocha
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha)
+[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha)
 
 ---
 
 <a id="code-garden"></a>
-
 ### 10. Code Garden
 
 **By:** [jacobfranco](https://github.com/jacobfranco)
 
 **Description:** A sleek and transparent, color-agnostic theme.
 
-[![Code Garden Preview](Code%20Garden/1.png)](https://github.com/jacobfranco/Code-Garden)
+[![Code Garden Preview](Code%20Garden/2.png)](https://github.com/jacobfranco/Code-Garden)
 
 ---
 
 <a id="cosmic-blue"></a>
-
 ### 11. Cosmic Blue
 
 **By:** [Maroc02](https://github.com/Maroc02)
@@ -250,7 +238,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="crimson-blade"></a>
-
 ### 12. Crimson Blade
 
 **By:** [cyb3rgh0u1](https://github.com/cyb3rgh0u1)
@@ -262,7 +249,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="crimson-blue"></a>
-
 ### 13. Crimson-Blue
 
 **By:** [amit-0i](https://github.com/amit-0i)
@@ -274,19 +260,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="decay-green"></a>
-
 ### 14. Decay Green
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Decay Green Preview](Decay%20Green/theme_decay_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green)
+[![Decay Green Preview](Decay%20Green/theme_decay_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green)
 
 ---
 
 <a id="doombringers"></a>
-
 ### 15. DoomBringers
 
 **By:** [xaicat](https://github.com/xaicat)
@@ -298,7 +282,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="dracula"></a>
-
 ### 16. Dracula
 
 **By:** [RAprogramm](https://github.com/RAprogramm)
@@ -310,7 +293,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="edge-runner"></a>
-
 ### 17. Edge Runner
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
@@ -322,7 +304,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="electra"></a>
-
 ### 18. Electra
 
 **By:** [XBEAST1](https://github.com/XBEAST1)
@@ -334,7 +315,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="eternal-arctic"></a>
-
 ### 19. Eternal Arctic
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -346,7 +326,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="ever-blushing"></a>
-
 ### 20. Ever Blushing
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -358,19 +337,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="frosted-glass"></a>
-
 ### 21. Frosted Glass
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass)
+[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass)
 
 ---
 
 <a id="graphite-mono"></a>
-
 ### 22. Graphite Mono
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
@@ -382,19 +359,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="green-lush"></a>
-
 ### 23. Green Lush
 
 **By:** [abenezerw](https://github.com/abenezerw)
 
 **Description:** A ghibli based theme for Hyde
 
-[![Green Lush Preview](Green%20Lush/rofi%2Bwallpaper.png)](https://github.com/abenezerw/Green-Lush)
+[![Green Lush Preview](Green%20Lush/spf%2Bvscode%2Bspotify.png)](https://github.com/abenezerw/Green-Lush)
 
 ---
 
 <a id="greenify"></a>
-
 ### 24. Greenify
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
@@ -406,7 +381,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="grukai"></a>
-
 ### 25. Grukai
 
 **By:** [amit-0i](https://github.com/amit-0i)
@@ -418,19 +392,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="gruvbox-retro"></a>
-
 ### 26. Gruvbox Retro
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro)
+[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro)
 
 ---
 
 <a id="hack-the-box"></a>
-
 ### 27. Hack the Box
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
@@ -442,7 +414,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="ice-age"></a>
-
 ### 28. Ice Age
 
 **By:** [saber-88](https://github.com/saber-88)
@@ -454,7 +425,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="mac-os"></a>
-
 ### 29. Mac OS
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
@@ -466,7 +436,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="material-sakura"></a>
-
 ### 30. Material Sakura
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
@@ -478,7 +447,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="monokai"></a>
-
 ### 31. Monokai
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
@@ -490,7 +458,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="monterey-frost"></a>
-
 ### 32. Monterey Frost
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -502,7 +469,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="moonlight"></a>
-
 ### 33. Moonlight
 
 **By:** [Maroc02](https://github.com/Maroc02)
@@ -514,19 +480,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="nightbrew"></a>
-
 ### 34. Nightbrew
 
 **By:** [jackpawlik1](https://github.com/jackpawlik1)
 
 **Description:** A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
-[![Nightbrew Preview](Nightbrew/image.png)](https://github.com/jackpawlik1/Nightbrew)
+[![Nightbrew Preview](Nightbrew/image4.png)](https://github.com/jackpawlik1/Nightbrew)
 
 ---
 
 <a id="nordic-blue"></a>
-
 ### 35. Nordic Blue
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
@@ -538,7 +502,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="obsidian-purple"></a>
-
 ### 36. Obsidian-Purple
 
 **By:** [amit-0i](https://github.com/amit-0i)
@@ -550,7 +513,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="one-dark"></a>
-
 ### 37. One Dark
 
 **By:** [RAprogramm](https://github.com/RAprogramm)
@@ -562,7 +524,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="oxo-carbon"></a>
-
 ### 38. Oxo Carbon
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -574,7 +535,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="paranoid-sweet"></a>
-
 ### 39. Paranoid Sweet
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -586,7 +546,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="piece-of-mind"></a>
-
 ### 40. Piece Of Mind
 
 **By:** [Maroc02](https://github.com/Maroc02)
@@ -598,7 +557,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="pixel-dream"></a>
-
 ### 41. Pixel Dream
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -610,19 +568,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="rain-dark"></a>
-
 ### 42. Rain Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
 **Description:** Cozy new Rain based theme for HyDE
 
-[![Rain Dark Preview](Rain%20Dark/1-preview.png)](https://github.com/rishav12s/Rain-Dark)
+[![Rain Dark Preview](Rain%20Dark/ss_1.png)](https://github.com/rishav12s/Rain-Dark)
 
 ---
 
 <a id="red-stone"></a>
-
 ### 43. Red Stone
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
@@ -634,19 +590,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="rosé-pine"></a>
-
 ### 44. Rosé Pine
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine)
+[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine)
 
 ---
 
 <a id="scarlet-night"></a>
-
 ### 45. Scarlet Night
 
 **By:** [abenezerw](https://github.com/abenezerw)
@@ -658,19 +612,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="sci-fi"></a>
-
 ### 46. Sci-fi
 
 **By:** [KaranRaval123](https://github.com/KaranRaval123)
 
 **Description:** Sci-fi based theme
 
-[![Sci-fi Preview](Sci-fi/ss1.png)](https://github.com/KaranRaval123/Sci-fi)
+[![Sci-fi Preview](Sci-fi/ss2.png)](https://github.com/KaranRaval123/Sci-fi)
 
 ---
 
 <a id="solarized-dark"></a>
-
 ### 47. Solarized Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -682,7 +634,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="synth-wave"></a>
-
 ### 48. Synth Wave
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
@@ -694,19 +645,17 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="tokyo-night"></a>
-
 ### 49. Tokyo Night
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night)
+[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night)
 
 ---
 
 <a id="vanta-black"></a>
-
 ### 50. Vanta Black
 
 **By:** [rishav12s](https://github.com/rishav12s)
@@ -718,7 +667,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="virtual-witches"></a>
-
 ### 51. Virtual-Witches
 
 **By:** [luqvic](https://github.com/luqvic)
@@ -730,7 +678,6 @@ hydectl theme import --name 'Hack the Box' --url 'https://github.com/HyDE-Projec
 ---
 
 <a id="windows-11"></a>
-
 ### 52. Windows 11
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
