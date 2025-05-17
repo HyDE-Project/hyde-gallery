@@ -70,7 +70,7 @@
 
 \*All theme tags are linked to their corresponding repositories.
 
-\*For more information, visit [prasanthrangan/hyde-themes](https://github.com/prasanthrangan/hyde-themes).
+\*For more information, see [Making a Theme](https://hydeproject.pages.dev/en/theming/making-themes).
 
 ## Usage
 
