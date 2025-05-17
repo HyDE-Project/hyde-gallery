@@ -8,13 +8,20 @@ on:
     branches:
       - master
 
+# Top-level permissions to be inherited by all jobs
 permissions:
   contents: write
   pull-requests: write
+  issues: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    # Explicitly set permissions for this job to ensure they're properly inherited
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
 
     steps:
       - name: Checkout repository
@@ -24,6 +31,13 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.x" # Use the latest Python version
+
+      - name: Setup GitHub CLI
+        run: |
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt update
+          sudo apt install gh
 
       - name: Run Python script to update README
         run: |
@@ -44,20 +58,19 @@ jobs:
         if: github.event_name == 'pull_request'
         id: changed_files
         run: |
-          # Get list of changed files in the PR
-          PR_FILES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" | \
-            jq -r '.[].filename' | grep -v ".github/" | head -1)
+          # Get list of changed files in the PR using GitHub CLI
+          PR_FILES=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files \
+            --jq '.[].filename' | grep -v ".github/" | head -1)
 
           # Extract theme directory name if it exists
           if [[ $PR_FILES =~ ^([^/]+)/ ]]; then
             THEME_DIR="${BASH_REMATCH[1]}"
             echo "CHANGED_FILE=$THEME_DIR" >> $GITHUB_ENV
             echo "Theme directory detected: $THEME_DIR"
-            echo "::set-output name=found::true"
+            echo "found=true" >> $GITHUB_OUTPUT
           else
             echo "No theme directory changes detected in PR"
-            echo "::set-output name=found::false"
+            echo "found=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Generate theme comment
@@ -67,19 +80,11 @@ jobs:
 
       - name: Post comment on PR
         if: github.event_name == 'pull_request' && steps.changed_files.outputs.found == 'true'
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const commentBody = fs.readFileSync('pr_comment.md', 'utf8');
-
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: commentBody
-            });
+        run: |
+          # Set the GitHub token for CLI authentication
+          echo ${{ secrets.GITHUB_TOKEN }} | gh auth login --with-token
+          # Post comment using GitHub CLI
+          gh pr comment ${{ github.event.pull_request.number }} --body-file pr_comment.md
 
       - name: Push changes to remote repository
         # Only push changes on push events to master, not on pull requests

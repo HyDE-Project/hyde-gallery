@@ -3,7 +3,6 @@
 
 import os
 import json
-import sys
 
 
 def hex_to_intensity(hex_color):
@@ -63,11 +62,19 @@ def generate_theme_comment():
 
     if not theme_info:
         print(f"No theme information found for: {theme_name}")
-        sys.exit(1)
+        # Instead of exiting, provide a generic comment for new themes
+        theme_info = {
+            "THEME": theme_name,
+            "DESCRIPTION": "New theme submission",
+            "OWNER": os.environ.get("GITHUB_REPOSITORY_OWNER", ""),
+            "LINK": os.environ.get("GITHUB_SERVER_URL", "https://github.com")
+            + "/"
+            + os.environ.get("GITHUB_REPOSITORY", ""),
+            "COLORSCHEME": ["#000000", "#FFFFFF"],
+        }
 
     # Generate comment with theme info
     colors = theme_info.get("COLORSCHEME", ["#000000", "#FFFFFF"])
-    preview_path = f"{theme_name.replace(' ', '-')}/preview.png"
 
     comment = f"""## Theme Summary: {theme_info.get("THEME", "Unknown Theme")}
 
