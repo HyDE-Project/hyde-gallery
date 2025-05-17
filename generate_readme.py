@@ -199,7 +199,12 @@ for index, theme in enumerate(valid_themes, 1):
     encoded_parts = [urllib.parse.quote(part) for part in path_parts]
     encoded_path = "/".join(encoded_parts)
 
-    THEME_CARDS += f"[![{theme_name} Preview]({encoded_path})]({link})\n\n"
+    # Add preview with back-to-top button using theme colors
+    colorscheme = theme.get("COLORSCHEME", ["#000000", "#FFFFFF"])
+    bg_color = colorscheme[0].lstrip("#")
+    fg_color = colorscheme[1].lstrip("#")
+    THEME_CARDS += f"[![{theme_name} Preview]({encoded_path})]({link}) "
+    THEME_CARDS += f'<a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-{fg_color}?style=flat&labelColor={bg_color}&color={bg_color}" alt="Back to Top" style="vertical-align: middle;"></a>\n\n'
     THEME_CARDS += "---\n\n"
 
 # Add the end marker

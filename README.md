@@ -138,7 +138,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dive into the deep, where elegance meets the infinite night.
 
-[![Abyssal-Wave Preview](Abyssal-Wave/Screens1hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave)
+[![Abyssal-Wave Preview](Abyssal-Wave/Screens1hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C8C093?style=flat&labelColor=16161D&color=16161D" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -149,7 +149,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** AbyssGreen is a theme based on the Everforst color scheme
 
-[![AbyssGreen Preview](AbyssGreen/240622_10h19m00s_screenshot.png)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen)
+[![AbyssGreen Preview](AbyssGreen/240622_10h19m00s_screenshot.png)](https://github.com/Itz-Abhishek-Tiwari/AbyssGreen) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-83B38E?style=flat&labelColor=373C3F&color=373C3F" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -160,7 +160,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A vibrant purple-themed style with ethereal accents
 
-[![Amethyst Aura Preview](Amethyst-Aura/Preview.png)](https://github.com/jackpawlik1/Amethyst-Aura)
+[![Amethyst Aura Preview](Amethyst-Aura/Preview.png)](https://github.com/jackpawlik1/Amethyst-Aura) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A45785?style=flat&labelColor=5D69CE&color=5D69CE" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -171,7 +171,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Step beyond the horizon, where reality fades and imagination reigns supreme.
 
-[![Another World Preview](Another%20World/preview.png)](https://github.com/cyb3rgh0u1/Another-World)
+[![Another World Preview](Another%20World/preview.png)](https://github.com/cyb3rgh0u1/Another-World) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-6AA9C9?style=flat&labelColor=11111B&color=11111B" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -182,7 +182,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Red & Black based theme.
 
-[![Bad Blood Preview](Bad%20Blood/preview.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood)
+[![Bad Blood Preview](Bad%20Blood/preview.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-DF1010?style=flat&labelColor=030000&color=030000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -193,7 +193,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A serene theme inspired by bright cloudy skies
 
-[![BlueSky Preview](BlueSky/250121-4.png)](https://github.com/richen604/BlueSky)
+[![BlueSky Preview](BlueSky/250121-2.png)](https://github.com/richen604/BlueSky) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-AACBF0?style=flat&labelColor=294052&color=294052" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -204,7 +204,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Better Catppuccin-Latte that fixes the inconsistencies of the official theme
 
-[![Cat Latte Preview](Cat%20Latte/ss.png)](https://github.com/rishav12s/Cat-Latte)
+[![Cat Latte Preview](Cat%20Latte/ss.png)](https://github.com/rishav12s/Cat-Latte) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-DD7878?style=flat&labelColor=EFF1F5&color=EFF1F5" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -215,7 +215,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Catppuccin Latte Preview](Catppuccin%20Latte/theme_latte_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte)
+[![Catppuccin Latte Preview](Catppuccin%20Latte/theme_latte_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Latte) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-eff1f5?style=flat&labelColor=dd7878&color=dd7878" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -226,7 +226,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha)
+[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=b4befe&color=b4befe" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -237,7 +237,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A sleek and transparent, color-agnostic theme.
 
-[![Code Garden Preview](Code%20Garden/2.png)](https://github.com/jacobfranco/Code-Garden)
+[![Code Garden Preview](Code%20Garden/1.png)](https://github.com/jacobfranco/Code-Garden) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -248,7 +248,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Galaxy inspired relaxed theme
 
-[![Cosmic Blue Preview](Cosmic%20Blue/ss_1.png)](https://github.com/Maroc02/Cosmic-Blue)
+[![Cosmic Blue Preview](Cosmic%20Blue/ss_1.png)](https://github.com/Maroc02/Cosmic-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-7AA2F7?style=flat&labelColor=444B6A&color=444B6A" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -259,7 +259,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A striking fusion of sharp elegance, cutting through the darkness with bold hues.
 
-[![Crimson Blade Preview](Crimson%20Blade/preview.png)](https://github.com/cyb3rgh0u1/Crimson-Blade)
+[![Crimson Blade Preview](Crimson%20Blade/preview.png)](https://github.com/cyb3rgh0u1/Crimson-Blade) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D32D6B?style=flat&labelColor=082451&color=082451" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -270,7 +270,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Red with Blue vibes
 
-[![Crimson-Blue Preview](Crimson%20Blue/preview.png)](https://github.com/amit-0i/Crimson-Blue)
+[![Crimson-Blue Preview](Crimson%20Blue/preview.png)](https://github.com/amit-0i/Crimson-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-CCD7FF?style=flat&labelColor=0A0005&color=0A0005" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -281,7 +281,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Decay Green Preview](Decay%20Green/theme_decay_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green)
+[![Decay Green Preview](Decay%20Green/theme_decay_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-95D3AF?style=flat&labelColor=14161E&color=14161E" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -292,7 +292,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** When shadows catch fire, sharp edges leave their mark.
 
-[![DoomBringers Preview](DoomBringers/DoomBringers_1.png)](https://github.com/xaicat/DoomBringers)
+[![DoomBringers Preview](DoomBringers/DoomBringers_1.png)](https://github.com/xaicat/DoomBringers) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FABD2F?style=flat&labelColor=351810&color=351810" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -303,7 +303,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dracula based theme
 
-[![Dracula Preview](Dracula/240504_10h47m00s_screenshot.png)](https://github.com/RAprogramm/HyDe-Themes/tree/Dracula)
+[![Dracula Preview](Dracula/240504_10h47m00s_screenshot.png)](https://github.com/RAprogramm/HyDe-Themes/tree/Dracula) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-607988?style=flat&labelColor=2B2E3B&color=2B2E3B" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -314,7 +314,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Edge Runner Preview](Edge%20Runner/theme_cedge_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner)
+[![Edge Runner Preview](Edge%20Runner/theme_cedge_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-000000?style=flat&labelColor=fada16&color=fada16" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -325,7 +325,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Where darkness meets brilliance
 
-[![Electra Preview](Electra/Electra.png)](https://github.com/XBEAST1/Electra)
+[![Electra Preview](Electra/Electra.png)](https://github.com/XBEAST1/Electra) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ABB8C8?style=flat&labelColor=1A242E&color=1A242E" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -336,7 +336,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Serene Nord-inspired theme having frosty aesthetic blues
 
-[![Eternal Arctic Preview](Eternal%20Arctic/ss.png)](https://github.com/rishav12s/Eternal-Arctic)
+[![Eternal Arctic Preview](Eternal%20Arctic/ss.png)](https://github.com/rishav12s/Eternal-Arctic) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-88C0D0?style=flat&labelColor=2E3440&color=2E3440" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -347,7 +347,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Ever-Blush inspired dark aesthetic minimal theme
 
-[![Ever Blushing Preview](Ever%20Blushing/ss_1.jpg)](https://github.com/rishav12s/Ever-Blushing)
+[![Ever Blushing Preview](Ever%20Blushing/ss_1.jpg)](https://github.com/rishav12s/Ever-Blushing) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-67b0e8?style=flat&labelColor=141b1e&color=141b1e" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -358,7 +358,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass)
+[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-1e4c84?style=flat&labelColor=7ed6ff&color=7ed6ff" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -369,7 +369,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Graphite Mono Preview](Graphite%20Mono/theme_graph_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono)
+[![Graphite Mono Preview](Graphite%20Mono/theme_graph_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D9D9D9?style=flat&labelColor=222222&color=222222" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -380,7 +380,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A ghibli based theme for Hyde
 
-[![Green Lush Preview](Green%20Lush/spf%2Bvscode%2Bspotify.png)](https://github.com/abenezerw/Green-Lush)
+[![Green Lush Preview](Green%20Lush/rofi%2Bwallpaper.png)](https://github.com/abenezerw/Green-Lush) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-153550?style=flat&labelColor=89E574&color=89E574" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -391,7 +391,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dark Green based theme for Hyde
 
-[![Greenify Preview](Greenify/Greenify.png)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify)
+[![Greenify Preview](Greenify/Greenify.png)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-295233?style=flat&labelColor=0e120f&color=0e120f" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -402,7 +402,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Where retro warmth meets modern edge
 
-[![Grukai Preview](Grukai/preview.png)](https://github.com/amit-0i/Grukai)
+[![Grukai Preview](Grukai/preview.png)](https://github.com/amit-0i/Grukai) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A3A365?style=flat&labelColor=312219&color=312219" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -413,7 +413,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro)
+[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -424,7 +424,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Hacker based theme
 
-[![Hack the Box Preview](Hack%20the%20Box/Hack%20the%20box.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box)
+[![Hack the Box Preview](Hack%20the%20Box/Hack%20the%20box.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Hack-the-Box) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-50AA09?style=flat&labelColor=061234&color=061234" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -435,7 +435,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Winter based Ice Age theme for Hyde
 
-[![Ice Age Preview](Ice%20Age/241008_13h40m10s_screenshot.png)](https://github.com/saber-88/Ice-Age)
+[![Ice Age Preview](Ice%20Age/241008_13h40m10s_screenshot.png)](https://github.com/saber-88/Ice-Age) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-0E2840B3?style=flat&labelColor=00c1e4cc&color=00c1e4cc" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -446,7 +446,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Mac OS Preview](Mac%20OS/preview.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os)
+[![Mac OS Preview](Mac%20OS/preview.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Mac-Os) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-B9D7EA?style=flat&labelColor=857990&color=857990" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -457,7 +457,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Material Sakura Preview](Material%20Sakura/theme_maura_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura)
+[![Material Sakura Preview](Material%20Sakura/theme_maura_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-b4637a?style=flat&labelColor=f2e9e1&color=f2e9e1" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -468,7 +468,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Monokai based theme for Hyde
 
-[![Monokai Preview](Monokai/Monokai.png)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai)
+[![Monokai Preview](Monokai/Monokai.png)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Monokai) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-f92672?style=flat&labelColor=2d2a2e&color=2d2a2e" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -479,7 +479,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Mac-OS inspired dark theme
 
-[![Monterey Frost Preview](Monterey%20Frost/ss.png)](https://github.com/rishav12s/Monterey-Frost)
+[![Monterey Frost Preview](Monterey%20Frost/ss.png)](https://github.com/rishav12s/Monterey-Frost) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D8DEE9?style=flat&labelColor=3B4252&color=3B4252" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -490,7 +490,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Moonlight inspired cozy theme
 
-[![Moonlight Preview](Moonlight/ss_1.png)](https://github.com/Maroc02/Moonlight)
+[![Moonlight Preview](Moonlight/ss_1.png)](https://github.com/Maroc02/Moonlight) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-40FFFF?style=flat&labelColor=403C64&color=403C64" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -501,7 +501,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
-[![Nightbrew Preview](Nightbrew/image4.png)](https://github.com/jackpawlik1/Nightbrew)
+[![Nightbrew Preview](Nightbrew/image.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -512,7 +512,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Nordic Blue Preview](Nordic%20Blue/Nordic%20Blue.png)](https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue)
+[![Nordic Blue Preview](Nordic%20Blue/Nordic%20Blue.png)](https://github.com/HyDE-Project/hyde-themes/tree/Nordic-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-CAD7E1?style=flat&labelColor=7B98B8&color=7B98B8" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -523,7 +523,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Where mystery meets elegance.
 
-[![Obsidian-Purple Preview](Obsidian-Purple/preview.png)](https://github.com/amit-0i/Obsidian-Purple)
+[![Obsidian-Purple Preview](Obsidian-Purple/preview.png)](https://github.com/amit-0i/Obsidian-Purple) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-BDA8DC?style=flat&labelColor=07040C&color=07040C" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -534,7 +534,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** One Dark based theme
 
-[![One Dark Preview](One%20Dark/240213_11h47m22s_screenshot.png)](https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark)
+[![One Dark Preview](One%20Dark/240213_11h47m22s_screenshot.png)](https://github.com/RAprogramm/HyDe-Themes/tree/One-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-5B6B76?style=flat&labelColor=1E212B&color=1E212B" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -545,7 +545,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Oxo Carbon based theme for Hyde
 
-[![Oxo Carbon Preview](Oxo%20Carbon/Oxo%20Carbon.png)](https://github.com/rishav12s/Oxo-Carbon)
+[![Oxo Carbon Preview](Oxo%20Carbon/Oxo%20Carbon.png)](https://github.com/rishav12s/Oxo-Carbon) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-EE5396?style=flat&labelColor=161616&color=161616" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -556,7 +556,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dark purple based theme for HyDE
 
-[![Paranoid Sweet Preview](Paranoid%20Sweet/ss_1.png)](https://github.com/rishav12s/Paranoid-Sweet)
+[![Paranoid Sweet Preview](Paranoid%20Sweet/ss_1.png)](https://github.com/rishav12s/Paranoid-Sweet) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-51ABAB?style=flat&labelColor=821595&color=821595" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -567,7 +567,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Finally, some peace of mind...
 
-[![Piece Of Mind Preview](Piece%20Of%20Mind/ss_1.png)](https://github.com/Maroc02/Piece-Of-Mind)
+[![Piece Of Mind Preview](Piece%20Of%20Mind/ss_1.png)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -578,7 +578,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Pixel Art inspired theme
 
-[![Pixel Dream Preview](Pixel%20Dream/ss.png)](https://github.com/rishav12s/Pixel-Dream)
+[![Pixel Dream Preview](Pixel%20Dream/ss.png)](https://github.com/rishav12s/Pixel-Dream) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-EBDDB2?style=flat&labelColor=282828&color=282828" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -589,7 +589,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Cozy new Rain based theme for HyDE
 
-[![Rain Dark Preview](Rain%20Dark/ss_1.png)](https://github.com/rishav12s/Rain-Dark)
+[![Rain Dark Preview](Rain%20Dark/1-preview.png)](https://github.com/rishav12s/Rain-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-822195?style=flat&labelColor=1E2233&color=1E2233" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -600,7 +600,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Hot Red based theme
 
-[![Red Stone Preview](Red%20Stone/Red-Stone.png)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red_Stone)
+[![Red Stone Preview](Red%20Stone/Red-Stone.png)](https://github.com/mahaveergurjar/Theme-Gallery/tree/Red_Stone) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C94342?style=flat&labelColor=7E5655&color=7E5655" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -611,7 +611,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine)
+[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-191724?style=flat&labelColor=c4a7e7&color=c4a7e7" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -622,7 +622,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Hot-Red + Deep-Black
 
-[![Scarlet Night Preview](Scarlet%20Night/Rofi.png)](https://github.com/abenezerw/Scarlet-Night)
+[![Scarlet Night Preview](Scarlet%20Night/Rofi.png)](https://github.com/abenezerw/Scarlet-Night) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-0A0A0A?style=flat&labelColor=FF0000&color=FF0000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -633,7 +633,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Sci-fi based theme
 
-[![Sci-fi Preview](Sci-fi/ss2.png)](https://github.com/KaranRaval123/Sci-fi)
+[![Sci-fi Preview](Sci-fi/ss1.png)](https://github.com/KaranRaval123/Sci-fi) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-249CB6?style=flat&labelColor=0D55B2&color=0D55B2" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -644,7 +644,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Solarized Dark based theme for HyDE
 
-[![Solarized Dark Preview](Solarized%20Dark/ss_1.png)](https://github.com/rishav12s/Solarized-Dark)
+[![Solarized Dark Preview](Solarized%20Dark/ss_1.png)](https://github.com/rishav12s/Solarized-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-259E9C?style=flat&labelColor=044655&color=044655" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -655,7 +655,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Synth Wave Preview](Synth%20Wave/image.png)](https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave)
+[![Synth Wave Preview](Synth%20Wave/image.png)](https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ff7edb?style=flat&labelColor=495495&color=495495" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -666,7 +666,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night)
+[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-24283b?style=flat&labelColor=7aa2f7&color=7aa2f7" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -677,7 +677,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Vanta Black inspired theme having the deepest blacks
 
-[![Vanta Black Preview](Vanta%20Black/ss_1.png)](https://github.com/rishav12s/Vanta-Black)
+[![Vanta Black Preview](Vanta%20Black/ss_1.png)](https://github.com/rishav12s/Vanta-Black) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -688,7 +688,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon
 
-[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/luqvic/Virtual-Witches)
+[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/luqvic/Virtual-Witches) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C6D0F5?style=flat&labelColor=626880&color=626880" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -699,7 +699,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** We love Windows! Wew
 
-[![Windows 11 Preview](Windows%2011/preview.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11)
+[![Windows 11 Preview](Windows%2011/preview.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D2DCFD?style=flat&labelColor=277AE6&color=277AE6" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
