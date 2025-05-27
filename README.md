@@ -456,7 +456,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Lime’s rhythm splits the night, where chaos crafts the vibe.
 
-[![LimeFrenzy Preview](LimeFrenzy/preview.png)](https://github.com/xaicat/LimeFrenzy) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-90C81F?style=flat&labelColor=012315&color=012315" alt="Back to Top" style="vertical-align: middle;"></a>
+[![LimeFrenzy Preview](LimeFrenzy/theme.png)](https://github.com/xaicat/LimeFrenzy) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-90C81F?style=flat&labelColor=012315&color=012315" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
