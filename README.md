@@ -47,6 +47,7 @@
 | [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](#scarlet-night) | Hot-Red + Deep-Black | [abenezerw](https://github.com/abenezerw) |
 | [![Cosmic Blue](https://placehold.co/180x50/444B6A/7AA2F7?text=Cosmic+Blue&font=Oswald)](#cosmic-blue) | Galaxy inspired relaxed theme | [Maroc02](https://github.com/Maroc02) |
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](#synth-wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Tundra](https://placehold.co/180x50/4A5F82/D096AA?text=Tundra&font=Oswald)](#tundra) | A Soothing, Pastel Tundra Theme. | [Prof-Shiba](https://github.com/Prof-Shiba) |
 | [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](#red-stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](#virtual-witches) | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon | [luqvic](https://github.com/luqvic) |
 | [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](#windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
@@ -139,7 +140,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 53 world of colors and imagination 🪄.
+# Explore 54 world of colors and imagination 🪄.
 
 <a id="abyssal-wave"></a>
 ### 1. Abyssal-Wave
@@ -148,7 +149,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dive into the deep, where elegance meets the infinite night.
 
-[![Abyssal-Wave Preview](Abyssal-Wave/Screens1hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C8C093?style=flat&labelColor=16161D&color=16161D" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Abyssal-Wave Preview](Abyssal-Wave/Screens3hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C8C093?style=flat&labelColor=16161D&color=16161D" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -247,7 +248,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A sleek and transparent, color-agnostic theme.
 
-[![Code Garden Preview](Code%20Garden/2.png)](https://github.com/jacobfranco/Code-Garden) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Code Garden Preview](Code%20Garden/3.png)](https://github.com/jacobfranco/Code-Garden) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -291,7 +292,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Decay Green Preview](Decay%20Green/theme_decay_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-95D3AF?style=flat&labelColor=14161E&color=14161E" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Decay Green Preview](Decay%20Green/theme_decay_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-95D3AF?style=flat&labelColor=14161E&color=14161E" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -324,7 +325,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Edge Runner Preview](Edge%20Runner/theme_cedge_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-000000?style=flat&labelColor=fada16&color=fada16" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Edge Runner Preview](Edge%20Runner/theme_cedge_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-000000?style=flat&labelColor=fada16&color=fada16" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -368,7 +369,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-1e4c84?style=flat&labelColor=7ed6ff&color=7ed6ff" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-1e4c84?style=flat&labelColor=7ed6ff&color=7ed6ff" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -379,7 +380,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Graphite Mono Preview](Graphite%20Mono/theme_graph_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D9D9D9?style=flat&labelColor=222222&color=222222" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Graphite Mono Preview](Graphite%20Mono/theme_graph_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Graphite-Mono) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D9D9D9?style=flat&labelColor=222222&color=222222" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -423,7 +424,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -522,7 +523,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
-[![Nightbrew Preview](Nightbrew/image4.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Nightbrew Preview](Nightbrew/image3.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -632,7 +633,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-191724?style=flat&labelColor=c4a7e7&color=c4a7e7" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-191724?style=flat&labelColor=c4a7e7&color=c4a7e7" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -691,8 +692,19 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="tundra"></a>
+### 51. Tundra
+
+**By:** [Prof-Shiba](https://github.com/Prof-Shiba)
+
+**Description:** A Soothing, Pastel Tundra Theme.
+
+[![Tundra Preview](Tundra/2.png)](https://github.com/Prof-Shiba/Tundra) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D096AA?style=flat&labelColor=4A5F82&color=4A5F82" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="vanta-black"></a>
-### 51. Vanta Black
+### 52. Vanta Black
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -703,7 +715,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="virtual-witches"></a>
-### 52. Virtual-Witches
+### 53. Virtual-Witches
 
 **By:** [luqvic](https://github.com/luqvic)
 
@@ -714,7 +726,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="windows-11"></a>
-### 53. Windows 11
+### 54. Windows 11
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
