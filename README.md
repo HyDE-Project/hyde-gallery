@@ -699,7 +699,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A Soothing, Pastel Tundra Theme.
 
-[![Tundra Preview](Tundra/2.png)](https://github.com/Prof-Shiba/Tundra) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D096AA?style=flat&labelColor=4A5F82&color=4A5F82" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Tundra Preview](Tundra/1.png)](https://github.com/Prof-Shiba/Tundra) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D096AA?style=flat&labelColor=4A5F82&color=4A5F82" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
