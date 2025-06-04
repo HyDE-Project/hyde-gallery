@@ -141,7 +141,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 55 world of colors and imagination 🪄.
+# Explore 55 worlds of color and imagination 🪄.
 
 <a id="abyssal-wave"></a>
 ### 1. Abyssal-Wave
