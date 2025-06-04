@@ -141,7 +141,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 55 worlds of color and imagination 🪄.
+# Explore 55 world of colors and imagination 🪄.
 
 <a id="abyssal-wave"></a>
 ### 1. Abyssal-Wave
@@ -183,7 +183,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning.
 
-[![One Dark Preview](AncientAliens/Preview.png)](https://github.com/dim-ghub/AncientAliens) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-5B6B76?style=flat&labelColor=1E212B&color=1E212B" alt="Back to Top" style="vertical-align: middle;"></a>
+[![AncientAliens Preview](AncientAliens/Preview.png)](https://github.com/dim-ghub/AncientAliens) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-AAD5F0?style=flat&labelColor=09101C&color=09101C" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
