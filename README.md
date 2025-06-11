@@ -663,11 +663,11 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 <a id="sci-fi"></a>
 ### 48. Sci-fi
 
-**By:** [KaranRaval123](https://github.com/KaranRaval123)
+**By:** [KaranRaval555](https://github.com/KaranRaval555)
 
 **Description:** Sci-fi based theme
 
-[![Sci-fi Preview](Sci-fi/ss2.png)](https://github.com/KaranRaval123/Sci-fi) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-249CB6?style=flat&labelColor=0D55B2&color=0D55B2" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Sci-fi Preview](Sci-fi/ss2.png)](https://github.com/KaranRaval555/Sci-fi) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-249CB6?style=flat&labelColor=0D55B2&color=0D55B2" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
