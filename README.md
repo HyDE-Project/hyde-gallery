@@ -44,7 +44,7 @@
 | [![Monterey Frost](https://placehold.co/180x50/3B4252/D8DEE9?text=Monterey+Frost&font=Oswald)](#monterey-frost) | Mac-OS inspired dark theme | [rishav12s](https://github.com/rishav12s) |
 | [![Moonlight](https://placehold.co/180x50/403C64/40FFFF?text=Moonlight&font=Oswald)](#moonlight) | Moonlight inspired cozy theme | [Maroc02](https://github.com/Maroc02) |
 | [![Paranoid Sweet](https://placehold.co/180x50/821595/51ABAB?text=Paranoid+Sweet&font=Oswald)](#paranoid-sweet) | Dark purple based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
-| [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci-fi&font=Oswald)](#sci-fi) | Sci-fi based theme | [KaranRaval123](https://github.com/KaranRaval123) |
+| [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci-fi&font=Oswald)](#sci-fi) | Sci-fi based theme | [KaranRaval555](https://github.com/KaranRaval555) |
 | [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](#scarlet-night) | Hot-Red + Deep-Black | [abenezerw](https://github.com/abenezerw) |
 | [![Cosmic Blue](https://placehold.co/180x50/444B6A/7AA2F7?text=Cosmic+Blue&font=Oswald)](#cosmic-blue) | Galaxy inspired relaxed theme | [Maroc02](https://github.com/Maroc02) |
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](#synth-wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
@@ -663,11 +663,11 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 <a id="sci-fi"></a>
 ### 48. Sci-fi
 
-**By:** [KaranRaval123](https://github.com/KaranRaval123)
+**By:** [KaranRaval555](https://github.com/KaranRaval555)
 
 **Description:** Sci-fi based theme
 
-[![Sci-fi Preview](Sci-fi/ss2.png)](https://github.com/KaranRaval123/Sci-fi) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-249CB6?style=flat&labelColor=0D55B2&color=0D55B2" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Sci-fi Preview](Sci-fi/ss2.png)](https://github.com/KaranRaval555/Sci-fi) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-249CB6?style=flat&labelColor=0D55B2&color=0D55B2" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
