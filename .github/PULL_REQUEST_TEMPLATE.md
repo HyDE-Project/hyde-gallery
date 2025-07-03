@@ -24,6 +24,7 @@ Before submitting the PR, please make sure you do the following:
 - [ ] PR description clearly explains the purpose of the changes
 - [ ] Related issues are linked (if any)
 - [ ] Screenshots are included
+- [ ] Screenshot size smaller than 4 MB (https://www.iloveimg.com/compress-image for compression)
 - [ ] Affected components/pages are listed
 - [ ] No unrelated changes are included
 
