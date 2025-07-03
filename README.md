@@ -57,12 +57,12 @@
 | [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](#ice-age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
 | [![Nordic Blue](https://placehold.co/180x50/7B98B8/CAD7E1?text=Nordic+Blue&font=Oswald)](#nordic-blue) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Catppuccin Latte](https://placehold.co/180x50/dd7878/eff1f5?text=Catppuccin+Latte&font=Oswald)](#catppuccin-latte) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
-| [![Catppuccin Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](#catppuccin-mocha) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
-| [![Catppuccin Macchiato](https://placehold.co/180x50/c6a0f6/11111b?text=Catppuccin+Macchiato&font=Oswald)](#catppuccin-macchiato) | Catppuccin Macchiato with Mauve Accent | [deepu105](https://github.com/deepu105) |
 | [![Tokyo Night](https://placehold.co/180x50/7aa2f7/24283b?text=Tokyo+Night&font=Oswald)](#tokyo-night) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Catppuccin-Macchiato](https://placehold.co/180x50/c6a0f6/11111b?text=Catppuccin-Macchiato&font=Oswald)](#catppuccin-macchiato) | Catppuccin Macchiato with Mauve Accent | [deepu105](https://github.com/deepu105) |
 | [![Rosé Pine](https://placehold.co/180x50/c4a7e7/191724?text=Rosé+Pine&font=Oswald)](#rosé-pine) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Green Lush](https://placehold.co/180x50/89E574/153550?text=Green+Lush&font=Oswald)](#green-lush) | A ghibli based theme for Hyde | [abenezerw](https://github.com/abenezerw) |
 | [![Frosted Glass](https://placehold.co/180x50/7ed6ff/1e4c84?text=Frosted+Glass&font=Oswald)](#frosted-glass) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Catppuccin Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](#catppuccin-mocha) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Edge Runner](https://placehold.co/180x50/fada16/000000?text=Edge+Runner&font=Oswald)](#edge-runner) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](#material-sakura) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Cat Latte](https://placehold.co/180x50/EFF1F5/DD7878?text=Cat+Latte&font=Oswald)](#cat-latte) | Better Catppuccin-Latte that fixes the inconsistencies of the official theme | [rishav12s](https://github.com/rishav12s) |
@@ -243,25 +243,25 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
-<a id="catppuccin-macchiato"></a>
-### 10. Catppuccin Macchiato
-
-**By:** [deepu105](https://github.com/deepu105)
-
-**Description:** Catppuccin Macchiato with Mauve Accent
-
-[![Catppuccin Macchiato Preview](Catppuccin%20Macchiato/screenshot.png)](https://github.com/deepu105/hyde-theme-catppuccin-macchiato) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=c6a0f6&color=c6a0f6" alt="Back to Top" style="vertical-align: middle;"></a>
-
----
-
 <a id="catppuccin-mocha"></a>
-### 11. Catppuccin Mocha
+### 10. Catppuccin Mocha
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
 [![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=b4befe&color=b4befe" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
+<a id="catppuccin-macchiato"></a>
+### 11. Catppuccin-Macchiato
+
+**By:** [deepu105](https://github.com/deepu105)
+
+**Description:** Catppuccin Macchiato with Mauve Accent
+
+[![Catppuccin-Macchiato Preview](Catppuccin%20Macchiato/screenshot.png)](https://github.com/deepu105/hyde-theme-catppuccin-macchiato) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=c6a0f6&color=c6a0f6" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
