@@ -261,7 +261,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Catppuccin Macchiato with Mauve Accent
 
-[![Catppuccin-Macchiato Preview](Catppuccin%20Macchiato/preview.png)](https://github.com/deepu105/hyde-theme-catppuccin-macchiato) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=c6a0f6&color=c6a0f6" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Catppuccin-Macchiato Preview](Catppuccin-Macchiato/preview.png)](https://github.com/deepu105/hyde-theme-catppuccin-macchiato) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=c6a0f6&color=c6a0f6" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
