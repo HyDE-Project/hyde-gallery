@@ -36,7 +36,7 @@
 | [![Rain Dark](https://placehold.co/180x50/1E2233/822195?text=Rain+Dark&font=Oswald)](#rain-dark) | Cozy new Rain based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Grukai](https://placehold.co/180x50/312219/A3A365?text=Grukai&font=Oswald)](#grukai) | Where retro warmth meets modern edge | [amit-0i](https://github.com/amit-0i) |
 | [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](#pixel-dream) | Pixel Art inspired theme | [rishav12s](https://github.com/rishav12s) |
-| [![Timeless Dream](https://placehold.co/180x50/252B37/89DDFF?text=Timeless+Dream&font=Oswald)](#timeless-dream) | Maybe, it is all a dream... | [Maroc02](https://github.com/Maroc02) |
+| [![Timeless Dream](https://placehold.co/180x50/252B37/89DDFF?text=Timeless+Dream&font=Oswald)](#timeless-dream) | Maybe, it's all just a dream... | [Maroc02](https://github.com/Maroc02) |
 | [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](#monokai) | Monokai based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Dracula](https://placehold.co/180x50/2B2E3B/607988?text=Dracula&font=Oswald)](#dracula) | Dracula based theme | [RAprogramm](https://github.com/RAprogramm) |
 | [![Eternal Arctic](https://placehold.co/180x50/2E3440/88C0D0?text=Eternal+Arctic&font=Oswald)](#eternal-arctic) | Serene Nord-inspired theme having frosty aesthetic blues | [rishav12s](https://github.com/rishav12s) |
@@ -45,7 +45,7 @@
 | [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](#abyssgreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
 | [![BlueSky](https://placehold.co/180x50/294052/AACBF0?text=BlueSky&font=Oswald)](#bluesky) | A serene theme inspired by bright cloudy skies | [richen604](https://github.com/richen604) |
 | [![Monterey Frost](https://placehold.co/180x50/3B4252/D8DEE9?text=Monterey+Frost&font=Oswald)](#monterey-frost) | Mac-OS inspired dark theme | [rishav12s](https://github.com/rishav12s) |
-| [![Moonlight](https://placehold.co/180x50/403C64/40FFFF?text=Moonlight&font=Oswald)](#moonlight) | Gentle, soft light brushes my face... | [Maroc02](https://github.com/Maroc02) |
+| [![Moonlight](https://placehold.co/180x50/403C64/40FFFF?text=Moonlight&font=Oswald)](#moonlight) | Gentle, soft moonlight lingers on my face... | [Maroc02](https://github.com/Maroc02) |
 | [![Paranoid Sweet](https://placehold.co/180x50/821595/51ABAB?text=Paranoid+Sweet&font=Oswald)](#paranoid-sweet) | Dark purple based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Sci-fi](https://placehold.co/180x50/0D55B2/249CB6?text=Sci-fi&font=Oswald)](#sci-fi) | Sci-fi based theme | [KaranRaval555](https://github.com/KaranRaval555) |
 | [![Scarlet Night](https://placehold.co/180x50/FF0000/0A0A0A?text=Scarlet+Night&font=Oswald)](#scarlet-night) | Hot-Red + Deep-Black | [abenezerw](https://github.com/abenezerw) |
@@ -309,7 +309,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Out there, somewhere in our galaxy...
 
-[![Cosmic Blue Preview](Cosmic%20Blue/overview.gif.png)](https://github.com/Maroc02/Cosmic-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-7AA2F7?style=flat&labelColor=444B6A&color=444B6A" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Cosmic Blue Preview](Cosmic%20Blue/overview.gif)](https://github.com/Maroc02/Cosmic-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-7AA2F7?style=flat&labelColor=444B6A&color=444B6A" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -560,7 +560,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
-**Description:** Gentle, soft light brushes my face...
+**Description:** Gentle, soft moonlight lingers on my face...
 
 [![Moonlight Preview](Moonlight/overview.gif)](https://github.com/Maroc02/Moonlight) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-40FFFF?style=flat&labelColor=403C64&color=403C64" alt="Back to Top" style="vertical-align: middle;"></a>
 
@@ -639,7 +639,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Finally, some peace of mind...
 
-[![Piece Of Mind Preview](Piece%20Of%20Mind/overview.gif)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Piece Of Mind Preview](Piece%20Of%20Mind/overview.gif.png)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -736,9 +736,9 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
-**Description:** Maybe, it is all a dream...
+**Description:** Maybe, it's all just a dream...
 
-[![Timeless Dream Preview](Timeless%20Dream/overview.gif)](https://github.com/Maroc02/Timeless-Dream) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-89DDFF?style=flat&labelColor=252B37&color=252B37" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Timeless Dream Preview](Timeless%20Dream/overview.gif.png)](https://github.com/Maroc02/Timeless-Dream) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-89DDFF?style=flat&labelColor=252B37&color=252B37" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
