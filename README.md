@@ -243,7 +243,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Autumn, what a cozy time...
 
-[![Breezy Autumn Preview](Breezy%20Autumn/screenshot_4.png)](https://github.com/Maroc02/Breezy-Autumn) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-B36D43?style=flat&labelColor=222222&color=222222" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Breezy Autumn Preview](Breezy%20Autumn/overview.gif)](https://github.com/Maroc02/Breezy-Autumn) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-B36D43?style=flat&labelColor=222222&color=222222" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -309,7 +309,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Out there, somewhere in our galaxy...
 
-[![Cosmic Blue Preview](Cosmic%20Blue/screenshot_4.png)](https://github.com/Maroc02/Cosmic-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-7AA2F7?style=flat&labelColor=444B6A&color=444B6A" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Cosmic Blue Preview](Cosmic%20Blue/overview.gif.png)](https://github.com/Maroc02/Cosmic-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-7AA2F7?style=flat&labelColor=444B6A&color=444B6A" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -562,7 +562,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Gentle, soft light brushes my face...
 
-[![Moonlight Preview](Moonlight/screenshot_4.png)](https://github.com/Maroc02/Moonlight) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-40FFFF?style=flat&labelColor=403C64&color=403C64" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Moonlight Preview](Moonlight/overview.gif)](https://github.com/Maroc02/Moonlight) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-40FFFF?style=flat&labelColor=403C64&color=403C64" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -639,7 +639,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Finally, some peace of mind...
 
-[![Piece Of Mind Preview](Piece%20Of%20Mind/screenshot_4.png)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Piece Of Mind Preview](Piece%20Of%20Mind/overview.gif)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -738,7 +738,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Maybe, it is all a dream...
 
-[![Timeless Dream Preview](Timeless%20Dream/screenshot_4.png)](https://github.com/Maroc02/Timeless-Dream) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-89DDFF?style=flat&labelColor=252B37&color=252B37" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Timeless Dream Preview](Timeless%20Dream/overview.gif)](https://github.com/Maroc02/Timeless-Dream) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-89DDFF?style=flat&labelColor=252B37&color=252B37" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
