@@ -110,6 +110,7 @@ def find_preview_image(theme_name):
             "*screenshot*",
             "*.png",
             "*.jpg",
+            "*.gif",
             "*.jpeg",
         ]
 

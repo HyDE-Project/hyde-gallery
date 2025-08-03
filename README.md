@@ -639,7 +639,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Finally, some peace of mind...
 
-[![Piece Of Mind Preview](Piece%20Of%20Mind/overview.gif.png)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Piece Of Mind Preview](Piece%20Of%20Mind/overview.gif)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -738,7 +738,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Maybe, it's all just a dream...
 
-[![Timeless Dream Preview](Timeless%20Dream/overview.gif.png)](https://github.com/Maroc02/Timeless-Dream) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-89DDFF?style=flat&labelColor=252B37&color=252B37" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Timeless Dream Preview](Timeless%20Dream/overview.gif)](https://github.com/Maroc02/Timeless-Dream) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-89DDFF?style=flat&labelColor=252B37&color=252B37" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
