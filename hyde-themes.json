@@ -357,20 +357,6 @@
     "COLORSCHEME": ["#294052", "#AACBF0"]
   },
   {
-    "THEME": "Moonlight",
-    "LINK": "https://github.com/Maroc02/Moonlight",
-    "OWNER": "https://github.com/Maroc02",
-    "DESCRIPTION": "Moonlight inspired cozy theme",
-    "COLORSCHEME": ["#403C64", "#40FFFF"]
-  },
-  {
-    "THEME": "Cosmic Blue",
-    "LINK": "https://github.com/Maroc02/Cosmic-Blue",
-    "OWNER": "https://github.com/Maroc02",
-    "DESCRIPTION": "Galaxy inspired relaxed theme",
-    "COLORSCHEME": ["#444B6A", "#7AA2F7"]
-  },
-  {
     "THEME": "Amethyst Aura",
     "LINK": "https://github.com/jackpawlik1/Amethyst-Aura",
     "OWNER": "https://github.com/jackpawlik1",
@@ -392,10 +378,38 @@
     "COLORSCHEME": ["#626880", "#C6D0F5"]
   },
   {
+    "THEME": "Breezy Autumn",
+    "LINK": "https://github.com/Maroc02/Breezy-Autumn",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Autumn, what a cozy time...",
+    "COLORSCHEME": ["#222222", "#B36D43"]
+  },
+  {
+    "THEME": "Cosmic Blue",
+    "LINK": "https://github.com/Maroc02/Cosmic-Blue",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Out there, somewhere in our galaxy...",
+    "COLORSCHEME": ["#444B6A", "#7AA2F7"]
+  },
+  {
+    "THEME": "Moonlight",
+    "LINK": "https://github.com/Maroc02/Moonlight",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Gentle, soft moonlight lingers on my face...",
+    "COLORSCHEME": ["#403C64", "#40FFFF"]
+  },
+  {
     "THEME": "Piece Of Mind",
     "LINK": "https://github.com/Maroc02/Piece-Of-Mind",
     "OWNER": "https://github.com/Maroc02",
     "DESCRIPTION": "Finally, some peace of mind...",
     "COLORSCHEME": ["#1F1F28", "#E6C384"]
+  },
+  {
+    "THEME": "Timeless Dream",
+    "LINK": "https://github.com/Maroc02/Timeless-Dream",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Maybe, it's all just a dream...",
+    "COLORSCHEME": ["#252B37", "#89DDFF"]
   }
 ]
