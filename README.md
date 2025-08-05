@@ -69,7 +69,6 @@
 | [![Edge Runner](https://placehold.co/180x50/fada16/000000?text=Edge+Runner&font=Oswald)](#edge-runner) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](#material-sakura) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Cat Latte](https://placehold.co/180x50/EFF1F5/DD7878?text=Cat+Latte&font=Oswald)](#cat-latte) | Better Catppuccin-Latte that fixes the inconsistencies of the official theme | [rishav12s](https://github.com/rishav12s) |
-| [![Joker](https://placehold.co/180x50/030000/DF1010?text=Joker&font=Oswald)](#joker) | Why so serious? Introduce a little anarchy to your desktop | [Ali Asghar Fathikhha](https://github.com/aliasgharfathikhah) |
 
 <!-- TABLE_END -->
 
@@ -795,18 +794,6 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 **Description:** We love Windows! Wew
 
 [![Windows 11 Preview](Windows%2011/preview.png)](https://github.com/HyDE-Project/hyde-gallery/tree/Windows-11) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D2DCFD?style=flat&labelColor=277AE6&color=277AE6" alt="Back to Top" style="vertical-align: middle;"></a>
-
----
-
-<a id="joker"></a>
-### 58. Joker
-
-**By:** [Ali Asghar Fathi khah](https://github.com/T-Crypt)
-
-**Description:** Why so serious? Introduce a little anarchy to your desktop
-
-[![Joker Preview](Joker/image_2025-07-30_14-12-22.png)](<img width="1925" height="1080" alt="image_2025-07-30_14-12-22" src="https://github.com/user-attachments/assets/b32dac6e-c1be-4b62-b24f-f8b8590b8fcb" />
-) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D2DCFD?style=flat&labelColor=F54927&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
