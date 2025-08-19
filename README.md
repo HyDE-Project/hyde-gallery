@@ -27,7 +27,7 @@
 | [![Ever Blushing](https://placehold.co/180x50/141b1e/67b0e8?text=Ever+Blushing&font=Oswald)](#ever-blushing) | Ever-Blush inspired dark aesthetic minimal theme | [rishav12s](https://github.com/rishav12s) |
 | [![Nightbrew](https://placehold.co/180x50/1A1B26/A9B1D6?text=Nightbrew&font=Oswald)](#nightbrew) | A rich, dark theme crafted for late-night productivity and sleek aesthetics. | [jackpawlik1](https://github.com/jackpawlik1) |
 | [![DoomBringers](https://placehold.co/180x50/351810/FABD2F?text=DoomBringers&font=Oswald)](#doombringers) | When shadows catch fire, sharp edges leave their mark. | [xaicat](https://github.com/xaicat) |
-| [![Piece Of Mind](https://placehold.co/180x50/1F1F28/E6C384?text=Piece+Of+Mind&font=Oswald)](#piece-of-mind) | Finally, some peace of mind... | [Maroc02](https://github.com/Maroc02) |
+| [![Peace Of Mind](https://placehold.co/180x50/1F1F28/E6C384?text=Peace+Of+Mind&font=Oswald)](#peace-of-mind) | Finally, some peace of mind... | [Maroc02](https://github.com/Maroc02) |
 | [![Crimson Blade](https://placehold.co/180x50/082451/D32D6B?text=Crimson+Blade&font=Oswald)](#crimson-blade) | A striking fusion of sharp elegance, cutting through the darkness with bold hues. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![One Dark](https://placehold.co/180x50/1E212B/5B6B76?text=One+Dark&font=Oswald)](#one-dark) | One Dark based theme | [RAprogramm](https://github.com/RAprogramm) |
 | [![Graphite Mono](https://placehold.co/180x50/222222/D9D9D9?text=Graphite+Mono&font=Oswald)](#graphite-mono) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
@@ -53,9 +53,9 @@
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](#synth-wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Tundra](https://placehold.co/180x50/4A5F82/D096AA?text=Tundra&font=Oswald)](#tundra) | A Soothing, Pastel Tundra Theme. | [Prof-Shiba](https://github.com/Prof-Shiba) |
 | [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](#red-stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
-| [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](#virtual-witches) | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon | [luqvic](https://github.com/luqvic) |
+| [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](#virtual-witches) | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon | [G00380316](https://github.com/G00380316) |
 | [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](#windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
-| [![Amethyst Aura](https://placehold.co/180x50/5D69CE/A45785?text=Amethyst+Aura&font=Oswald)](#amethyst-aura) | A vibrant purple-themed style with ethereal accents | [jackpawlik1](https://github.com/jackpawlik1) |
+| [![Amethyst-Aura](https://placehold.co/180x50/5D69CE/A45785?text=Amethyst-Aura&font=Oswald)](#amethyst-aura) | A vibrant purple-themed style with ethereal accents | [jackpawlik1](https://github.com/jackpawlik1) |
 | [![Mac OS](https://placehold.co/180x50/857990/B9D7EA?text=Mac+OS&font=Oswald)](#mac-os) | Official Theme | [T-Crypt](https://github.com/T-Crypt) |
 | [![Ice Age](https://placehold.co/180x50/00c1e4cc/0E2840B3?text=Ice+Age&font=Oswald)](#ice-age) | Winter based Ice Age theme for Hyde | [saber-88](https://github.com/saber-88) |
 | [![Nordic Blue](https://placehold.co/180x50/7B98B8/CAD7E1?text=Nordic+Blue&font=Oswald)](#nordic-blue) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
@@ -166,7 +166,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dive into the deep, where elegance meets the infinite night.
 
-[![Abyssal-Wave Preview](Abyssal-Wave/Screens3hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C8C093?style=flat&labelColor=16161D&color=16161D" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Abyssal-Wave Preview](Abyssal-Wave/Screens1hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave/tree/main) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C8C093?style=flat&labelColor=16161D&color=16161D" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -182,13 +182,13 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="amethyst-aura"></a>
-### 4. Amethyst Aura
+### 4. Amethyst-Aura
 
 **By:** [jackpawlik1](https://github.com/jackpawlik1)
 
 **Description:** A vibrant purple-themed style with ethereal accents
 
-[![Amethyst Aura Preview](Amethyst-Aura/Preview.png)](https://github.com/jackpawlik1/Amethyst-Aura) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A45785?style=flat&labelColor=5D69CE&color=5D69CE" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Amethyst-Aura Preview](Amethyst-Aura/Preview.png)](https://github.com/jackpawlik1/Amethyst-Aura) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A45785?style=flat&labelColor=5D69CE&color=5D69CE" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -232,7 +232,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A serene theme inspired by bright cloudy skies
 
-[![BlueSky Preview](BlueSky/250121-3.png)](https://github.com/richen604/BlueSky) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-AACBF0?style=flat&labelColor=294052&color=294052" alt="Back to Top" style="vertical-align: middle;"></a>
+[![BlueSky Preview](BlueSky/250121-4.png)](https://github.com/richen604/BlueSky) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-AACBF0?style=flat&labelColor=294052&color=294052" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -276,7 +276,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=b4befe&color=b4befe" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=b4befe&color=b4befe" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -342,7 +342,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Decay Green Preview](Decay%20Green/theme_decay_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-95D3AF?style=flat&labelColor=14161E&color=14161E" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Decay Green Preview](Decay%20Green/theme_decay_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-95D3AF?style=flat&labelColor=14161E&color=14161E" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -474,7 +474,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -573,7 +573,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
-[![Nightbrew Preview](Nightbrew/image3.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Nightbrew Preview](Nightbrew/image.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -628,18 +628,18 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dark purple based theme for HyDE
 
-[![Paranoid Sweet Preview](Paranoid%20Sweet/ss_1.png)](https://github.com/rishav12s/Paranoid-Sweet) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-51ABAB?style=flat&labelColor=821595&color=821595" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Paranoid Sweet Preview](Paranoid%20Sweet/ss_2.png)](https://github.com/rishav12s/Paranoid-Sweet) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-51ABAB?style=flat&labelColor=821595&color=821595" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
-<a id="piece-of-mind"></a>
-### 45. Piece Of Mind
+<a id="peace-of-mind"></a>
+### 45. Peace Of Mind
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
 **Description:** Finally, some peace of mind...
 
-[![Piece Of Mind Preview](Piece%20Of%20Mind/overview.gif)](https://github.com/Maroc02/Piece-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Peace Of Mind Preview](Peace%20Of%20Mind/overview.gif)](https://github.com/Maroc02/Peace-Of-Mind) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E6C384?style=flat&labelColor=1F1F28&color=1F1F28" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -705,7 +705,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Sci-fi based theme
 
-[![Sci-fi Preview](Sci-fi/ss1.png)](https://github.com/KaranRaval555/Sci-fi) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-249CB6?style=flat&labelColor=0D55B2&color=0D55B2" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Sci-fi Preview](Sci-fi/ss2.png)](https://github.com/KaranRaval555/Sci-fi) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-249CB6?style=flat&labelColor=0D55B2&color=0D55B2" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -716,7 +716,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Solarized Dark based theme for HyDE
 
-[![Solarized Dark Preview](Solarized%20Dark/ss_1.png)](https://github.com/rishav12s/Solarized-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-259E9C?style=flat&labelColor=044655&color=044655" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Solarized Dark Preview](Solarized%20Dark/ss_2.png)](https://github.com/rishav12s/Solarized-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-259E9C?style=flat&labelColor=044655&color=044655" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -760,7 +760,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A Soothing, Pastel Tundra Theme.
 
-[![Tundra Preview](Tundra/2.png)](https://github.com/Prof-Shiba/Tundra) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D096AA?style=flat&labelColor=4A5F82&color=4A5F82" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Tundra Preview](Tundra/1.png)](https://github.com/Prof-Shiba/Tundra) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-D096AA?style=flat&labelColor=4A5F82&color=4A5F82" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -778,11 +778,11 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 <a id="virtual-witches"></a>
 ### 58. Virtual-Witches
 
-**By:** [luqvic](https://github.com/luqvic)
+**By:** [G00380316](https://github.com/G00380316)
 
 **Description:** HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon
 
-[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/luqvic/Virtual-Witches) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C6D0F5?style=flat&labelColor=626880&color=626880" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/G00380316/virtual-witches) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C6D0F5?style=flat&labelColor=626880&color=626880" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
