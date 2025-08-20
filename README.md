@@ -331,7 +331,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Red with Blue vibes
 
-[![Crimson-Blue Preview](Crimson%20Blue/preview.png)](https://github.com/amit-0i/Crimson-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-CCD7FF?style=flat&labelColor=0A0005&color=0A0005" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Crimson-Blue Preview](Crimson-Blue/preview.png)](https://github.com/amit-0i/Crimson-Blue) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-CCD7FF?style=flat&labelColor=0A0005&color=0A0005" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
