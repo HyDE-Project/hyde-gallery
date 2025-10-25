@@ -37,6 +37,7 @@
 | [![Joker](https://placehold.co/180x50/4B0082/00FF66?text=Joker&font=Oswald)](#joker) | Its for you Izumi. | [saber-88](https://github.com/saber-88) |
 | [![Grukai](https://placehold.co/180x50/312219/A3A365?text=Grukai&font=Oswald)](#grukai) | Where retro warmth meets modern edge | [amit-0i](https://github.com/amit-0i) |
 | [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](#pixel-dream) | Pixel Art inspired theme | [rishav12s](https://github.com/rishav12s) |
+| [![Nier](https://placehold.co/180x50/282A26/DCDCDC?text=Nier&font=Oswald)](#nier) | Green dominant Nier Inspired Theme. | [saber-88](https://github.com/saber-88) |
 | [![Timeless Dream](https://placehold.co/180x50/252B37/89DDFF?text=Timeless+Dream&font=Oswald)](#timeless-dream) | Maybe, it's all just a dream... | [Maroc02](https://github.com/Maroc02) |
 | [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](#monokai) | Monokai based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Dracula](https://placehold.co/180x50/2B2E3B/607988?text=Dracula&font=Oswald)](#dracula) | Dracula based theme | [RAprogramm](https://github.com/RAprogramm) |
@@ -68,7 +69,6 @@
 | [![Frosted Glass](https://placehold.co/180x50/7ed6ff/1e4c84?text=Frosted+Glass&font=Oswald)](#frosted-glass) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Catppuccin Mocha](https://placehold.co/180x50/b4befe/11111b?text=Catppuccin+Mocha&font=Oswald)](#catppuccin-mocha) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Edge Runner](https://placehold.co/180x50/fada16/000000?text=Edge+Runner&font=Oswald)](#edge-runner) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
-| [![Nier](https://placehold.co/180x50/DCDCDC/282A26?text=Nier&font=Oswald)](#nier) | Green dominant Nier Inspired Theme. | [saber-88](https://github.com/saber-88) |
 | [![Material Sakura](https://placehold.co/180x50/f2e9e1/b4637a?text=Material+Sakura&font=Oswald)](#material-sakura) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Cat Latte](https://placehold.co/180x50/EFF1F5/DD7878?text=Cat+Latte&font=Oswald)](#cat-latte) | Better Catppuccin-Latte that fixes the inconsistencies of the official theme | [rishav12s](https://github.com/rishav12s) |
 
