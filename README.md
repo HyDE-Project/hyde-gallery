@@ -148,7 +148,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 60 worlds of color and imagination 🪄.
+# Explore 61 worlds of color and imagination 🪄.
 
 <a id="1-bit"></a>
 ### 1. 1-Bit
@@ -579,8 +579,19 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="nier"></a>
+### 40. Nier
+
+**By:** [saber-88](https://github.com/saber-88)
+
+**Description:** Green dominant Nier Inspired Theme.
+
+[![Nier Preview](Nier/overview.gif)](https://github.com/saber-88/Nier) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-DDEAD0?style=flat&labelColor=263227&color=263227" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="nightbrew"></a>
-### 40. Nightbrew
+### 41. Nightbrew
 
 **By:** [jackpawlik1](https://github.com/jackpawlik1)
 
@@ -591,7 +602,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="nordic-blue"></a>
-### 41. Nordic Blue
+### 42. Nordic Blue
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -602,7 +613,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="obsidian-purple"></a>
-### 42. Obsidian-Purple
+### 43. Obsidian-Purple
 
 **By:** [amit-0i](https://github.com/amit-0i)
 
@@ -613,7 +624,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="one-dark"></a>
-### 43. One Dark
+### 44. One Dark
 
 **By:** [RAprogramm](https://github.com/RAprogramm)
 
@@ -624,7 +635,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="oxo-carbon"></a>
-### 44. Oxo Carbon
+### 45. Oxo Carbon
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -635,7 +646,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="paranoid-sweet"></a>
-### 45. Paranoid Sweet
+### 46. Paranoid Sweet
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -646,7 +657,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="peace-of-mind"></a>
-### 46. Peace Of Mind
+### 47. Peace Of Mind
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -657,7 +668,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="pixel-dream"></a>
-### 47. Pixel Dream
+### 48. Pixel Dream
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -668,7 +679,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="rain-dark"></a>
-### 48. Rain Dark
+### 49. Rain Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -679,7 +690,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="red-stone"></a>
-### 49. Red Stone
+### 50. Red Stone
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
 
@@ -690,7 +701,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="rosé-pine"></a>
-### 50. Rosé Pine
+### 51. Rosé Pine
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -701,7 +712,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="scarlet-night"></a>
-### 51. Scarlet Night
+### 52. Scarlet Night
 
 **By:** [abenezerw](https://github.com/abenezerw)
 
@@ -712,7 +723,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="sci-fi"></a>
-### 52. Sci-fi
+### 53. Sci-fi
 
 **By:** [KaranRaval555](https://github.com/KaranRaval555)
 
@@ -723,7 +734,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="solarized-dark"></a>
-### 53. Solarized Dark
+### 54. Solarized Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -734,7 +745,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="synth-wave"></a>
-### 54. Synth Wave
+### 55. Synth Wave
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -745,7 +756,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="timeless-dream"></a>
-### 55. Timeless Dream
+### 56. Timeless Dream
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -756,7 +767,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="tokyo-night"></a>
-### 56. Tokyo Night
+### 57. Tokyo Night
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -767,7 +778,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="tundra"></a>
-### 57. Tundra
+### 58. Tundra
 
 **By:** [Prof-Shiba](https://github.com/Prof-Shiba)
 
@@ -778,7 +789,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="vanta-black"></a>
-### 58. Vanta Black
+### 59. Vanta Black
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -789,7 +800,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="virtual-witches"></a>
-### 59. Virtual-Witches
+### 60. Virtual-Witches
 
 **By:** [G00380316](https://github.com/G00380316)
 
@@ -800,7 +811,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="windows-11"></a>
-### 60. Windows 11
+### 61. Windows 11
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
