@@ -37,10 +37,10 @@
 | [![Joker](https://placehold.co/180x50/4B0082/00FF66?text=Joker&font=Oswald)](#joker) | Its for you Izumi. | [saber-88](https://github.com/saber-88) |
 | [![Grukai](https://placehold.co/180x50/312219/A3A365?text=Grukai&font=Oswald)](#grukai) | Where retro warmth meets modern edge | [amit-0i](https://github.com/amit-0i) |
 | [![Pixel Dream](https://placehold.co/180x50/282828/EBDDB2?text=Pixel+Dream&font=Oswald)](#pixel-dream) | Pixel Art inspired theme | [rishav12s](https://github.com/rishav12s) |
-| [![Nier](https://placehold.co/180x50/282A26/DCDCDC?text=Nier&font=Oswald)](#nier) | Green dominant Nier Inspired Theme. | [saber-88](https://github.com/saber-88) |
 | [![Timeless Dream](https://placehold.co/180x50/252B37/89DDFF?text=Timeless+Dream&font=Oswald)](#timeless-dream) | Maybe, it's all just a dream... | [Maroc02](https://github.com/Maroc02) |
 | [![Monokai](https://placehold.co/180x50/2d2a2e/f92672?text=Monokai&font=Oswald)](#monokai) | Monokai based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Dracula](https://placehold.co/180x50/2B2E3B/607988?text=Dracula&font=Oswald)](#dracula) | Dracula based theme | [RAprogramm](https://github.com/RAprogramm) |
+| [![Nier](https://placehold.co/180x50/2e352c/3F4A37?text=Nier&font=Oswald)](#nier) | Green dominant Nier Inspired Theme. | [saber-88](https://github.com/saber-88) |
 | [![Eternal Arctic](https://placehold.co/180x50/2E3440/88C0D0?text=Eternal+Arctic&font=Oswald)](#eternal-arctic) | Serene Nord-inspired theme having frosty aesthetic blues | [rishav12s](https://github.com/rishav12s) |
 | [![Solarized Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](#solarized-dark) | Solarized Dark based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Gruvbox Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](#gruvbox-retro) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
