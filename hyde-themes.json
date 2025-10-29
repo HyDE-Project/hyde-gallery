@@ -427,9 +427,10 @@
     "COLORSCHEME": ["#263227", "#DDEAD0"]
   },
   {
-  "name": "Oregairu",
-  "author": "elritardato",
-  "repo": "https://github.com/elritardato/Oregairu",
-  "preview": "themes/oregairu/preview.png"
+    "THEME": "Oregairu",
+    "LINK": "https://github.com/elritardato/Oregairu",
+    "OWNER": "https://github.com/elritardato",
+    "DESCRIPTION": "HyDE theme inspired by Oregairu",
+    "COLORSCHEME": ["#2B3A67", "#A7C7E7"]
   }
 ]
