@@ -150,7 +150,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 62 worlds of color and imagination 🪄.
+# Explore 63 worlds of color and imagination 🪄.
 
 <a id="1-bit"></a>
 ### 1. 1-Bit
@@ -757,8 +757,19 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="soulsborne"></a>
+### 56. Soulsborne
+
+**By:** [elritardato](https://github.com/elritardato)
+
+**Description:** HyDE theme inspired by the Soulsborne series.
+
+[![Soulsborne Preview](Soulsborne/preview.png)](https://github.com/elritardato/Soulsborne) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-E0701E?style=flat&labelColor=0D0D0D&color=0D0D0D" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="synth-wave"></a>
-### 56. Synth Wave
+### 57. Synth Wave
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -769,7 +780,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="timeless-dream"></a>
-### 57. Timeless Dream
+### 58. Timeless Dream
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -780,7 +791,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="tokyo-night"></a>
-### 58. Tokyo Night
+### 59. Tokyo Night
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -791,7 +802,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="tundra"></a>
-### 59. Tundra
+### 60. Tundra
 
 **By:** [Prof-Shiba](https://github.com/Prof-Shiba)
 
@@ -802,7 +813,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="vanta-black"></a>
-### 60. Vanta Black
+### 61. Vanta Black
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -813,7 +824,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="virtual-witches"></a>
-### 61. Virtual-Witches
+### 62. Virtual-Witches
 
 **By:** [G00380316](https://github.com/G00380316)
 
@@ -824,7 +835,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="windows-11"></a>
-### 62. Windows 11
+### 63. Windows 11
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
