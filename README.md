@@ -15,6 +15,10 @@
 | [![Bad Blood](https://placehold.co/180x50/030000/DF1010?text=Bad+Blood&font=Oswald)](#bad-blood) | Red & Black based theme. | [HyDE-Project](https://github.com/HyDE-Project) |
 | [![Crimson-Blue](https://placehold.co/180x50/0A0005/CCD7FF?text=Crimson-Blue&font=Oswald)](#crimson-blue) | Red with Blue vibes | [amit-0i](https://github.com/amit-0i) |
 | [![Obsidian-Purple](https://placehold.co/180x50/07040C/BDA8DC?text=Obsidian-Purple&font=Oswald)](#obsidian-purple) | Where mystery meets elegance. | [amit-0i](https://github.com/amit-0i) |
+| [![Agency](https://placehold.co/180x50/04080F/3B82F6?text=Agency&font=Oswald)](#agency) | NSA-inspired surveillance theme: dark navy, official seal wallpaper, TOP SECRET accents. | [CapGuizera](https://github.com/CapGuizera) |
+| [![FBI](https://placehold.co/180x50/04080F/3B82F6?text=FBI&font=Oswald)](#fbi) | FBI variant of the Agency collection: dark navy with the bureau seal. | [CapGuizera](https://github.com/CapGuizera) |
+| [![CIA](https://placehold.co/180x50/04080F/3B82F6?text=CIA&font=Oswald)](#cia) | CIA variant of the Agency collection: dark navy with the agency seal. | [CapGuizera](https://github.com/CapGuizera) |
+| [![MI6](https://placehold.co/180x50/041011/2DC9DC?text=MI6&font=Oswald)](#mi6) | MI6 variant of the Agency collection: dark teal, cyan accent, typographic wallpaper. | [CapGuizera](https://github.com/CapGuizera) |
 | [![Soulsborne](https://placehold.co/180x50/0D0D0D/E0701E?text=Soulsborne&font=Oswald)](#soulsborne) | HyDE theme inspired by the Soulsborne series. | [elritardato](https://github.com/elritardato) |
 | [![AncientAliens](https://placehold.co/180x50/09101C/AAD5F0?text=AncientAliens&font=Oswald)](#ancientaliens) | A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning. | [dim-ghub](https://github.com/dim-ghub) |
 | [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](#greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
@@ -151,7 +155,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 64 worlds of color and imagination 🪄.
+# Explore 68 worlds of color and imagination 🪄.
 
 <a id="1-bit"></a>
 ### 1. 1-Bit
@@ -171,7 +175,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dive into the deep, where elegance meets the infinite night.
 
-[![Abyssal-Wave Preview](Abyssal-Wave/Screens1hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave/tree/main) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C8C093?style=flat&labelColor=16161D&color=16161D" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Abyssal-Wave Preview](Abyssal-Wave/Screens3hort.png)](https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave/tree/main) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C8C093?style=flat&labelColor=16161D&color=16161D" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -186,8 +190,19 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="agency"></a>
+### 4. Agency
+
+**By:** [CapGuizera](https://github.com/CapGuizera)
+
+**Description:** NSA-inspired surveillance theme: dark navy, official seal wallpaper, TOP SECRET accents.
+
+[![Agency Preview](Agency/preview.jpg)](https://github.com/CapGuizera/hyde-agency-themes) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-3B82F6?style=flat&labelColor=04080F&color=04080F" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="amethyst-aura"></a>
-### 4. Amethyst-Aura
+### 5. Amethyst-Aura
 
 **By:** [jackpawlik1](https://github.com/jackpawlik1)
 
@@ -198,7 +213,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="ancientaliens"></a>
-### 5. AncientAliens
+### 6. AncientAliens
 
 **By:** [dim-ghub](https://github.com/dim-ghub)
 
@@ -209,7 +224,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="another-world"></a>
-### 6. Another World
+### 7. Another World
 
 **By:** [cyb3rgh0u1](https://github.com/cyb3rgh0u1)
 
@@ -220,7 +235,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="bad-blood"></a>
-### 7. Bad Blood
+### 8. Bad Blood
 
 **By:** [HyDE-Project](https://github.com/HyDE-Project)
 
@@ -231,18 +246,18 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="bluesky"></a>
-### 8. BlueSky
+### 9. BlueSky
 
 **By:** [richen604](https://github.com/richen604)
 
 **Description:** A serene theme inspired by bright cloudy skies
 
-[![BlueSky Preview](BlueSky/250121-2.png)](https://github.com/richen604/BlueSky) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-AACBF0?style=flat&labelColor=294052&color=294052" alt="Back to Top" style="vertical-align: middle;"></a>
+[![BlueSky Preview](BlueSky/250121-4.png)](https://github.com/richen604/BlueSky) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-AACBF0?style=flat&labelColor=294052&color=294052" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="breezy-autumn"></a>
-### 9. Breezy Autumn
+### 10. Breezy Autumn
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -253,7 +268,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="cat-latte"></a>
-### 10. Cat Latte
+### 11. Cat Latte
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -264,7 +279,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="catppuccin-latte"></a>
-### 11. Catppuccin Latte
+### 12. Catppuccin Latte
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -275,18 +290,18 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="catppuccin-mocha"></a>
-### 12. Catppuccin Mocha
+### 13. Catppuccin Mocha
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=b4befe&color=b4befe" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Catppuccin Mocha Preview](Catppuccin%20Mocha/theme_mocha_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Catppuccin-Mocha) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-11111b?style=flat&labelColor=b4befe&color=b4befe" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="catppuccin-macchiato"></a>
-### 13. Catppuccin-Macchiato
+### 14. Catppuccin-Macchiato
 
 **By:** [deepu105](https://github.com/deepu105)
 
@@ -297,7 +312,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="chisa"></a>
-### 14. Chisa
+### 15. Chisa
 
 **By:** [Frz013](https://github.com/Frz013)
 
@@ -307,19 +322,30 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="cia"></a>
+### 16. CIA
+
+**By:** [CapGuizera](https://github.com/CapGuizera)
+
+**Description:** CIA variant of the Agency collection: dark navy with the agency seal.
+
+[![CIA Preview](CIA/preview.jpg)](https://github.com/CapGuizera/hyde-agency-themes) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-3B82F6?style=flat&labelColor=04080F&color=04080F" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="code-garden"></a>
-### 15. Code Garden
+### 17. Code Garden
 
 **By:** [jacobfranco](https://github.com/jacobfranco)
 
 **Description:** A sleek and transparent, color-agnostic theme.
 
-[![Code Garden Preview](Code%20Garden/2.png)](https://github.com/jacobfranco/Code-Garden) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Code Garden Preview](Code%20Garden/3.png)](https://github.com/jacobfranco/Code-Garden) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="cosmic-blue"></a>
-### 16. Cosmic Blue
+### 18. Cosmic Blue
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -330,7 +356,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="crimson-blade"></a>
-### 17. Crimson Blade
+### 19. Crimson Blade
 
 **By:** [cyb3rgh0u1](https://github.com/cyb3rgh0u1)
 
@@ -341,7 +367,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="crimson-blue"></a>
-### 18. Crimson-Blue
+### 20. Crimson-Blue
 
 **By:** [amit-0i](https://github.com/amit-0i)
 
@@ -352,7 +378,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="dandadan"></a>
-### 19. DanDaDan
+### 21. DanDaDan
 
 **By:** [aasaaDev](https://github.com/aasaaDev)
 
@@ -363,18 +389,18 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="decay-green"></a>
-### 20. Decay Green
+### 22. Decay Green
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Decay Green Preview](Decay%20Green/theme_decay_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-95D3AF?style=flat&labelColor=14161E&color=14161E" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Decay Green Preview](Decay%20Green/theme_decay_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-95D3AF?style=flat&labelColor=14161E&color=14161E" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="doombringers"></a>
-### 21. DoomBringers
+### 23. DoomBringers
 
 **By:** [xaicat](https://github.com/xaicat)
 
@@ -385,7 +411,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="dracula"></a>
-### 22. Dracula
+### 24. Dracula
 
 **By:** [RAprogramm](https://github.com/RAprogramm)
 
@@ -396,7 +422,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="edge-runner"></a>
-### 23. Edge Runner
+### 25. Edge Runner
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -407,7 +433,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="electra"></a>
-### 24. Electra
+### 26. Electra
 
 **By:** [XBEAST1](https://github.com/XBEAST1)
 
@@ -418,7 +444,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="eternal-arctic"></a>
-### 25. Eternal Arctic
+### 27. Eternal Arctic
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -429,7 +455,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="ever-blushing"></a>
-### 26. Ever Blushing
+### 28. Ever Blushing
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -439,19 +465,30 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="fbi"></a>
+### 29. FBI
+
+**By:** [CapGuizera](https://github.com/CapGuizera)
+
+**Description:** FBI variant of the Agency collection: dark navy with the bureau seal.
+
+[![FBI Preview](FBI/preview.jpg)](https://github.com/CapGuizera/hyde-agency-themes) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-3B82F6?style=flat&labelColor=04080F&color=04080F" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="frosted-glass"></a>
-### 27. Frosted Glass
+### 30. Frosted Glass
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-1e4c84?style=flat&labelColor=7ed6ff&color=7ed6ff" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Frosted Glass Preview](Frosted%20Glass/theme_frosted_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Frosted-Glass) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-1e4c84?style=flat&labelColor=7ed6ff&color=7ed6ff" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="graphite-mono"></a>
-### 28. Graphite Mono
+### 31. Graphite Mono
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -462,18 +499,18 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="green-lush"></a>
-### 29. Green Lush
+### 32. Green Lush
 
 **By:** [abenezerw](https://github.com/abenezerw)
 
 **Description:** A ghibli based theme for Hyde
 
-[![Green Lush Preview](Green%20Lush/spf%2Bvscode%2Bspotify.png)](https://github.com/abenezerw/Green-Lush) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-153550?style=flat&labelColor=89E574&color=89E574" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Green Lush Preview](Green%20Lush/wallpaper.png)](https://github.com/abenezerw/Green-Lush) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-153550?style=flat&labelColor=89E574&color=89E574" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="greenify"></a>
-### 30. Greenify
+### 33. Greenify
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
 
@@ -484,7 +521,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="grukai"></a>
-### 31. Grukai
+### 34. Grukai
 
 **By:** [amit-0i](https://github.com/amit-0i)
 
@@ -495,7 +532,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="gruvbox-retro"></a>
-### 32. Gruvbox Retro
+### 35. Gruvbox Retro
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -506,7 +543,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="hack-the-box"></a>
-### 33. Hack the Box
+### 36. Hack the Box
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
@@ -517,7 +554,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="ice-age"></a>
-### 34. Ice Age
+### 37. Ice Age
 
 **By:** [saber-88](https://github.com/saber-88)
 
@@ -528,7 +565,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="joker"></a>
-### 35. Joker
+### 38. Joker
 
 **By:** [saber-88](https://github.com/saber-88)
 
@@ -539,7 +576,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="limefrenzy"></a>
-### 36. LimeFrenzy
+### 39. LimeFrenzy
 
 **By:** [xaicat](https://github.com/xaicat)
 
@@ -550,7 +587,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="mac-os"></a>
-### 37. Mac OS
+### 40. Mac OS
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
@@ -561,18 +598,29 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="material-sakura"></a>
-### 38. Material Sakura
+### 41. Material Sakura
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Material Sakura Preview](Material%20Sakura/theme_maura_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-b4637a?style=flat&labelColor=f2e9e1&color=f2e9e1" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Material Sakura Preview](Material%20Sakura/theme_maura_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Material-Sakura) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-b4637a?style=flat&labelColor=f2e9e1&color=f2e9e1" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
+<a id="mi6"></a>
+### 42. MI6
+
+**By:** [CapGuizera](https://github.com/CapGuizera)
+
+**Description:** MI6 variant of the Agency collection: dark teal, cyan accent, typographic wallpaper.
+
+[![MI6 Preview](MI6/preview.jpg)](https://github.com/CapGuizera/hyde-agency-themes) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-2DC9DC?style=flat&labelColor=041011&color=041011" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="monokai"></a>
-### 39. Monokai
+### 43. Monokai
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
 
@@ -583,7 +631,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="monterey-frost"></a>
-### 40. Monterey Frost
+### 44. Monterey Frost
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -594,7 +642,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="moonlight"></a>
-### 41. Moonlight
+### 45. Moonlight
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -605,7 +653,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="nier"></a>
-### 42. Nier
+### 46. Nier
 
 **By:** [saber-88](https://github.com/saber-88)
 
@@ -616,18 +664,18 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="nightbrew"></a>
-### 43. Nightbrew
+### 47. Nightbrew
 
 **By:** [jackpawlik1](https://github.com/jackpawlik1)
 
 **Description:** A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
-[![Nightbrew Preview](Nightbrew/image3.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Nightbrew Preview](Nightbrew/image4.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="nordic-blue"></a>
-### 44. Nordic Blue
+### 48. Nordic Blue
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -638,7 +686,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="obsidian-purple"></a>
-### 45. Obsidian-Purple
+### 49. Obsidian-Purple
 
 **By:** [amit-0i](https://github.com/amit-0i)
 
@@ -649,7 +697,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="one-dark"></a>
-### 46. One Dark
+### 50. One Dark
 
 **By:** [RAprogramm](https://github.com/RAprogramm)
 
@@ -660,7 +708,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="oregairu"></a>
-### 47. Oregairu
+### 51. Oregairu
 
 **By:** [elritardato](https://github.com/elritardato)
 
@@ -671,7 +719,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="oxo-carbon"></a>
-### 48. Oxo Carbon
+### 52. Oxo Carbon
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -682,7 +730,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="paranoid-sweet"></a>
-### 49. Paranoid Sweet
+### 53. Paranoid Sweet
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -693,7 +741,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="peace-of-mind"></a>
-### 50. Peace Of Mind
+### 54. Peace Of Mind
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -704,7 +752,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="pixel-dream"></a>
-### 51. Pixel Dream
+### 55. Pixel Dream
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -715,7 +763,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="rain-dark"></a>
-### 52. Rain Dark
+### 56. Rain Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -726,7 +774,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="red-stone"></a>
-### 53. Red Stone
+### 57. Red Stone
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
 
@@ -737,7 +785,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="rosé-pine"></a>
-### 54. Rosé Pine
+### 58. Rosé Pine
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -748,7 +796,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="scarlet-night"></a>
-### 55. Scarlet Night
+### 59. Scarlet Night
 
 **By:** [abenezerw](https://github.com/abenezerw)
 
@@ -759,7 +807,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="solarized-dark"></a>
-### 56. Solarized Dark
+### 60. Solarized Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -770,7 +818,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="soulsborne"></a>
-### 57. Soulsborne
+### 61. Soulsborne
 
 **By:** [elritardato](https://github.com/elritardato)
 
@@ -781,7 +829,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="synth-wave"></a>
-### 58. Synth Wave
+### 62. Synth Wave
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -792,7 +840,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="timeless-dream"></a>
-### 59. Timeless Dream
+### 63. Timeless Dream
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -803,18 +851,18 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="tokyo-night"></a>
-### 60. Tokyo Night
+### 64. Tokyo Night
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
 **Description:** Official Theme
 
-[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-24283b?style=flat&labelColor=7aa2f7&color=7aa2f7" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-24283b?style=flat&labelColor=7aa2f7&color=7aa2f7" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
 <a id="tundra"></a>
-### 61. Tundra
+### 65. Tundra
 
 **By:** [Prof-Shiba](https://github.com/Prof-Shiba)
 
@@ -825,7 +873,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="vanta-black"></a>
-### 62. Vanta Black
+### 66. Vanta Black
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -836,7 +884,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="virtual-witches"></a>
-### 63. Virtual-Witches
+### 67. Virtual-Witches
 
 **By:** [G00380316](https://github.com/G00380316)
 
@@ -847,7 +895,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="windows-11"></a>
-### 64. Windows 11
+### 68. Windows 11
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
