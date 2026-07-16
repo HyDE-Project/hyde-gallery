@@ -21,6 +21,7 @@
 | [![MI6](https://placehold.co/180x50/041011/2DC9DC?text=MI6&font=Oswald)](#mi6) | MI6 variant of the Agency collection: dark teal, cyan accent, typographic wallpaper. | [CapGuizera](https://github.com/CapGuizera) |
 | [![Soulsborne](https://placehold.co/180x50/0D0D0D/E0701E?text=Soulsborne&font=Oswald)](#soulsborne) | HyDE theme inspired by the Soulsborne series. | [elritardato](https://github.com/elritardato) |
 | [![AncientAliens](https://placehold.co/180x50/09101C/AAD5F0?text=AncientAliens&font=Oswald)](#ancientaliens) | A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning. | [dim-ghub](https://github.com/dim-ghub) |
+| [![Vesper](https://placehold.co/180x50/101010/99FFE4?text=Vesper&font=Oswald)](#vesper) | Near-black Vesper theme with mint, peach, and coral accents. | [KitsuneKode](https://github.com/KitsuneKode) |
 | [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](#greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](#another-world) | Step beyond the horizon, where reality fades and imagination reigns supreme. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![Hack the Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)](#hack-the-box) | Hacker based theme | [T-Crypt](https://github.com/T-Crypt) |
@@ -155,7 +156,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 68 worlds of color and imagination 🪄.
+# Explore 69 worlds of color and imagination 🪄.
 
 <a id="1-bit"></a>
 ### 1. 1-Bit
@@ -340,7 +341,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A sleek and transparent, color-agnostic theme.
 
-[![Code Garden Preview](Code%20Garden/2.png)](https://github.com/jacobfranco/Code-Garden) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Code Garden Preview](Code%20Garden/3.png)](https://github.com/jacobfranco/Code-Garden) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -428,7 +429,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Edge Runner Preview](Edge%20Runner/theme_cedge_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-000000?style=flat&labelColor=fada16&color=fada16" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Edge Runner Preview](Edge%20Runner/theme_cedge_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Edge-Runner) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-000000?style=flat&labelColor=fada16&color=fada16" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -505,7 +506,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A ghibli based theme for Hyde
 
-[![Green Lush Preview](Green%20Lush/rofi%2Bwallpaper.png)](https://github.com/abenezerw/Green-Lush) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-153550?style=flat&labelColor=89E574&color=89E574" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Green Lush Preview](Green%20Lush/wallpaper.png)](https://github.com/abenezerw/Green-Lush) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-153550?style=flat&labelColor=89E574&color=89E574" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -538,7 +539,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Gruvbox Retro Preview](Gruvbox%20Retro/theme_gruvbox_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Gruvbox-Retro) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -670,7 +671,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
-[![Nightbrew Preview](Nightbrew/image3.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Nightbrew Preview](Nightbrew/image4.png)](https://github.com/jackpawlik1/Nightbrew) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-A9B1D6?style=flat&labelColor=1A1B26&color=1A1B26" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -736,7 +737,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Dark purple based theme for HyDE
 
-[![Paranoid Sweet Preview](Paranoid%20Sweet/ss_1.png)](https://github.com/rishav12s/Paranoid-Sweet) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-51ABAB?style=flat&labelColor=821595&color=821595" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Paranoid Sweet Preview](Paranoid%20Sweet/ss_2.png)](https://github.com/rishav12s/Paranoid-Sweet) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-51ABAB?style=flat&labelColor=821595&color=821595" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -769,7 +770,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Cozy new Rain based theme for HyDE
 
-[![Rain Dark Preview](Rain%20Dark/1-preview.png)](https://github.com/rishav12s/Rain-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-822195?style=flat&labelColor=1E2233&color=1E2233" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Rain Dark Preview](Rain%20Dark/ss_1.png)](https://github.com/rishav12s/Rain-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-822195?style=flat&labelColor=1E2233&color=1E2233" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -791,7 +792,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-191724?style=flat&labelColor=c4a7e7&color=c4a7e7" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Rosé Pine Preview](Ros%C3%A9%20Pine/theme_rosine_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Rose-Pine) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-191724?style=flat&labelColor=c4a7e7&color=c4a7e7" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -813,7 +814,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Solarized Dark based theme for HyDE
 
-[![Solarized Dark Preview](Solarized%20Dark/ss_1.png)](https://github.com/rishav12s/Solarized-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-259E9C?style=flat&labelColor=044655&color=044655" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Solarized Dark Preview](Solarized%20Dark/ss_2.png)](https://github.com/rishav12s/Solarized-Dark) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-259E9C?style=flat&labelColor=044655&color=044655" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -857,7 +858,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** Official Theme
 
-[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_1.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-24283b?style=flat&labelColor=7aa2f7&color=7aa2f7" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Tokyo Night Preview](Tokyo%20Night/theme_tokyo_2.png)](https://github.com/HyDE-Project/hyde-themes/tree/Tokyo-Night) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-24283b?style=flat&labelColor=7aa2f7&color=7aa2f7" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
@@ -883,8 +884,19 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="vesper"></a>
+### 67. Vesper
+
+**By:** [KitsuneKode](https://github.com/KitsuneKode)
+
+**Description:** Near-black Vesper theme with mint, peach, and coral accents.
+
+[![Vesper Preview](Vesper/preview.jpg)](https://github.com/KitsuneKode/vesper-hyde-theme) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-99FFE4?style=flat&labelColor=101010&color=101010" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="virtual-witches"></a>
-### 67. Virtual-Witches
+### 68. Virtual-Witches
 
 **By:** [G00380316](https://github.com/G00380316)
 
@@ -895,7 +907,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="windows-11"></a>
-### 68. Windows 11
+### 69. Windows 11
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
