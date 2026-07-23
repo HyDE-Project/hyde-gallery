@@ -635,8 +635,8 @@
     "OWNER": "https://github.com/aasaaDev",
     "DESCRIPTION": "HyDE theme inspired by the anime DanDaDan.",
     "COLORSCHEME": [
-      "#d2546a",
-      "#201b25"
+      "000000",
+      "#d2546a"
     ]
   },
   {
@@ -678,5 +678,17 @@
       "#041011",
       "#2DC9DC"
     ]
+  
+  },
+  {
+    "THEME": "Drawbridge",
+    "LINK": "https://github.com/CapGuizera/hyde-agency-themes",
+    "OWNER": "https://github.com/CapGuizera",
+    "DESCRIPTION": "Keep on keeping on!.",
+    "COLORSCHEME": [
+      "#353842",
+      "#ADAE89"
+    ]
+  
   }
 ]
