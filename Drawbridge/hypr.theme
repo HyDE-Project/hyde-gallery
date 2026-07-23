@@ -1,0 +1,64 @@
+$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
+
+$GTK_THEME = Nordic-darker
+$ICON_THEME = Tela-circle-black
+$COLOR_SCHEME = prefer-dark
+$CURSOR_THEME = Bibata-Modern-Ice
+$CURSOR_SIZE = 20
+$CODE_THEME = Keep on Keeping on!
+
+general {
+    gaps_in = 3
+    gaps_out = 6
+    border_size = 3
+    resize_on_border = true
+    col.active_border = rgba(ffffffee) rgba(bfbfbfb0) rgba(bfbfbfb0) rgba(ffffffee) 45deg
+    col.inactive_border = rgba(2a2a2ab0) rgba(3c3c3cb0) rgba(3c3c3cb0) rgba(2a2a2ab0) 45deg
+}
+
+
+decoration {
+    rounding = 5
+    active_opacity = .95
+    inactive_opacity = .90
+
+
+    blur {
+        enabled = yes
+        size = 5
+        passes = 4
+        new_optimizations = true
+        ignore_opacity = true
+        xray = false
+        noise = 0.0
+        popups = true
+    }
+
+    shadow {
+    	enabled = false
+    	ignore_window = true
+    	render_power = 5
+    	color = rgba(0f0f0fff)
+    	color_inactive = rgba(050505ff)
+    	range = 30
+    	offset = 0 0
+    	scale = 2
+    }
+
+}
+
+group {
+    col.border_inactive = rgba(1a1a1ab0)
+    col.border_active = rgba(ffffffee) rgba(bfbfbfb0) rgba(bfbfbfb0) rgba(ffffffee) 45deg
+
+    groupbar {
+      col.active = rgba(bfbfbfcc)
+      col.inactive = rgba(82828299)
+      font_family = JetBrainsMono NFM
+      font_size = 10
+      text_color = rgba(00000000)
+    }
+}
+
+
+layerrule=unset,waybar

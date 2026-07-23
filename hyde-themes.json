@@ -1,5 +1,105 @@
 [
   {
+    "THEME": "1-Bit",
+    "LINK": "https://github.com/amit-0i/1-Bit",
+    "OWNER": "https://github.com/amit-0i",
+    "DESCRIPTION": "Monochrome based theme",
+    "COLORSCHEME": [
+      "#131313",
+      "#FCFCFC"
+    ]
+  },
+  {
+    "THEME": "AncientAliens",
+    "LINK": "https://github.com/dim-ghub/AncientAliens",
+    "OWNER": "https://github.com/dim-ghub",
+    "DESCRIPTION": "A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning.",
+    "COLORSCHEME": [
+      "#09101C",
+      "#AAD5F0"
+    ]
+  },
+  {
+    "THEME": "LimeFrenzy",
+    "LINK": "https://github.com/xaicat/LimeFrenzy",
+    "OWNER": "https://github.com/xaicat",
+    "DESCRIPTION": "Lime’s rhythm splits the night, where chaos crafts the vibe.",
+    "COLORSCHEME": [
+      "#012315",
+      "#90C81F"
+    ]
+  },
+  {
+    "THEME": "Tundra",
+    "LINK": "https://github.com/Prof-Shiba/Tundra",
+    "OWNER": "https://github.com/Prof-Shiba",
+    "DESCRIPTION": "A Soothing, Pastel Tundra Theme.",
+    "COLORSCHEME": [
+      "#4A5F82",
+      "#D096AA"
+    ]
+  },
+  {
+    "THEME": "Crimson-Blue",
+    "LINK": "https://github.com/amit-0i/Crimson-Blue",
+    "OWNER": "https://github.com/amit-0i",
+    "DESCRIPTION": "Red with Blue vibes",
+    "COLORSCHEME": [
+      "#0A0005",
+      "#CCD7FF"
+    ]
+  },
+  {
+    "THEME": "Electra",
+    "LINK": "https://github.com/XBEAST1/Electra",
+    "OWNER": "https://github.com/XBEAST1",
+    "DESCRIPTION": "Where darkness meets brilliance",
+    "COLORSCHEME": [
+      "#1A242E",
+      "#ABB8C8"
+    ]
+  },
+  {
+    "THEME": "Grukai",
+    "LINK": "https://github.com/amit-0i/Grukai",
+    "OWNER": "https://github.com/amit-0i",
+    "DESCRIPTION": "Where retro warmth meets modern edge",
+    "COLORSCHEME": [
+      "#312219",
+      "#A3A365"
+    ]
+  },
+  {
+    "THEME": "Obsidian-Purple",
+    "LINK": "https://github.com/amit-0i/Obsidian-Purple",
+    "OWNER": "https://github.com/amit-0i",
+    "DESCRIPTION": "Where mystery meets elegance.",
+    "COLORSCHEME": [
+      "#07040C",
+      "#BDA8DC"
+    ]
+  },
+  {
+    "THEME": "Code Garden",
+    "LINK": "https://github.com/jacobfranco/Code-Garden",
+    "OWNER": "https://github.com/jacobfranco",
+    "DESCRIPTION": "A sleek and transparent, color-agnostic theme.",
+    "COLORSCHEME": [
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "THEME": "DoomBringers",
+    "LINK": "https://github.com/xaicat/DoomBringers",
+    "OWNER": "https://github.com/xaicat",
+    "DESCRIPTION": "When shadows catch fire, sharp edges leave their mark.",
+    "COLORSCHEME": [
+      "#351810",
+      "#FABD2F"
+    ]
+  },
+  {
     "THEME": "Bad Blood",
     "LINK": "https://github.com/HyDE-Project/hyde-gallery/tree/Bad-Blood",
     "OWNER": "https://github.com/HyDE-Project",
@@ -80,6 +180,16 @@
     ]
   },
   {
+    "THEME": "Catppuccin-Macchiato",
+    "LINK": "https://github.com/deepu105/hyde-theme-catppuccin-macchiato",
+    "OWNER": "https://github.com/deepu105",
+    "DESCRIPTION": "Catppuccin Macchiato with Mauve Accent",
+    "COLORSCHEME": [
+      "#c6a0f6",
+      "#11111b"
+    ]
+  },
+  {
     "THEME": "Decay Green",
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Decay-Green",
     "OWNER": "https://github.com/prasanthrangan",
@@ -150,16 +260,6 @@
     ]
   },
   {
-    "THEME": "Sci-fi",
-    "LINK": "https://github.com/KaranRaval123/Sci-fi",
-    "OWNER": "https://github.com/KaranRaval123",
-    "DESCRIPTION": "Sci-fi based theme",
-    "COLORSCHEME": [
-      "#0D55B2",
-      "#249CB6"
-    ]
-  },
-  {
     "THEME": "Synth Wave",
     "LINK": "https://github.com/HyDE-Project/hyde-themes/tree/Synth-Wave",
     "OWNER": "https://github.com/prasanthrangan",
@@ -201,7 +301,7 @@
   },
   {
     "THEME": "Abyssal-Wave",
-    "LINK": "https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave",
+    "LINK": "https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave/tree/main",
     "OWNER": "https://github.com/Itz-Abhishek-Tiwari",
     "DESCRIPTION": "Dive into the deep, where elegance meets the infinite night.",
     "COLORSCHEME": [
@@ -400,7 +500,7 @@
     ]
   },
   {
-    "THEME": "Amethyst Aura",
+    "THEME": "Amethyst-Aura",
     "LINK": "https://github.com/jackpawlik1/Amethyst-Aura",
     "OWNER": "https://github.com/jackpawlik1",
     "DESCRIPTION": "A vibrant purple-themed style with ethereal accents",
@@ -408,14 +508,187 @@
       "#5D69CE",
       "#A45785"
     ]
-  }
-]
-[
+  },
   {
     "THEME": "Nightbrew",
     "LINK": "https://github.com/jackpawlik1/Nightbrew",
     "OWNER": "https://github.com/jackpawlik1",
     "DESCRIPTION": "A rich, dark theme crafted for late-night productivity and sleek aesthetics.",
-    "COLORSCHEME": ["#1A1B26", "#A9B1D6"]
+    "COLORSCHEME": [
+      "#1A1B26",
+      "#A9B1D6"
+    ]
+  },
+  {
+    "THEME": "Virtual-Witches",
+    "LINK": "https://github.com/G00380316/virtual-witches",
+    "OWNER": "https://github.com/G00380316",
+    "DESCRIPTION": "HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon",
+    "COLORSCHEME": [
+      "#626880",
+      "#C6D0F5"
+    ]
+  },
+  {
+    "THEME": "Breezy Autumn",
+    "LINK": "https://github.com/Maroc02/Breezy-Autumn",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Autumn, what a cozy time...",
+    "COLORSCHEME": [
+      "#222222",
+      "#B36D43"
+    ]
+  },
+  {
+    "THEME": "Cosmic Blue",
+    "LINK": "https://github.com/Maroc02/Cosmic-Blue",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Out there, somewhere in our galaxy...",
+    "COLORSCHEME": [
+      "#444B6A",
+      "#7AA2F7"
+    ]
+  },
+  {
+    "THEME": "Moonlight",
+    "LINK": "https://github.com/Maroc02/Moonlight",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Gentle, soft moonlight lingers on my face...",
+    "COLORSCHEME": [
+      "#403C64",
+      "#40FFFF"
+    ]
+  },
+  {
+    "THEME": "Peace Of Mind",
+    "LINK": "https://github.com/Maroc02/Peace-Of-Mind",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Finally, some peace of mind...",
+    "COLORSCHEME": [
+      "#1F1F28",
+      "#E6C384"
+    ]
+  },
+  {
+    "THEME": "Timeless Dream",
+    "LINK": "https://github.com/Maroc02/Timeless-Dream",
+    "OWNER": "https://github.com/Maroc02",
+    "DESCRIPTION": "Maybe, it's all just a dream...",
+    "COLORSCHEME": [
+      "#252B37",
+      "#89DDFF"
+    ]
+  },
+  {
+    "THEME": "Joker",
+    "LINK": "https://github.com/saber-88/Joker",
+    "OWNER": "https://github.com/saber-88",
+    "DESCRIPTION": "Its for you Izumi.",
+    "COLORSCHEME": [
+      "#4B0082",
+      "#00FF66"
+    ]
+  },
+  {
+    "THEME": "Nier",
+    "LINK": "https://github.com/saber-88/Nier",
+    "OWNER": "https://github.com/saber-88",
+    "DESCRIPTION": "Green dominant Nier Inspired Theme.",
+    "COLORSCHEME": [
+      "#263227",
+      "#DDEAD0"
+    ]
+  },
+  {
+    "THEME": "Oregairu",
+    "LINK": "https://github.com/elritardato/Oregairu",
+    "OWNER": "https://github.com/elritardato",
+    "DESCRIPTION": "HyDE theme inspired by Oregairu",
+    "COLORSCHEME": [
+      "#2B3A67",
+      "#A7C7E7"
+    ]
+  },
+  {
+    "THEME": "Soulsborne",
+    "LINK": "https://github.com/elritardato/Soulsborne",
+    "OWNER": "https://github.com/elritardato",
+    "DESCRIPTION": "HyDE theme inspired by the Soulsborne series.",
+    "COLORSCHEME": [
+      "#0D0D0D",
+      "#E0701E"
+    ]
+  },
+  {
+    "THEME": "Chisa",
+    "LINK": "https://github.com/Frz013/Chisa",
+    "OWNER": "https://github.com/Frz013",
+    "DESCRIPTION": "HyDE theme inspired by Chisa from Wuthering Waves.",
+    "COLORSCHEME": [
+      "#d2546a",
+      "#201b25"
+    ]
+  },
+  {
+    "THEME": "DanDaDan",
+    "LINK": "https://github.com/aasaaDev/DanDaDan",
+    "OWNER": "https://github.com/aasaaDev",
+    "DESCRIPTION": "HyDE theme inspired by the anime DanDaDan.",
+    "COLORSCHEME": [
+      "000000",
+      "#d2546a"
+    ]
+  },
+  {
+    "THEME": "Agency",
+    "LINK": "https://github.com/CapGuizera/hyde-agency-themes",
+    "OWNER": "https://github.com/CapGuizera",
+    "DESCRIPTION": "NSA-inspired surveillance theme: dark navy, official seal wallpaper, TOP SECRET accents.",
+    "COLORSCHEME": [
+      "#04080F",
+      "#3B82F6"
+    ]
+  },
+  {
+    "THEME": "FBI",
+    "LINK": "https://github.com/CapGuizera/hyde-agency-themes",
+    "OWNER": "https://github.com/CapGuizera",
+    "DESCRIPTION": "FBI variant of the Agency collection: dark navy with the bureau seal.",
+    "COLORSCHEME": [
+      "#04080F",
+      "#3B82F6"
+    ]
+  },
+  {
+    "THEME": "CIA",
+    "LINK": "https://github.com/CapGuizera/hyde-agency-themes",
+    "OWNER": "https://github.com/CapGuizera",
+    "DESCRIPTION": "CIA variant of the Agency collection: dark navy with the agency seal.",
+    "COLORSCHEME": [
+      "#04080F",
+      "#3B82F6"
+    ]
+  },
+  {
+    "THEME": "MI6",
+    "LINK": "https://github.com/CapGuizera/hyde-agency-themes",
+    "OWNER": "https://github.com/CapGuizera",
+    "DESCRIPTION": "MI6 variant of the Agency collection: dark teal, cyan accent, typographic wallpaper.",
+    "COLORSCHEME": [
+      "#041011",
+      "#2DC9DC"
+    ]
+  
+  },
+  {
+    "THEME": "Drawbridge",
+    "LINK": "https://github.com/CapGuizera/hyde-agency-themes",
+    "OWNER": "https://github.com/CapGuizera",
+    "DESCRIPTION": "Keep on keeping on!.",
+    "COLORSCHEME": [
+      "#353842",
+      "#ADAE89"
+    ]
+  
   }
-] 
+]

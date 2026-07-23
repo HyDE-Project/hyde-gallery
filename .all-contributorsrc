@@ -1,0 +1,48 @@
+{
+  "projectName": "hyde-gallery",
+  "projectOwner": "HyDE-Project",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "amit-0i",
+      "name": "amit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208910917?v=4",
+      "profile": "https://github.com/amit-0i",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "Maroc02",
+      "name": "marocc",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124714164?v=4",
+      "profile": "https://github.com/Maroc02",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "jacobfranco",
+      "name": "jacob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58092206?v=4",
+      "profile": "https://github.com/jacobfranco",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "xaicat",
+      "name": "xaicat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/134217855?v=4",
+      "profile": "https://github.com/xaicat",
+      "contributions": [
+        "design"
+      ]
+    }
+  ]
+}

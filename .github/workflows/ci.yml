@@ -1,50 +1,94 @@
-name: Update README on Push
+name: Update README
 
 on:
   push:
     branches:
-      - hyde-gallery
+      - master
+  pull_request:
+    branches:
+      - master
+
+# Top-level permissions to be inherited by all jobs
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    # Explicitly set permissions for this job to ensure they're properly inherited
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.x"  # Use the latest Python version
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x" # Use the latest Python version
 
+      - name: Setup GitHub CLI
+        run: |
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt update
+          sudo apt install gh
 
-    - name: Pull the latest changes from remote main branch
-      run: |
-        git pull --no-rebase
+      - name: Run Python script to update README
+        run: |
+          python generate_readme.py
 
-    - name: Run Python script to update README
-      run: |
-        python generate_readme.py
+      - name: Commit changes if any
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add README.md
+          if git diff-index --cached --quiet HEAD; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update README with new data"
+          fi
 
-    - name: Commit changes if any
-      run: |
-        git config --local user.name "github-actions"
-        git config --local user.email "github-actions@github.com"
-        git add README.md
-        if git diff-index --cached --quiet HEAD; then
-          echo "No changes to commit."
-        else
-          git commit -m "Update README with new data"
-        fi
+      - name: Find changed theme files
+        if: github.event_name == 'pull_request'
+        id: changed_files
+        run: |
+          # Get list of changed files in the PR using GitHub CLI
+          PR_FILES=$(gh api repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files \
+            --jq '.[].filename' | grep -v ".github/" | head -1)
 
-    - name: Debug authentication
-      run: |
-        echo "Testing push permissions"
-        git push --dry-run https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+          # Extract theme directory name if it exists
+          if [[ $PR_FILES =~ ^([^/]+)/ ]]; then
+            THEME_DIR="${BASH_REMATCH[1]}"
+            echo "CHANGED_FILE=$THEME_DIR" >> $GITHUB_ENV
+            echo "Theme directory detected: $THEME_DIR"
+            echo "found=true" >> $GITHUB_OUTPUT
+          else
+            echo "No theme directory changes detected in PR"
+            echo "found=false" >> $GITHUB_OUTPUT
+          fi
 
-    - name: Push changes to remote repository
-      if: success()  # Ensures the step only runs if previous steps succeeded
-      run: |
-        git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+      - name: Generate theme comment
+        if: github.event_name == 'pull_request' && steps.changed_files.outputs.found == 'true'
+        run: |
+          python theme_comment.py
 
+      - name: Post comment on PR
+        if: github.event_name == 'pull_request' && steps.changed_files.outputs.found == 'true'
+        run: |
+          # Set the GitHub token for CLI authentication
+          echo ${{ secrets.GITHUB_TOKEN }} | gh auth login --with-token
+          # Post comment using GitHub CLI
+          gh pr comment ${{ github.event.pull_request.number }} --body-file pr_comment.md
+
+      - name: Push changes to remote repository
+        # Only push changes on push events to master, not on pull requests
+        if: github.event_name == 'push' && success()
+        run: |
+          # Using the built-in GITHUB_TOKEN with updated permissions
+          git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
