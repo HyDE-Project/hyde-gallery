@@ -27,6 +27,7 @@
 | [![1-Bit](https://placehold.co/180x50/131313/FCFCFC?text=1-Bit&font=Oswald)](#1-bit) | Monochrome based theme | [amit-0i](https://github.com/amit-0i) |
 | [![Oxo Carbon](https://placehold.co/180x50/161616/EE5396?text=Oxo+Carbon&font=Oswald)](#oxo-carbon) | Oxo Carbon based theme for Hyde | [rishav12s](https://github.com/rishav12s) |
 | [![Decay Green](https://placehold.co/180x50/14161E/95D3AF?text=Decay+Green&font=Oswald)](#decay-green) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Lock In](https://placehold.co/180x50/14171C/5C86A8?text=Lock+In&font=Oswald)](#lock-in) | The hour before anyone else is awake. Muted pre-dawn palette, hard borders, one cold blue that only marks what's focused. | [nsavvide](https://github.com/nsavvide) |
 | [![Abyssal-Wave](https://placehold.co/180x50/16161D/C8C093?text=Abyssal-Wave&font=Oswald)](#abyssal-wave) | Dive into the deep, where elegance meets the infinite night. | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
 | [![LimeFrenzy](https://placehold.co/180x50/012315/90C81F?text=LimeFrenzy&font=Oswald)](#limefrenzy) | Lime’s rhythm splits the night, where chaos crafts the vibe. | [xaicat](https://github.com/xaicat) |
 | [![Ever Blushing](https://placehold.co/180x50/141b1e/67b0e8?text=Ever+Blushing&font=Oswald)](#ever-blushing) | Ever-Blush inspired dark aesthetic minimal theme | [rishav12s](https://github.com/rishav12s) |
@@ -156,7 +157,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 <!-- GALLERY_START -->
 
-# Explore 69 worlds of color and imagination 🪄.
+# Explore 70 worlds of color and imagination 🪄.
 
 <a id="1-bit"></a>
 ### 1. 1-Bit
@@ -598,6 +599,17 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="lock-in"></a>
+### 40. Lock In
+
+**By:** [nsavvide](https://github.com/nsavvide)
+
+**Description:** The hour before anyone else is awake. Muted pre-dawn palette, hard borders, one cold blue that only marks what's focused.
+
+[![Lock In Preview](Lock%20In/preview.jpg)](https://github.com/nsavvide/Lock-In) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-5C86A8?style=flat&labelColor=14171C&color=14171C" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="mac-os"></a>
 ### 41. Mac OS
 
@@ -895,8 +907,19 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="vesper"></a>
+### 68. Vesper
+
+**By:** [KitsuneKode](https://github.com/KitsuneKode)
+
+**Description:** Near-black Vesper theme with mint, peach, and coral accents.
+
+[![Vesper Preview](Vesper/preview.jpg)](https://github.com/KitsuneKode/vesper-hyde-theme) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-99FFE4?style=flat&labelColor=101010&color=101010" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="virtual-witches"></a>
-### 68. Virtual-Witches
+### 69. Virtual-Witches
 
 **By:** [G00380316](https://github.com/G00380316)
 
@@ -907,7 +930,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="windows-11"></a>
-### 69. Windows 11
+### 70. Windows 11
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
