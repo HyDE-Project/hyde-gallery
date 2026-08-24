@@ -600,7 +600,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="lock-in"></a>
-### 40. Lock In
+### 41. Lock In
 
 **By:** [nsavvide](https://github.com/nsavvide)
 
@@ -611,7 +611,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="mac-os"></a>
-### 41. Mac OS
+### 42. Mac OS
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
@@ -622,7 +622,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="material-sakura"></a>
-### 42. Material Sakura
+### 43. Material Sakura
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -633,7 +633,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="mi6"></a>
-### 43. MI6
+### 44. MI6
 
 **By:** [CapGuizera](https://github.com/CapGuizera)
 
@@ -644,7 +644,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="monokai"></a>
-### 44. Monokai
+### 45. Monokai
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
 
@@ -655,7 +655,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="monterey-frost"></a>
-### 45. Monterey Frost
+### 46. Monterey Frost
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -666,7 +666,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="moonlight"></a>
-### 46. Moonlight
+### 47. Moonlight
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -677,7 +677,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="nier"></a>
-### 47. Nier
+### 48. Nier
 
 **By:** [saber-88](https://github.com/saber-88)
 
@@ -688,7 +688,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="nightbrew"></a>
-### 48. Nightbrew
+### 49. Nightbrew
 
 **By:** [jackpawlik1](https://github.com/jackpawlik1)
 
@@ -699,7 +699,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="nordic-blue"></a>
-### 49. Nordic Blue
+### 50. Nordic Blue
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -710,7 +710,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="obsidian-purple"></a>
-### 50. Obsidian-Purple
+### 51. Obsidian-Purple
 
 **By:** [amit-0i](https://github.com/amit-0i)
 
@@ -721,7 +721,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="one-dark"></a>
-### 51. One Dark
+### 52. One Dark
 
 **By:** [RAprogramm](https://github.com/RAprogramm)
 
@@ -732,7 +732,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="oregairu"></a>
-### 52. Oregairu
+### 53. Oregairu
 
 **By:** [elritardato](https://github.com/elritardato)
 
@@ -743,7 +743,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="oxo-carbon"></a>
-### 53. Oxo Carbon
+### 54. Oxo Carbon
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -754,7 +754,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="paranoid-sweet"></a>
-### 54. Paranoid Sweet
+### 55. Paranoid Sweet
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -765,7 +765,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="peace-of-mind"></a>
-### 55. Peace Of Mind
+### 56. Peace Of Mind
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -776,7 +776,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="pixel-dream"></a>
-### 56. Pixel Dream
+### 57. Pixel Dream
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -787,7 +787,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="rain-dark"></a>
-### 57. Rain Dark
+### 58. Rain Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -798,7 +798,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="red-stone"></a>
-### 58. Red Stone
+### 59. Red Stone
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
 
@@ -809,7 +809,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="rosé-pine"></a>
-### 59. Rosé Pine
+### 60. Rosé Pine
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -820,7 +820,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="scarlet-night"></a>
-### 60. Scarlet Night
+### 61. Scarlet Night
 
 **By:** [abenezerw](https://github.com/abenezerw)
 
@@ -831,7 +831,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="solarized-dark"></a>
-### 61. Solarized Dark
+### 62. Solarized Dark
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -842,7 +842,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="soulsborne"></a>
-### 62. Soulsborne
+### 63. Soulsborne
 
 **By:** [elritardato](https://github.com/elritardato)
 
@@ -853,7 +853,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="synth-wave"></a>
-### 63. Synth Wave
+### 64. Synth Wave
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -864,7 +864,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="timeless-dream"></a>
-### 64. Timeless Dream
+### 65. Timeless Dream
 
 **By:** [Maroc02](https://github.com/Maroc02)
 
@@ -875,7 +875,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="tokyo-night"></a>
-### 65. Tokyo Night
+### 66. Tokyo Night
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -886,7 +886,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="tundra"></a>
-### 66. Tundra
+### 67. Tundra
 
 **By:** [Prof-Shiba](https://github.com/Prof-Shiba)
 
@@ -897,24 +897,13 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="vanta-black"></a>
-### 67. Vanta Black
+### 68. Vanta Black
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
 **Description:** Vanta Black inspired theme having the deepest blacks
 
 [![Vanta Black Preview](Vanta%20Black/ss_1.png)](https://github.com/rishav12s/Vanta-Black) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-FFFFFF?style=flat&labelColor=000000&color=000000" alt="Back to Top" style="vertical-align: middle;"></a>
-
----
-
-<a id="vesper"></a>
-### 68. Vesper
-
-**By:** [KitsuneKode](https://github.com/KitsuneKode)
-
-**Description:** Near-black Vesper theme with mint, peach, and coral accents.
-
-[![Vesper Preview](Vesper/preview.jpg)](https://github.com/KitsuneKode/vesper-hyde-theme) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-99FFE4?style=flat&labelColor=101010&color=101010" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
