@@ -1,0 +1,51 @@
+name: Check Broken Links
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# Top-level permissions
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Check links in hyde-themes.json
+        id: link-check
+        run: |
+          python check_links.py
+
+      - name: Create issue for broken links
+        if: steps.link-check.outputs.has_broken_links == 'true'
+        run: |
+          # gh CLI is pre-installed on GitHub Actions runners
+          # Authenticate using GITHUB_TOKEN
+          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+          # Create issue with broken links
+          gh issue create \
+            --title "Broken Links Detected in hyde-themes.json" \
+            --label "bug" \
+            --body-file issue_body.md
+
+      - name: Report success
+        if: steps.link-check.outputs.has_broken_links != 'true'
+        run: |
+          echo "✅ All links in hyde-themes.json are accessible"
