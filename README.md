@@ -914,7 +914,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 **Description:** HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon
 
-[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/G00380316/virtual-witches) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C6D0F5?style=flat&labelColor=626880&color=626880" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/HyDE-Project/hyde-gallery/tree/master/Virtual-Witches) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C6D0F5?style=flat&labelColor=626880&color=626880" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
