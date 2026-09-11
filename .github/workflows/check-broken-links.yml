@@ -102,7 +102,7 @@ jobs:
           "
 
           gh issue create \
-            --title "Broken Links Detected in hyde-themes.json" \
+            --title "Issue: Broken Links Detected in hyde-themes.json" \
             --label "bug" \
             --body-file /tmp/issue_body.md
 
