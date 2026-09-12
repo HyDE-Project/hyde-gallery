@@ -62,7 +62,7 @@
 | [![Synth Wave](https://placehold.co/180x50/495495/ff7edb?text=Synth+Wave&font=Oswald)](#synth-wave) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
 | [![Tundra](https://placehold.co/180x50/4A5F82/D096AA?text=Tundra&font=Oswald)](#tundra) | A Soothing, Pastel Tundra Theme. | [Prof-Shiba](https://github.com/Prof-Shiba) |
 | [![Red Stone](https://placehold.co/180x50/7E5655/C94342?text=Red+Stone&font=Oswald)](#red-stone) | Hot Red based theme | [mahaveergurjar](https://github.com/mahaveergurjar) |
-| [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](#virtual-witches) | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon | [G00380316](https://github.com/G00380316) |
+| [![Virtual-Witches](https://placehold.co/180x50/626880/C6D0F5?text=Virtual-Witches&font=Oswald)](#virtual-witches) | HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon | [Delcado19](https://github.com/Delcado19) |
 | [![Windows 11](https://placehold.co/180x50/277AE6/D2DCFD?text=Windows+11&font=Oswald)](#windows-11) | We love Windows! Wew | [T-Crypt](https://github.com/T-Crypt) |
 | [![Amethyst-Aura](https://placehold.co/180x50/5D69CE/A45785?text=Amethyst-Aura&font=Oswald)](#amethyst-aura) | A vibrant purple-themed style with ethereal accents | [jackpawlik1](https://github.com/jackpawlik1) |
 | [![Chisa](https://placehold.co/180x50/d2546a/201b25?text=Chisa&font=Oswald)](#chisa) | HyDE theme inspired by Chisa from Wuthering Waves. | [Frz013](https://github.com/Frz013) |
@@ -910,11 +910,11 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 <a id="virtual-witches"></a>
 ### 69. Virtual-Witches
 
-**By:** [G00380316](https://github.com/G00380316)
+**By:** [Delcado19](https://github.com/Delcado19)
 
 **Description:** HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon
 
-[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/G00380316/virtual-witches) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C6D0F5?style=flat&labelColor=626880&color=626880" alt="Back to Top" style="vertical-align: middle;"></a>
+[![Virtual-Witches Preview](Virtual-Witches/preview.jpg)](https://github.com/Delcado19/virtual-witches) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-C6D0F5?style=flat&labelColor=626880&color=626880" alt="Back to Top" style="vertical-align: middle;"></a>
 
 ---
 
