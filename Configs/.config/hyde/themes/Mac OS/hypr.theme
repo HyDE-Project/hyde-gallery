@@ -21,25 +21,26 @@ exec = Hyde sddm set $SDDM_THEME
 general {
     gaps_in = 4
     gaps_out = 10
-    border_size = 2
-    col.active_border = rgba(2770C0FF) rgba(1E4C84FF) 45deg
-    col.inactive_border = rgba(A44185CC) rgba(012339CC) 45deg
+    border_size = 1
+    col.active_border = rgba(0A84FFFF)
+    col.inactive_border = rgba(3A3A3C99)
     layout = dwindle
     resize_on_border = true
 }
 
 group {
-    col.border_active = rgba(2770C0FF) rgba(1E4C84FF) 45deg
-    col.border_inactive = rgba(A44185CC) rgba(012339CC) 45deg
-    col.border_locked_active = rgba(2770C0FF) rgba(1E4C84FF) 45deg
-    col.border_locked_inactive = rgba(A44185CC) rgba(012339CC) 45deg
+    col.border_active = rgba(0A84FFFF)
+    col.border_inactive = rgba(3A3A3C99)
+    col.border_locked_active = rgba(0A84FFFF)
+    col.border_locked_inactive = rgba(3A3A3C99)
 }
 
 
 decoration {
     rounding = 9
-    active_opacity = 0.85
-    inactive_opacity = 0.85
+    # Keep content windows opaque; translucency belongs to functional surfaces like Waybar.
+    active_opacity = 1.0
+    inactive_opacity = 1.0
 
     shadow {
         enabled = true
@@ -47,7 +48,7 @@ decoration {
         offset = 0 0
         range = 15
         render_power = 1
-        color = 0x80ffffff
+        color = 0x66000000
     }
 
     blur {

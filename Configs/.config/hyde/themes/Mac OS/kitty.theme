@@ -1,67 +1,68 @@
 $HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
 
+# Apple dark semantic colors keep terminal content legible without tinting it through the wallpaper.
 # The basic colors
-foreground              #080808
-background              #BCCCDC
-selection_foreground    #3E3E3E
-selection_background    #C1DDFF
+foreground              #F5F5F7
+background              #1C1C1E
+selection_foreground    #FFFFFF
+selection_background    #0066CC
 
 # Cursor colors
-cursor                  #C7C7C7
-cursor_text_color       #FEFFFF
+cursor                  #F5F5F7
+cursor_text_color       #1C1C1E
 
 # URL underline color when hovering with mouse
-url_color               #FADA16
+url_color               #64D2FF
 
 # OS Window titlebar colors
 wayland_titlebar_color system
 macos_titlebar_color system
 
 # Tab bar colors
-active_tab_foreground   #FADA16
-active_tab_background   #1F2326
-inactive_tab_foreground #1F2326
-inactive_tab_background #FADA16
-tab_bar_background      #1F2326
+active_tab_foreground   #F5F5F7
+active_tab_background   #3A3A3C
+inactive_tab_foreground #AEAEB2
+inactive_tab_background #1C1C1E
+tab_bar_background      #121214
 
 # Colors for marks (marked text in the terminal)
-mark1_foreground #1467e3
-mark1_background #1F2326
-mark2_foreground #1467e3
-mark2_background #1F2326
-mark3_foreground #1467e3
-mark3_background #1F2326
+mark1_foreground #1C1C1E
+mark1_background #FFD60A
+mark2_foreground #1C1C1E
+mark2_background #32D74B
+mark3_foreground #1C1C1E
+mark3_background #64D2FF
 
 # The 16 terminal colors
 
 # black
-color0  #252525
-color8  #555555
+color0  #1C1C1E
+color8  #8E8E93
 
 # red
-color1  #BE7472
-color9  #FF9900
+color1  #FF453A
+color9  #FF6961
 
 # green
-color2  #709772
-color10 #97BB98
+color2  #32D74B
+color10 #6EE780
 
 # yellow
-color3  #989772
-color11 #FEFDBC
+color3  #FFD60A
+color11 #FFE066
 
 # blue
-color4  #7199BC
-color12 #9FBDDE
+color4  #409CFF
+color12 #74B9FF
 
 # magenta
-color5  #727399
-color13 #989ABC
+color5  #BF5AF2
+color13 #DA8FFF
 
 # cyan
-color6  #719899
-color14 #6FBBBC
+color6  #64D2FF
+color14 #8BE5FF
 
 # white
-color7  #7F7F7F
-color15 #FEFFFF
+color7  #D1D1D6
+color15 #FFFFFF
