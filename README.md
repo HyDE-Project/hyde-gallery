@@ -4,6 +4,13 @@ A repo for themes I Stole from the rightful Owner.
 
 ## Theme List
 
+The Mac OS theme selects HyDE's `macos` Waybar layout and matching `macos.css`
+on theme/color updates through `$WAYBAR_LAYOUT` in `hypr.theme`. This requires
+HyDE's theme-layout support; older versions can apply the same preset with
+`hyde-shell waybar --set macos`. Themes without this setting keep the selected
+Waybar layout. Leaving a theme preset restores the layout and CSS selected before
+entering it. A manual selection within a preset lasts until the next theme/color update.
+
 | Theme-Theme | vsCode Theme Extension | Owner |
 |------------|------------|------------| 
 | Catppuccin-Mocha | catppuccin.catppuccin-vsc~Catppuccin Mocha | https://github.com/prasanthrangan/hyprdots | 

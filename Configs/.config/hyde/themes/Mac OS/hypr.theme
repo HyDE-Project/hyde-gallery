@@ -5,6 +5,9 @@ $GTK_THEME = MacOS
 $ICON_THEME =MacOS
 $CURSOR_THEME=MacOS-Cursor
 
+# Pair the menu-bar layout with macos.css on theme updates (HyDE #2089).
+$WAYBAR_LAYOUT = macos
+
 exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
